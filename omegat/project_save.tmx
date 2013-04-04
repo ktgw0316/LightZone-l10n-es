@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.7.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Exit without saving files&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125133Z">
+        <seg>&lt;html&gt;Guardar todos los archivos y salir  &lt;b&gt;(Recommendado)&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Save all files and exit  &lt;b&gt;(Recommended)&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125133Z">
+        <seg>LightZone se ha quedado sin memoria y se apagarÃ¡ ahora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124935Z">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking for update...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125134Z">
+        <seg>Ninguno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125135Z">
+        <seg>Imprimir esta imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard changes to this image and start over</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125136Z">
+        <seg>Guardar esta imagen en un nuevo formato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't Save</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125132Z">
+        <seg>Guardar como...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error reading the file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124938Z">
+        <seg>Error leyendo el archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid image file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124937Z">
+        <seg>Archivo de imagen nulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone has run out of memory and will now shut down.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125133Z">
+        <seg>Â¿Que deseas hacer?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previewing...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125132Z">
+        <seg>FallÃ³ al restaurar desde preferencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125136Z">
+        <seg>Descartar cambios a esta imagen y empezar de nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save to $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LightZone file, "$1" can't locate its image file, "$2", but it found "$3" instead.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125133Z">
+        <seg>El archivo LightZone, "$1" no puede localizar su archivo de imagen, "$2".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amount of memory LightZone should use</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125134Z">
+        <seg>Copias de miniaturas de tus imagenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unrecognized image format</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124939Z">
+        <seg>Formato de imagen desconocido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported camera</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124940Z">
+        <seg>Camara sin soporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported color profile</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124943Z">
+        <seg>Perfil de color sin soporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_F</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125138Z">
+        <seg>VK_F</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
