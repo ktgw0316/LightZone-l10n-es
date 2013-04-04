@@ -22,10 +22,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>About LightZone</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135532Z">
+        <seg>Guia de usuario en linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135532Z">
+        <seg>VK_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch Name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135603Z">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bring All to Front</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135531Z">
+        <seg>Zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124935Z">
         <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot undo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135544Z">
+        <seg>Deshacer</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135513Z">
+        <seg>Escoger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Recent Folders</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135529Z">
+        <seg>VK_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125135Z">
@@ -46,10 +102,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't find a Style named "$1"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135605Z">
+        <seg>No se puede guardar este Estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't find the original image</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135522Z">
+        <seg>Archivo de imagen nulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't interpret the file "$1" as a Style</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135605Z">
+        <seg>No se encuentra un Estilo llamado "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125136Z">
         <seg>Guardar esta imagen en un nuevo formato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to replace it?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135538Z">
+        <seg>Escoger</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,7 +174,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135544Z">
+        <seg>Rehacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Metadata</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135546Z">
+        <seg>Reemplazandolo sobreescribirÃ¡ su contenido actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Newer Java required</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135600Z">
+        <seg>Guardar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Regions Defined</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135531Z">
+        <seg>Borrar regiones seleccionadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135522Z">
+        <seg>Abrir</seg>
       </tuv>
     </tu>
     <tu>
@@ -99,6 +222,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135619Z">
+        <seg>Imprimir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replacing it will overwrite its current contents.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135546Z">
+        <seg>Deseas reemplazarlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135557Z">
+        <seg>Mostrar regiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125136Z">
@@ -107,7 +254,31 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save To:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135518Z">
+        <seg>Guardar en $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save to $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135520Z">
+        <seg>Enviar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135529Z">
+        <seg>P</seg>
       </tuv>
     </tu>
     <tu>
@@ -148,6 +319,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124943Z">
         <seg>Perfil de color sin soporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_A</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135532Z">
+        <seg>Acerca de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_B</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135529Z">
+        <seg>Eliminar archivos recientes</seg>
       </tuv>
     </tu>
     <tu>
