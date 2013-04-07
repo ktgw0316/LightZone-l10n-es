@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 x $2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123631Z">
+        <seg>$1 x $2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120237Z">
@@ -246,14 +254,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cannot undo</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135544Z">
-        <seg>Deshacer</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Check for Update...</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120901Z">
@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't rename "$1" to "$2".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123143Z">
+        <seg>No se puede renombrar "$1" a "$2".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't save this Style</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120030Z">
@@ -488,7 +496,7 @@
       <tuv lang="EN-US">
         <seg>Crash reports sent to Light Crafts are anonymous except for the sender's IP address.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120241Z">
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124630Z">
         <seg>Los informes de caida enviados a Light Crafts son anonimos excepto la direcciÃ³n IP del que lo envia.</seg>
       </tuv>
     </tu>
@@ -534,10 +542,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124107Z">
+        <seg>Borrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Selected Regions</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120849Z">
         <seg>Borrar regiones seleccionadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete the selected image</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T122844Z">
+        <seg>Borrar la imagen seleccionada</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,8 +800,8 @@
       <tuv lang="EN-US">
         <seg>Hide Regions</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120453Z">
-        <seg>Mostrar regiones</seg>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123854Z">
+        <seg>Ocultar regiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,10 +822,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import Style</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124136Z">
+        <seg>Importar Estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import as Style</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120009Z">
         <seg>Importar como Estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124130Z">
+        <seg>Importar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +922,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120242Z">
         <seg>Light Crafts no incrusta datos personales de ninguna clase en estos informes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light Crafts, Inc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124706Z">
+        <seg>Light Crafts, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124704Z">
+        <seg>LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,8 +1056,8 @@
       <tuv lang="EN-US">
         <seg>Loading...</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135544Z">
-        <seg>Rehacer</seg>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123228Z">
+        <seg>Cargando...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,14 +1134,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Newer Java required</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135600Z">
-        <seg>Guardar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>No Browser</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120842Z">
@@ -1128,8 +1176,8 @@
       <tuv lang="EN-US">
         <seg>No Regions Defined</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135531Z">
-        <seg>Borrar regiones seleccionadas</seg>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124325Z">
+        <seg>No hay regiones definidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1186,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120817Z">
         <seg>No hay estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Styles defined</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124429Z">
+        <seg>No hay estilos definidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revert</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T122727Z">
+        <seg>Revertir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Revert...</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120752Z">
@@ -1538,14 +1602,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120852Z">
         <seg>Rotar a la derecha</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rotate the image</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135557Z">
-        <seg>Mostrar regiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1778,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120240Z">
         <seg>Enviar informe anonimo a Light Crafts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send report to Light Crafts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124622Z">
+        <seg>Enviar informe a Light Crafts</seg>
       </tuv>
     </tu>
     <tu>
@@ -2326,10 +2390,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zoom in</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123335Z">
+        <seg>Acercar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom out</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123336Z">
+        <seg>Alejar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>alt 0</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120855Z">
         <seg>alt 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://crash.lightcrafts.com:8080/post-dump/test</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124702Z">
+        <seg>http://crash.lightcrafts.com:8080/post-dump/test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.lightcrafts.com/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124707Z">
+        <seg>http://www.lightcrafts.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.lightcrafts.com/help/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124708Z">
+        <seg>http://www.lightcrafts.com/help/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.lightcrafts.com/learning/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124709Z">
+        <seg>http://www.lightcrafts.com/learning/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.lightcrafts.com/products/lightzone/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124705Z">
+        <seg>http://www.lightcrafts.com/products/lightzone/</seg>
       </tuv>
     </tu>
     <tu>
