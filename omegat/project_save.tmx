@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"$1" already exists as a folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160356Z">
+        <seg>"$1" ya existe como carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"$1" already exists.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T121058Z">
@@ -22,10 +30,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 is an empty file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160411Z">
+        <seg>$1 es un archivo vacio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>$1 not found</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160409Z">
+        <seg>$1 no encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 x $2</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123631Z">
         <seg>$1 x $2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(LightZone must restart for this to take effect.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160158Z">
+        <seg>(LightZone debe reiniciarse para que los cambios tengan efecto.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The previews will be recomputed automatically.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160221Z">
+        <seg>(Los previos serÃ¡n recalculados automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>...and $1 more</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160914Z">
+        <seg>...y $1 mas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160128Z">
+        <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>16 Bits/Channel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161031Z">
+        <seg>16 Bits/Canal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8 Bits/Channel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161031Z">
+        <seg>8 Bits/Canal</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +142,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A high limit enables LightZone operate faster and smoother; a low limit leaves more memory for other applications.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160237Z">
+        <seg>A high limit enables LightZone operate faster and smoother; a low limit leaves more memory for other applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new version ($1) of $2 is available.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120402Z">
-        <seg>Una nueva versiÃ³n ($1) de $2 esta disponible.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162412Z">
+        <seg>Una nueva versión ($1) de $2 esta disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +182,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161037Z">
+        <seg>Opciones avanzadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the reset, LightZone must quit.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160228Z">
+        <seg>Despues de reinicializar los ajustes, debes salir de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120335Z">
         <seg>Todo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All the Time</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160246Z">
+        <seg>All the Time</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +230,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An updated version of LightZone is required to read this Style</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
+        <seg>Es necesaria una version actualizada de LightZone para leer este archivo Estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An updated version of LightZone is required to read this file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160409Z">
+        <seg>Es necesaria una version actualizada de LightZone para leer este archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160400Z">
+        <seg>Alguno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aperture</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160338Z">
+        <seg>Apertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application Managed Colors</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161304Z">
+        <seg>Colores gestionados por la aplicacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Style</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120816Z">
@@ -138,6 +282,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120433Z">
         <seg>Aplicar Estilo a la imagen seleccionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply toolstack to the selected image</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160327Z">
+        <seg>Aplicar herramienta de apilado a la imagen seleccionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to clear the global browser cache?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160220Z">
+        <seg>Estas seguro de querer limpiar la cache global del navegador?</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Save</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160201Z">
+        <seg>Auto Guardar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-save is now on.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120211Z">
@@ -174,10 +342,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Between Region Changes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160247Z">
+        <seg>Between Region Changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bezier Regions</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120849Z">
         <seg>Regiones bezier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bit Depth</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161035Z">
+        <seg>Profundidad de bits</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browser Cache</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160210Z">
+        <seg>Cache de Navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browser Layout</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120856Z">
@@ -254,6 +446,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot redo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
+        <seg>No se puede rehacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot undo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
+        <seg>No se puede deshacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capture Time</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160337Z">
+        <seg>Fecha de captura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capture time</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161055Z">
+        <seg>Fecha de captura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Center Image</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161303Z">
+        <seg>Centrar Imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check for Update</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160224Z">
+        <seg>Comprobar actualizacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check for Update...</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120901Z">
@@ -262,10 +502,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check here to show the Video Learning Center window when LightZone starts.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160209Z">
+        <seg>Marcar aqui para mostrar la ventana del centro de videos de aprendizaje cuando LightZone se abre .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checking for update...</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120339Z">
-        <seg>Comprobando actualizaciÃ³n...</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162355Z">
+        <seg>Comprobando actualización...</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +522,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T121056Z">
         <seg>Escoger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the browser sort criteria</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160323Z">
+        <seg>Seleccionar el criterio de busqueda del navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear cache</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160219Z">
+        <seg>Limpiar cache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clear...</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T122327Z">
@@ -330,6 +594,62 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120434Z">
         <seg>Contraer pilas de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Handling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161307Z">
+        <seg>Administracion de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Management</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161306Z">
+        <seg>Gestion de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Profile</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160917Z">
+        <seg>perfil de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Selection Mask</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160412Z">
+        <seg>Mascara de seleccion de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Common aspect ratios</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160401Z">
+        <seg>Relacion de aspecto comunes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compression</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161035Z">
+        <seg>Compresion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160355Z">
+        <seg>Continuar</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,10 +702,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy Tools</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160341Z">
+        <seg>Copiar Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy the selected image to another folder</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120424Z">
         <seg>Copiar la imagen seleccionada a otra carpeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy toolstack to clipboard from selected image</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160326Z">
+        <seg>Copiar herramienta de apilado de la imagen seleccionada al portapapeles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160255Z">
+        <seg>Copyright</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't clear the global browser cache.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160222Z">
+        <seg>No se puede limpiar la cache global del navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't convert $1</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120054Z">
@@ -406,10 +758,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't delete $1.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160354Z">
+        <seg>No se puede borrar $1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't delete an older version of "$1"</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120057Z">
-        <seg>No se puede borrar una versiÃ³n antigua de "$1"</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162014Z">
+        <seg>No se puede borrar una versión antigua de "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +778,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135605Z">
         <seg>No se puede guardar este Estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't find an Image path attribute</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160411Z">
+        <seg>No se puede encontrar un atributo de ruta de la imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't find an Image tag</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160411Z">
+        <seg>No se puede encontra una etiqueta de la imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +830,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't move $1 to the Recycle Bin.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160352Z">
+        <seg>No se puede mover $1 a la papelera de reciclaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't move $1 to the Trash.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160351Z">
+        <seg>No se puede mover $1 a la papelera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't print</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120047Z">
@@ -478,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't rename the XMP file for "$1".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160356Z">
+        <seg>No se puede renombrar el archivo XMP para "$1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't save this Style</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120030Z">
@@ -496,8 +896,32 @@
       <tuv lang="EN-US">
         <seg>Crash reports sent to Light Crafts are anonymous except for the sender's IP address.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124630Z">
-        <seg>Los informes de caida enviados a Light Crafts son anonimos excepto la direcciÃ³n IP del que lo envia.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162105Z">
+        <seg>Los informes de caida enviados a Light Crafts son anonimos excepto la dirección IP del que lo envia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160259Z">
+        <seg>Creator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crop</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160404Z">
+        <seg>Recorte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crop Mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160915Z">
+        <seg>Modo recorte</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,10 +990,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160347Z">
+        <seg>Borrar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direct Save</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160249Z">
+        <seg>Direct Save</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120440Z">
         <seg>Descartar cambios a esta imagen y empezar de nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display the path of the current folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160322Z">
+        <seg>Mostrar la ruta del directorio actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,10 +1070,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160044Z">
+        <seg>Hecho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download Now</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120344Z">
         <seg>Descargar ahora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Bezier Regions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160409Z">
+        <seg>Dibujar regiones Bezier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Polygon Regions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160408Z">
+        <seg>Dibujar regiones poligonales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Spline Regions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160409Z">
+        <seg>Dibujar regiones Spline</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +1154,38 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120855Z">
         <seg>DiseÃ±o de editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enforce aspect ratio constraints</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160402Z">
+        <seg>Forzar relacion de aspecto proporcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter copyright text here.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160257Z">
+        <seg>Enter copyright text here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter copyright text in the space above.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160255Z">
+        <seg>Enter copyright text in the space above.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter creator here.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160258Z">
+        <seg>Enter creator here.</seg>
       </tuv>
     </tu>
     <tu>
@@ -728,16 +1240,16 @@
       <tuv lang="EN-US">
         <seg>Failed to restore from preferences</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120147Z">
-        <seg>FallÃ³ al restaurar desde preferencias</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162028Z">
+        <seg>Falló al restaurar desde preferencias</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Failed to save preferences</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120147Z">
-        <seg>FallÃ³ al guardar preferencias</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162023Z">
+        <seg>Falló al guardar preferencias</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +1258,30 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120740Z">
         <seg>Archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160336Z">
+        <seg>Nombre de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160338Z">
+        <seg>TamaÃ±o de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Type</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160336Z">
+        <seg>Tipo de archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,8 +1304,24 @@
       <tuv lang="EN-US">
         <seg>Finish editing and return to Browse Mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120438Z">
-        <seg>Terminando ediciÃ³n y volviendo al modo Navegador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162418Z">
+        <seg>Terminando edición y volviendo al modo Navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit image to screen</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160905Z">
+        <seg>Ajustar la imagen a pantalla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal Length</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160339Z">
+        <seg>Profundidad focal</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +1342,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160254Z">
+        <seg>General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160211Z">
+        <seg>Global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go forward to recently selected folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160309Z">
+        <seg>Avanzar al directorio seleccionado recientemente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Height</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161407Z">
+        <seg>Alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120304Z">
@@ -798,10 +1382,90 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Crop Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160406Z">
+        <seg>Ocultar herramienta de recorte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Image Types</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160348Z">
+        <seg>Ocultar tipo de imagenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Inner Region</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161939Z">
+        <seg>Ocultar RegiÃ³n Interior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Previews</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160412Z">
+        <seg>Ocultar previos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Proof Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160415Z">
+        <seg>Ocultar herramienta de prueba de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Regions</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123854Z">
         <seg>Ocultar regiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Rotate Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160854Z">
+        <seg>Ocultar herramienta rotacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide print proofing tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160415Z">
+        <seg>Ocultar herramienta de pueba de color de impresora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide the Crop Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160407Z">
+        <seg>Ocultar la herramienta de recorte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide the Rotate Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160847Z">
+        <seg>Ocultar la herramienta de rotacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Histogram</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160412Z">
+        <seg>Histograma</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,6 +1482,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120102Z">
         <seg>Si no guardas, los cambios se perderan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have a fast hard disk, using a folder on it will enable LightZone to operate faster.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160243Z">
+        <seg>If you have a fast hard disk, using a folder on it will enable LightZone to operate faster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you open an new image while you are still editing another image, LightZone can automatically save your work, or it can ask you what to do.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160206Z">
+        <seg>Si abres una nueva imagen mientras sigues editando otra, LightZone puede guardar automaticamente tu trabajo, o puede preguntarte que hacer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interactive Rendering</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160245Z">
+        <seg>Interactive Rendering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internal Error</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120243Z">
@@ -918,6 +1606,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161309Z">
+        <seg>Izquierda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lens</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160339Z">
+        <seg>Lente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lift Tools</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160333Z">
+        <seg>Herramientas de mejora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Crafts embeds no personal data of any kind in these reports.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120242Z">
@@ -938,6 +1650,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124704Z">
         <seg>LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone File Error</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160357Z">
+        <seg>Error de archivo LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +1694,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings Info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160232Z">
+        <seg>LightZone Settings Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings Reset</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160234Z">
+        <seg>LightZone Settings Reset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Settings couldn't be reset</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120333Z">
@@ -986,6 +1722,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120307Z">
         <seg>Los ajustes de LightZone guardan lo que ocurrio la ultima vez que usaste LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings remember what was going on the last time you used LightZone: your recently used files and folders; recent window positions and sizes; and so on.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160225Z">
+        <seg>Los ajustes de LightZone recuerdan que se estaba haciendo la ultima vez que utilizaste LightZone: tus archivos y carpetas usadas recientmente; posiciones y tamaÃ±os de ventanas recientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,8 +1752,8 @@
       <tuv lang="EN-US">
         <seg>LightZone copied $1 to $2, but could not delete the old image from $3.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120444Z">
-        <seg>LightZone copiÃ³ $1 a $2, pero no puede borar la imagen antigua desde $3.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162422Z">
+        <seg>LightZone copió $1 a $2, pero no puede borar la imagen antigua desde $3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1024,8 +1768,8 @@
       <tuv lang="EN-US">
         <seg>LightZone failed to start last time.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120259Z">
-        <seg>LightZone fallÃ³ al comenzar la Ãºltima vez.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162323Z">
+        <seg>LightZone falló al comenzar la Ãºltima vez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone must now quit.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160233Z">
+        <seg>LightZone debe cerrarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading Classes</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120132Z">
@@ -1058,6 +1810,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123228Z">
         <seg>Cargando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160210Z">
+        <seg>Local</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Memory Limit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160235Z">
+        <seg>Memory Limit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metadata</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135546Z">
@@ -1106,6 +1874,94 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120843Z">
         <seg>Minimizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160908Z">
+        <seg>Modos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modification Time</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162450Z">
+        <seg>Fecha de modificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move "$1" to the Recycle Bin?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160352Z">
+        <seg>Mover "$1" a la papelera de reciclaje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move "$1" to the Trash?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160349Z">
+        <seg>Mover "$1" a la papelera?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move $1 selected images to the Recycle Bin?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160352Z">
+        <seg>Mover $1 las imagenes seleccionadas a la papelera de reciclaje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move $1 selected images to the Trash?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160350Z">
+        <seg>Mover $1 imagenes selecionadas a la papelera?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Recycle Bin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160352Z">
+        <seg>Mover a la papelera de reciclaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Recycle Bin...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160346Z">
+        <seg>Mover a la Papelera de reciclado...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Trash</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160350Z">
+        <seg>Mover a la papelera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Trash...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160347Z">
+        <seg>Mover a la Papelera...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Computer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160335Z">
+        <seg>Mi Ordenador</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open LightZone files to rotate them</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160340Z">
+        <seg>Abre los archivos LightZone para rotarlos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Normally</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120021Z">
@@ -1318,10 +2182,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orient</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160330Z">
+        <seg>Orientar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orig</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160909Z">
+        <seg>Orig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160912Z">
+        <seg>Original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160239Z">
+        <seg>Original Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>P</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120819Z">
         <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Setup...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161302Z">
+        <seg>Configuracion de pagina...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,6 +2246,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste Tools...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160342Z">
+        <seg>Pegar Herramientas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick a new scratch folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160244Z">
+        <seg>Pick a new scratch folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pixel Sampler</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160413Z">
+        <seg>Selector de muestra de pixel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pixels per inch</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161312Z">
+        <seg>Pixels por pulgada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please connect, then try again.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120358Z">
@@ -1354,6 +2290,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120848Z">
         <seg>Regiones poligonales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161308Z">
+        <seg>Posicion</seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,8 +2320,8 @@
       <tuv lang="EN-US">
         <seg>Previewing...</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125132Z">
-        <seg>FallÃ³ al restaurar desde preferencias</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162046Z">
+        <seg>Previsualizando...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1414,6 +2358,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Printer Managed Colors</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161305Z">
+        <seg>Colores gestionados por la impresora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printer Profile</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160433Z">
+        <seg>Perfil de impresora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printing...</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120044Z">
@@ -1422,10 +2382,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proof</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160420Z">
+        <seg>Prueba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Q</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120821Z">
         <seg>Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quality</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161030Z">
+        <seg>Calidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,6 +2422,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160332Z">
+        <seg>Valorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate $1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160348Z">
+        <seg>Clasificar $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate $1 and Select Next</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160348Z">
+        <seg>Clasificar $1 y seleccionar siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate the selected image</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160328Z">
+        <seg>Valorar la imagen seleccionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rating</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120841Z">
@@ -1454,10 +2462,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Really delete these files?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160354Z">
+        <seg>Deseas realmente borrar estos archivos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Really delete this file?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160353Z">
+        <seg>Deseas realmente borrar este archivo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recent Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160240Z">
+        <seg>Recent Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recently used files and directories</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120311Z">
         <seg>Archivos y directorios usados recientemente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recently used files and folders</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160230Z">
+        <seg>Recently used files and folders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recently used settings for tools</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160229Z">
+        <seg>Recently used settings for tools</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,6 +2526,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160343Z">
+        <seg>Refrescar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Region Mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160916Z">
+        <seg>Modo region</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120847Z">
@@ -1490,6 +2554,54 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120401Z">
         <seg>Recordarmelo mas tarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Aspect Ratio Constraints</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160402Z">
+        <seg>Eliminar relacion de aspecto proporcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Rating</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162453Z">
+        <seg>Borrar clasificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Rating and Select Next</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162501Z">
+        <seg>Borrar clasificación y seleccionar siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename $1 to:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160355Z">
+        <seg>Renombrar $1 a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160346Z">
+        <seg>Renombrar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rendering Intent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160845Z">
+        <seg>Intento de renderizado</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,10 +2638,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset Crop</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160408Z">
+        <seg>Reiniciar recorte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset LightZone Settings</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120331Z">
         <seg>Reinicializar los ajustes de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset Rotate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160407Z">
+        <seg>Reiniciar rotacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset the crop bounds</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160403Z">
+        <seg>Reiniciar los limites del recorte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset the rotation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160403Z">
+        <seg>Reiniciar la rotacion</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,10 +2702,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resetting these can help fix some problems, but loses your customizations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160226Z">
+        <seg>Reinicializando estos ajustes puedes solucionar algunos problemas, pero pierdes tus personalizaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resetting your LightZone Settings may fix this.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120300Z">
         <seg>Restableciendo los ajustes de LightZone se puede arreglar esto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resize To</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160919Z">
+        <seg>Redimensionar a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restoring LightZone Settings means LightZone will work the way it did when it was new.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160231Z">
+        <seg>Restoring LightZone Settings means LightZone will work the way it did when it was new.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,6 +2758,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160407Z">
+        <seg>Rotar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate 90 degrees clockwise</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160325Z">
+        <seg>Rotar 90 grados en sentido horario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate 90 degrees counter-clockwise</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160325Z">
+        <seg>Rotar 90 grados en sentido antihorario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate Left</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120851Z">
@@ -1598,10 +2790,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate Left and Select Next</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160342Z">
+        <seg>Rotar a la izquierda y Seleccionar Siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160915Z">
+        <seg>Modo rotar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate Right</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120852Z">
         <seg>Rotar a la derecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Right and Select Next</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160343Z">
+        <seg>Rotar a la derecha y Seleccionar Siguiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1634,6 +2850,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120206Z">
         <seg>Guardar cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save LightZone files as:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160253Z">
+        <seg>Save LightZone files as:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save to Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160237Z">
+        <seg>Save to Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save without asking from now on.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120210Z">
@@ -1722,6 +2954,30 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120036Z">
         <seg>Guardando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161406Z">
+        <seg>Escalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale to Fit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161405Z">
+        <seg>Escalar para ajustar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scaled Print Size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161402Z">
+        <seg>Escalar tamaño de impresion</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scratch Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160241Z">
+        <seg>Scratch Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120223Z">
@@ -1758,10 +3022,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160334Z">
+        <seg>Seleccionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160358Z">
+        <seg>Seleccionar todo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Recent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160357Z">
+        <seg>Seleccionar reciente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160349Z">
+        <seg>Seleccionar una carpeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select an Image</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120201Z">
         <seg>Seleccionar una imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select only most recent version from each stack</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162446Z">
+        <seg>Seleccionar solo la versión mas reciente de cada pila</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,10 +3102,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160236Z">
+        <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Browser</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120842Z">
         <seg>Mostrar navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Crop Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160405Z">
+        <seg>Mostrar herramienta de recorte</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,10 +3134,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Image Types</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160347Z">
+        <seg>Mostrar tipo de imagenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show LightZone Help</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120422Z">
         <seg>Mostrar la ayuda de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Previews</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160411Z">
+        <seg>Mostrar previos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,6 +3174,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Rotate Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160853Z">
+        <seg>Mostar herramienta royacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Tool Titles</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160252Z">
+        <seg>Show Tool Titles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Video Learning Center</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160208Z">
+        <seg>Mostrar centro de videos de aprendizaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show and hide the titled borders around buttons in the LightZone toolbars.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160252Z">
+        <seg>Show and hide the titled borders around buttons in the LightZone toolbars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show in Explorer</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120820Z">
@@ -1850,6 +3218,46 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120820Z">
         <seg>Mostrar en Finder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160345Z">
+        <seg>Mostrar en Carpeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show original image while pressed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160411Z">
+        <seg>Mostrar imagen original mientras se presiona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show print proofing tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160414Z">
+        <seg>Mostrar herramienta de pueba de color de impresora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the Crop Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160406Z">
+        <seg>Mostrar la herramienta de recorte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the Rotate Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160846Z">
+        <seg>Mostrar la herramienta de rotacion</seg>
       </tuv>
     </tu>
     <tu>
@@ -1902,10 +3310,82 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shutter Speed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160338Z">
+        <seg>Velocidad del disparador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slide right to increase thumbnail size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160323Z">
+        <seg>Deslizar a la derecha para incrementar el tamaÃ±o de las minaturas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smaller image files will make LightZone faster.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160300Z">
+        <seg>Smaller image files will make LightZone faster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160334Z">
+        <seg>Orden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort Ascending</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160324Z">
+        <seg>Orden ascendente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort Descending</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160324Z">
+        <seg>Orden descendente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the image file format LightZone should use when it saves your work.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160300Z">
+        <seg>Specify the image file format LightZone should use when it saves your work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spline Regions</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120849Z">
         <seg>Regiones spline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stack</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160334Z">
+        <seg>Apilar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard Cursor Mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160914Z">
+        <seg>Modo cursor standard</seg>
       </tuv>
     </tu>
     <tu>
@@ -1930,6 +3410,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120405Z">
         <seg>Estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swap width and height</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160403Z">
+        <seg>Cambia la anchura y la altura</seg>
       </tuv>
     </tu>
     <tu>
@@ -1966,18 +3454,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then select an image in the browser, and click the button next to the copyright field in the browser's metadata area to write this copyright text to an image file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160256Z">
+        <seg>Then select an image in the browser, and click the button next to the copyright field in the browser's metadata area to write this copyright text to an image file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There was a problem checking for an update.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120340Z">
-        <seg>Hubo un problema comprobando la actualizaciÃ³n.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162400Z">
+        <seg>Hubo un problema comprobando la actualización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Style has no version number</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
+        <seg>Este estilo no tiene numero de version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can fix lots of problems, but loses your customizations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160231Z">
+        <seg>This can fix lots of problems, but loses your customizations.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>This can fix some problems, but loses your customizations and slows things down for a short while.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120327Z">
-        <seg>Esto puede arreglar ciertos problemas, pero pierdes tus personalizaciÃ³nes y ralentiza las cosas durante un cierto tiempo</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162349Z">
+        <seg>Esto puede arreglar ciertos problemas, pero pierdes tus personalizaciónes y ralentiza las cosas durante un cierto tiempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This file has no version number</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160409Z">
+        <seg>Este archivo no tiene numero de version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This folder can go in the same place as its images ("Local"), or into one central location ("Global").</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162430Z">
+        <seg>Esta carpeta puede estar en el mismo lugar que las imagenes ("Local")o en una localización centralizada ("Global").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the folder that LightZone will use to store data temporarily while you edit your photos.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160242Z">
+        <seg>This is the folder that LightZone will use to store data temporarily while you edit your photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This reset will restore LightZone to its factory settings.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160227Z">
+        <seg>Este reajuste restaurarÃ¡ LightZone a sus ajustes de fabrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will discard preview images and orientations saved by the LightZone browser.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160220Z">
+        <seg>Esto desecharÃ¡ los previos de las imagenes y las orientaciones guardadas por el navegador de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail Progress</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160322Z">
+        <seg>Progreso de las miniaturas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail Size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160334Z">
+        <seg>TamaÃ±o de miniatura</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,10 +3558,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To save work, the browser saves previews in a special cache folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160218Z">
+        <seg>Para guardar el trabajo,el navegador guardar previos en una carpeta especial de cache.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tools</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120411Z">
         <seg>Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161309Z">
+        <seg>Arriba</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,6 +3610,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124939Z">
         <seg>Formato de imagen desconocido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unselect All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160358Z">
+        <seg>Deseleccionar todo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2278,6 +3870,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When Regions are Done</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160248Z">
+        <seg>When Regions are Done</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When checked, using LightZone as the external editor for another application will cause LightZone to save your photo directly back to the other application when you select File &gt; Save.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160250Z">
+        <seg>When checked, using LightZone as the external editor for another application will cause LightZone to save your photo directly back to the other application when you select File &gt; Save.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When drawing regions, LightZone can update the photo in real time, it can update only between changes, or it can wait until regions are done.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160246Z">
+        <seg>When drawing regions, LightZone can update the photo in real time, it can update only between changes, or it can wait until regions are done.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When launched, LightZone can automatically check if a newer version is available for download.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160224Z">
+        <seg>Cuando estÃ¡ cargado, LightZone puede comprobar automaticamente si hay diponible una nuevar version para descargarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When saving your photo for the first time, the file chooser can automatically display the folder where your original photo came from, or it can display the last folder where LightZone saved something.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160238Z">
+        <seg>When saving your photo for the first time, the file chooser can automatically display the folder where your original photo came from, or it can display the last folder where LightZone saved something.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161407Z">
+        <seg>Ancho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Window</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120843Z">
@@ -2342,10 +3982,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may have to restore orientations manually using the browser's rotate buttons.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160221Z">
+        <seg>Tienes que restaurar manualente las orientaciones usando los botones de rotar del navegador.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your computer needs to be connected to the internet to check for an update.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120353Z">
-        <seg>Tu ordenador necesita estar conectado a internet para comprobar la actualizaciÃ³n.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162407Z">
+        <seg>Tu ordenador necesita estar conectado a internet para comprobar la actualización.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2354,6 +4002,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120825Z">
         <seg>Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone Mapper Zones</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160412Z">
+        <seg>Mapa de zonas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2394,6 +4050,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123335Z">
         <seg>Acercar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom one-to-one</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160904Z">
+        <seg>Zoom uno a uno</seg>
       </tuv>
     </tu>
     <tu>
@@ -2454,6 +4118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>pixels</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160918Z">
+        <seg>pixels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>shift S</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120816Z">
@@ -2485,5 +4157,15 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/ui/editor/Locale.properties</prop>
+      <prop type="id">ShowProofActionName</prop>
+      <tuv lang="EN-US">
+        <seg>Show Proof Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160758Z">
+        <seg>Mostar herramienta de prueba de color</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
