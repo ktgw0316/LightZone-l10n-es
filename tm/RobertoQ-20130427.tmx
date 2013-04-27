@@ -25,7 +25,7 @@
         <seg>	Window positions and sizes</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>	Posiciones y tamaÃ±os de ventana</seg>             
+        <seg>	Posiciones y tamaños de ventana</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -65,7 +65,7 @@
         <seg>To save work, the browser saves previews in a special cache folder.  This folder can go in the same place as its images (&quot;Local&quot;), or into one central location (&quot;Global&quot;).</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Para guardar el trabajo,el navegador guardar previos en una carpeta especial de cache. Esta carpeta puede estar en el mismo lugar que las imagenes (&quot;Local&quot;)o en una localizaciÃ³n centralizada (&quot;Global&quot;). </seg>             
+        <seg>Para guardar el trabajo,el navegador guardar previos en una carpeta especial de cache. Esta carpeta puede estar en el mismo lugar que las imagenes (&quot;Local&quot;)o en una localización centralizada (&quot;Global&quot;). </seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -89,7 +89,7 @@
         <seg>Scaled Print Size</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Escalar tamaÃ±o de impresion</seg>             
+        <seg>Escalar tamaño de impresion</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -121,7 +121,7 @@
         <seg>This reset will restore LightZone to its factory settings.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Este reajuste restaurarÃ¡ LightZone a sus ajustes de fabrica.</seg>             
+        <seg>Este reajuste restaurará LightZone a sus ajustes de fabrica.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -145,7 +145,7 @@
         <seg>Thumbnail Size</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>TamaÃ±o de miniatura</seg>             
+        <seg>Tamaño de miniatura</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -745,7 +745,7 @@
         <seg>There was a problem checking for an update.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Hubo un problema comprobando la actualizaciÃ³n.</seg>             
+        <seg>Hubo un problema comprobando la actualización.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -817,7 +817,7 @@
         <seg>LightZone has encountered an internal error.  What would you like to do?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>LightZone ha encontrado un error interno. Â¿Que deseas hacer?</seg>             
+        <seg>LightZone ha encontrado un error interno. ¿Que deseas hacer?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -825,7 +825,7 @@
         <seg>Do you want to search for it?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Â¿Quieres buscarlo?</seg>             
+        <seg>¿Quieres buscarlo?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -857,7 +857,7 @@
         <seg>Would you like to replace it?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Â¿Deseas reemplazarlo?</seg>             
+        <seg>¿Deseas reemplazarlo?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -905,7 +905,7 @@
         <seg>This trial copy of LightZone for Linux has expired.  You need to get new one.  This copy won't run any more.  Sorry.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Esta copia de prueba de LightZone para Linux ha expirado. Debe obtener una nueva. Esta copia no funcionarÃ¡ mas. Lo sentimos.</seg>             
+        <seg>Esta copia de prueba de LightZone para Linux ha expirado. Debe obtener una nueva. Esta copia no funcionará mas. Lo sentimos.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -913,7 +913,7 @@
         <seg>Couldn't delete an older version of &quot;$1&quot;</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>No se puede borrar una versiÃ³n antigua de &quot;$1&quot;</seg>             
+        <seg>No se puede borrar una versión antigua de &quot;$1&quot;</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -977,7 +977,7 @@
         <seg>Crash reports sent to Light Crafts are anonymous except for the sender's IP address.  Light Crafts embeds no personal data of any kind in these reports.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Los informes de caida enviados a Light Crafts son anonimos excepto la direcciÃ³n IP del que lo envia.  Light Crafts no incrusta datos personales de ninguna clase en estos informes.</seg>             
+        <seg>Los informes de caida enviados a Light Crafts son anonimos excepto la dirección IP del que lo envia.  Light Crafts no incrusta datos personales de ninguna clase en estos informes.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1041,7 +1041,7 @@
         <seg>Failed to restore from preferences</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>FallÃ³ al restaurar desde preferencias</seg>             
+        <seg>Falló al restaurar desde preferencias</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1049,7 +1049,7 @@
         <seg>Make LightZone behave like LightZone Basic: turn off the image browser; and save TIFF images automatically, skipping the usual file dialog.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Hacer que LightZone se comporte como LightZone basico: desactivar el navegador de imÃ¡genes; and save TIFF images automaticallyy guardar imagenes TIFF automaticamante, saltandose el dialogo habitual de archivos.</seg>             
+        <seg>Hacer que LightZone se comporte como LightZone basico: desactivar el navegador de imágenes; and save TIFF images automaticallyy guardar imagenes TIFF automaticamante, saltandose el dialogo habitual de archivos.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1121,7 +1121,7 @@
         <seg>Select only most recent version from each stack</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Seleccionar solo la versiÃ³n mas reciente de cada pila</seg>             
+        <seg>Seleccionar solo la versión mas reciente de cada pila</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1177,7 +1177,7 @@
         <seg>This trial copy of LightZone for Linux will expire tomorrow at $1.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Esta copia de prueba de LighZone para Linux expirarÃ¡ maÃ±ana a las $1.</seg>             
+        <seg>Esta copia de prueba de LighZone para Linux expirará mañana a las $1.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1193,7 +1193,7 @@
         <seg>A new version ($1) of $2 is available.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Una nueva versiÃ³n ($1) de $2 esta disponible.</seg>             
+        <seg>Una nueva versión ($1) de $2 esta disponible.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1249,7 +1249,7 @@
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>&lt;html&gt;Continuar  (El programa se volverÃ¡ ahora inestable)&lt;/html&gt;</seg>             
+        <seg>&lt;html&gt;Continuar  (El programa se volverá ahora inestable)&lt;/html&gt;</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1425,7 +1425,7 @@
         <seg>Show Inner Region</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Mostrar RegiÃ³n Interior</seg>             
+        <seg>Mostrar Región Interior</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1489,7 +1489,7 @@
         <seg>Remove Rating</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Borrar clasificaciÃ³n</seg>             
+        <seg>Borrar clasificación</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1553,7 +1553,7 @@
         <seg>Save changes to $1?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Â¿Guardar cambios a $1?</seg>             
+        <seg>¿Guardar cambios a $1?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1633,7 +1633,7 @@
         <seg>$1 images selected</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>$1 imÃ¡genes seleccionadas</seg>             
+        <seg>$1 imágenes seleccionadas</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1681,7 +1681,7 @@
         <seg>Finish editing and return to Browse Mode</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Terminando ediciÃ³n y volviendo al modo Navegador</seg>             
+        <seg>Terminando edición y volviendo al modo Navegador</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1769,7 +1769,7 @@
         <seg>Browser Layout</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>DiseÃ±o de navegador</seg>             
+        <seg>Diseño de navegador</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1777,7 +1777,7 @@
         <seg>When launched, LightZone can automatically check if a newer version is available for download.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Cuando estÃ¡ cargado, LightZone puede comprobar automaticamente si hay diponible una nuevar version para descargarse.</seg>             
+        <seg>Cuando está cargado, LightZone puede comprobar automaticamente si hay diponible una nuevar version para descargarse.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1809,7 +1809,7 @@
         <seg>This will discard preview images and orientations saved by the LightZone browser.  (The previews will be recomputed automatically.  You may have to restore orientations manually using the browser's rotate buttons.)</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Esto desecharÃ¡ los previos de las imagenes y las orientaciones guardadas por el navegador de LightZone.  (Los previos serÃ¡n recalculados automaticamente. Tienes que restaurar manualente las orientaciones usando los botones de rotar del navegador.)</seg>             
+        <seg>Esto desechará los previos de las imagenes y las orientaciones guardadas por el navegador de LightZone.  (Los previos serán recalculados automaticamente. Tienes que restaurar manualente las orientaciones usando los botones de rotar del navegador.)</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -1825,7 +1825,7 @@
         <seg>Slide right to increase thumbnail size</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Deslizar a la derecha para incrementar el tamaÃ±o de las minaturas</seg>             
+        <seg>Deslizar a la derecha para incrementar el tamaño de las minaturas</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -2121,7 +2121,7 @@
         <seg>Is one of these the right image?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Â¿Es uno de estos la imagen correcta?</seg>             
+        <seg>¿Es uno de estos la imagen correcta?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -2169,7 +2169,7 @@
         <seg>LightZone failed to start last time.  Resetting your LightZone Settings may fix this.  Would you like to try resetting your LightZone Settings?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>LightZone fallÃ³ al comenzar la Ãºltima vez.  Restableciendo los ajustes de LightZone se puede arreglar esto.  Â¿Deseas intentar restablecer tus ajustes de LightZone?</seg>             
+        <seg>LightZone falló al comenzar la última vez.  Restableciendo los ajustes de LightZone se puede arreglar esto.  ¿Deseas intentar restablecer tus ajustes de LightZone?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -2185,7 +2185,7 @@
         <seg>This trial copy of LightZone for Linux will expire today at $1.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Esta copia de prueba de LighZone para Linux expirarÃ¡ hoy a las $1.</seg>             
+        <seg>Esta copia de prueba de LighZone para Linux expirará hoy a las $1.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -2393,7 +2393,7 @@
         <seg>Is this a LightZone Style file?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Â¿Es este un archivo de Estilo de LightZone?</seg>             
+        <seg>¿Es este un archivo de Estilo de LightZone?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -2457,7 +2457,7 @@
         <seg>Is this right?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Â¿Es esto correcto?</seg>             
+        <seg>¿Es esto correcto?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -2673,7 +2673,7 @@
         <seg>Resetting LightZone Settings means LightZone will work the way it did when it was new.  This can fix some problems, but loses your customizations and slows things down for a short while.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Reinicializando los ajustes de LightZone significa que funcionarÃ¡ de la manera que lo hacia al principio.  Esto puede arreglar ciertos problemas, pero pierdes tus personalizaciÃ³nes y ralentiza las cosas durante un cierto tiempo</seg>             
+        <seg>Reinicializando los ajustes de LightZone significa que funcionará de la manera que lo hacia al principio.  Esto puede arreglar ciertos problemas, pero pierdes tus personalizaciónes y ralentiza las cosas durante un cierto tiempo</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -2769,7 +2769,7 @@
         <seg>Add</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>AÃ±adir</seg>             
+        <seg>Añadir</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -2841,7 +2841,7 @@
         <seg>Are you sure you want to quit LightZone?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Â¿Estas seguro de querer salir de LightZone?</seg>             
+        <seg>¿Estas seguro de querer salir de LightZone?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -2881,7 +2881,7 @@
         <seg>Save changes to this document before closing?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Â¿Guardar cambios a este documento antes de cerrar?</seg>             
+        <seg>¿Guardar cambios a este documento antes de cerrar?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -2937,7 +2937,7 @@
         <seg>Remove Rating and Select Next</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Borrar clasificaciÃ³n y seleccionar siguiente</seg>             
+        <seg>Borrar clasificación y seleccionar siguiente</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -2969,7 +2969,7 @@
         <seg>Failed to save preferences</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>FallÃ³ al guardar preferencias</seg>             
+        <seg>Falló al guardar preferencias</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3097,7 +3097,7 @@
         <seg>You can upgrade to the full-featured version of LightZone now.  Full LightZone includes an image browser that lets you see and organize your pictures.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Puedes actualizar a la versiÃ³n completa ahora. La versiÃ³n completa incluye un navegador de imagenes que permite ver y organizar las mismas.</seg>             
+        <seg>Puedes actualizar a la versión completa ahora. La versión completa incluye un navegador de imagenes que permite ver y organizar las mismas.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3105,7 +3105,7 @@
         <seg>Modification Time</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Fecha de modificaciÃ³n</seg>             
+        <seg>Fecha de modificación</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3241,7 +3241,7 @@
         <seg>Set the angle of rotation in degrees</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Ajuste el Ã¡ngulo de giro en grados</seg>             
+        <seg>Ajuste el ángulo de giro en grados</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3265,7 +3265,7 @@
         <seg>Checking for update...</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Comprobando actualizaciÃ³n...</seg>             
+        <seg>Comprobando actualización...</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3297,7 +3297,7 @@
         <seg>Hide Inner Region</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Ocultar RegiÃ³n Interior</seg>             
+        <seg>Ocultar Región Interior</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3313,7 +3313,7 @@
         <seg>Editor Layout</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>DiseÃ±o de editor</seg>             
+        <seg>Diseño de editor</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3329,7 +3329,7 @@
         <seg>LightZone Settings remember what was going on the last time you used LightZone: your recently used files and folders; recent window positions and sizes; and so on.  Resetting these can help fix some problems, but loses your customizations.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Los ajustes de LightZone recuerdan que se estaba haciendo la ultima vez que utilizaste LightZone: tus archivos y carpetas usadas recientmente; posiciones y tamaÃ±os de ventanas recientes. Reinicializando estos ajustes puedes solucionar algunos problemas, pero pierdes tus personalizaciones.</seg>             
+        <seg>Los ajustes de LightZone recuerdan que se estaba haciendo la ultima vez que utilizaste LightZone: tus archivos y carpetas usadas recientmente; posiciones y tamaños de ventanas recientes. Reinicializando estos ajustes puedes solucionar algunos problemas, pero pierdes tus personalizaciones.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3425,7 +3425,7 @@
         <seg>The LightZone file, &quot;$1&quot; can't locate its image file, &quot;$2&quot;, but it found &quot;$3&quot; instead.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>El archivo LightZone, &quot;$1&quot; no puede localizar su archivo de imagen, &quot;$2&quot;, pero encontrÃ³ &quot;$3&quot; en su lugar.</seg>             
+        <seg>El archivo LightZone, &quot;$1&quot; no puede localizar su archivo de imagen, &quot;$2&quot;, pero encontró &quot;$3&quot; en su lugar.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3457,7 +3457,7 @@
         <seg>This trial copy of LightZone for Linux will expire in $1 days.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Esta copia de prueba de LighZone para Linux expirarÃ¡ en $1 dias.</seg>             
+        <seg>Esta copia de prueba de LighZone para Linux expirará en $1 dias.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3577,7 +3577,7 @@
         <seg>Resetting LightZone Settings will restore LightZone to its factory settings.  Are you sure you want to reset?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Los ajustes de LightZone restauraran LightZone a sus ajustes de fabrica.  Â¿Estas seguro de querer reinicializarlo?</seg>             
+        <seg>Los ajustes de LightZone restauraran LightZone a sus ajustes de fabrica.  ¿Estas seguro de querer reinicializarlo?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3697,7 +3697,7 @@
         <seg>LightZone has run out of memory and will now shut down.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>LightZone se ha quedado sin memoria y se apagarÃ¡ ahora.</seg>             
+        <seg>LightZone se ha quedado sin memoria y se apagará ahora.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3761,7 +3761,7 @@
         <seg>Would you like to upgrade to full LightZone now?</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Â¿Quieres actualizar a la version completa de LightZone ahora?</seg>             
+        <seg>¿Quieres actualizar a la version completa de LightZone ahora?</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3809,7 +3809,7 @@
         <seg>LightZone copied $1 to $2, but could not delete the old image from $3.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>LightZone copiÃ³ $1 a $2, pero no puede borar la imagen antigua desde $3.</seg>             
+        <seg>LightZone copió $1 a $2, pero no puede borar la imagen antigua desde $3.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -3985,7 +3985,7 @@
         <seg>Your computer needs to be connected to the internet to check for an update. Please connect, then try again.</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>Tu ordenador necesita estar conectado a internet para comprobar la actualizaciÃ³n. Por favor conectate e intentalo de nuevo.</seg>             
+        <seg>Tu ordenador necesita estar conectado a internet para comprobar la actualización. Por favor conectate e intentalo de nuevo.</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
@@ -4001,7 +4001,7 @@
         <seg>File Size</seg>               
       </tuv>                             
       <tuv lang="ES">      
-        <seg>TamaÃ±o de archivo</seg>             
+        <seg>Tamaño de archivo</seg>             
       </tuv>                             
     </tu>                                
     <tu>                                 
