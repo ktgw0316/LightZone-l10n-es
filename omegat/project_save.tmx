@@ -24,8 +24,8 @@
       <tuv lang="EN-US">
         <seg>$1 images selected</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120204Z">
-        <seg>$1 imÃ¡genes seleccionadas</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163653Z">
+        <seg>$1 imágenes seleccionadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>(The previews will be recomputed automatically.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160221Z">
-        <seg>(Los previos serÃ¡n recalculados automaticamente.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163712Z">
+        <seg>(Los previos serán recalculados automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120237Z">
-        <seg>&lt;html&gt;Continuar  (El programa se volverÃ¡ ahora inestable)&lt;/html&gt;</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163700Z">
+        <seg>&lt;html&gt;Continuar  (El programa se volverá ahora inestable)&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>Add</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120846Z">
-        <seg>AÃ±adir</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163333Z">
+        <seg>Añadir</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,16 +304,16 @@
       <tuv lang="EN-US">
         <seg>Are you sure you want to quit LightZone?</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120108Z">
-        <seg>Â¿Estas seguro de querer salir de LightZone?</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163128Z">
+        <seg>¿Estas seguro de querer salir de LightZone?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Are you sure you want to reset?</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120330Z">
-        <seg>Â¿Estas seguro de querer reinicializarlo?</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163217Z">
+        <seg>¿Estas seguro de querer reinicializarlo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="EN-US">
         <seg>Browser Layout</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120856Z">
-        <seg>DiseÃ±o de navegador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163342Z">
+        <seg>Diseño de navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,6 +434,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120852Z">
         <seg>CLOSE_BRACKET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't Launch LightZone</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164101Z">
+        <seg>No se puede iniciar LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +982,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Point</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162830Z">
+        <seg>Borrar Punto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Region</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162831Z">
+        <seg>Borrar Region</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Selected Regions</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120849Z">
@@ -1032,8 +1056,8 @@
       <tuv lang="EN-US">
         <seg>Do you want to search for it?</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120218Z">
-        <seg>Â¿Quieres buscarlo?</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163141Z">
+        <seg>¿Quieres buscarlo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1152,8 +1176,8 @@
       <tuv lang="EN-US">
         <seg>Editor Layout</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120855Z">
-        <seg>DiseÃ±o de editor</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163337Z">
+        <seg>Diseño de editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -1272,8 +1296,8 @@
       <tuv lang="EN-US">
         <seg>File Size</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160338Z">
-        <seg>TamaÃ±o de archivo</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163425Z">
+        <seg>Tamaño de archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,10 +1310,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>File number</seg>
+        <seg>File name</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120940Z">
-        <seg>		</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164250Z">
+        <seg>Nombre de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164300Z">
+        <seg>Tamaño de archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1321,6 +1353,14 @@
         <seg>Focal Length</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160339Z">
+        <seg>Profundidad focal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal length</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164311Z">
         <seg>Profundidad focal</seg>
       </tuv>
     </tu>
@@ -1400,8 +1440,8 @@
       <tuv lang="EN-US">
         <seg>Hide Inner Region</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161939Z">
-        <seg>Ocultar RegiÃ³n Interior</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162812Z">
+        <seg>Ocultar Región Interior</seg>
       </tuv>
     </tu>
     <tu>
@@ -1576,24 +1616,24 @@
       <tuv lang="EN-US">
         <seg>Is one of these the right image?</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120214Z">
-        <seg>Â¿Es uno de estos la imagen correcta?</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163134Z">
+        <seg>¿Es uno de estos la imagen correcta?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Is this a LightZone Style file?</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120001Z">
-        <seg>Â¿Es este un archivo de Estilo de LightZone?</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163115Z">
+        <seg>¿Es este un archivo de Estilo de LightZone?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Is this right?</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120216Z">
-        <seg>Â¿Es esto correcto?</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163138Z">
+        <seg>¿Es esto correcto?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1728,8 +1768,8 @@
       <tuv lang="EN-US">
         <seg>LightZone Settings remember what was going on the last time you used LightZone: your recently used files and folders; recent window positions and sizes; and so on.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160225Z">
-        <seg>Los ajustes de LightZone recuerdan que se estaba haciendo la ultima vez que utilizaste LightZone: tus archivos y carpetas usadas recientmente; posiciones y tamaÃ±os de ventanas recientes.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163347Z">
+        <seg>Los ajustes de LightZone recuerdan que se estaba haciendo la ultima vez que utilizaste LightZone: tus archivos y carpetas usadas recientmente; posiciones y tamaños de ventanas recientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1768,8 +1808,8 @@
       <tuv lang="EN-US">
         <seg>LightZone failed to start last time.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162323Z">
-        <seg>LightZone falló al comenzar la Ãºltima vez.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162950Z">
+        <seg>LightZone falló al comenzar la última vez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1782,10 +1822,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone has examined /proc/cpuinfo on this computer and found "$1", with no SSE2 flag set.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164104Z">
+        <seg>LightZone ha examinado /proc/cpuinfo on este ordenador y encuentra "$1", sin instrucciones SSE2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone has run out of memory and will now shut down.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120231Z">
-        <seg>LightZone se ha quedado sin memoria y se apagarÃ¡ ahora.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163656Z">
+        <seg>LightZone se ha quedado sin memoria y se apagará ahora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1794,6 +1842,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160233Z">
         <seg>LightZone debe cerrarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone on Linux requires a CPU supporting the SSE2 instruction set.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164102Z">
+        <seg>LightZone en Linux requiere una CPU que soporte el conjunto de instrucciones SSE2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage Styles</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164044Z">
+        <seg>Administrar estilos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Styles...</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120817Z">
@@ -1864,8 +1928,8 @@
       <tuv lang="EN-US">
         <seg>Metadata</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135546Z">
-        <seg>Reemplazandolo sobreescribirÃ¡ su contenido actual.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163824Z">
+        <seg>Reemplazandolo sobreescribirá su contenido actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2534,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Region Change</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162943Z">
+        <seg>Cambiar region</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Region Mode</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160916Z">
@@ -2616,8 +2688,8 @@
       <tuv lang="EN-US">
         <seg>Replacing it will overwrite its current contents.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T121101Z">
-        <seg>Reemplazandolo sobreescribirÃ¡ su contenido actual.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163706Z">
+        <seg>Reeplazandola sobreescribiras el contenido actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset the rotation angle</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163508Z">
+        <seg>Reiniciar el angulo de rotacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset...</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T122436Z">
@@ -2688,8 +2768,8 @@
       <tuv lang="EN-US">
         <seg>Resetting LightZone Settings means LightZone will work the way it did when it was new.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120326Z">
-        <seg>Reinicializando los ajustes de LightZone significa que funcionarÃ¡ de la manera que lo hacia al principio.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163703Z">
+        <seg>Reinicializando los ajustes de LightZone significa que funcionará de la manera que lo hacia al principio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2822,6 +2902,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate the image</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163507Z">
+        <seg>Rotar la imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image (fine)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163508Z">
+        <seg>Rotar la imagen (fino)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image 90 degrees clockwise</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163510Z">
+        <seg>Rotar la imagen 90 grados en sentido horario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image 90 degrees counterclockwise</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163510Z">
+        <seg>Rotar la imagen 90 grados en sentido antihorario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>S</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120815Z">
@@ -2888,16 +3000,16 @@
       <tuv lang="EN-US">
         <seg>Save changes to $1?</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120205Z">
-        <seg>Â¿Guardar cambios a $1?</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163131Z">
+        <seg>¿Guardar cambios a $1?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Save changes to this document before closing?</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120101Z">
-        <seg>Â¿Guardar cambios a este documento antes de cerrar?</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163124Z">
+        <seg>¿Guardar cambios a este documento antes de cerrar?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3102,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the angle of rotation in degrees</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164031Z">
+        <seg>Ajuste el ángulo de giro en grados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160236Z">
@@ -3138,6 +3258,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160347Z">
         <seg>Mostrar tipo de imagenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Inner Region</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162830Z">
+        <seg>Mostrar Región Interior</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,10 +3446,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shutter speed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164303Z">
+        <seg>Velocidad del disparador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slide right to increase thumbnail size</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160323Z">
-        <seg>Deslizar a la derecha para incrementar el tamaÃ±o de las minaturas</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163355Z">
+        <seg>Deslizar a la derecha para incrementar el tamaño de las minaturas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3518,18 +3654,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This requirement was introduced with version 2.4, in May 2007.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164103Z">
+        <seg>Este requisito fue introducido en la version 2.4, en Mayo 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This reset will restore LightZone to its factory settings.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160227Z">
-        <seg>Este reajuste restaurarÃ¡ LightZone a sus ajustes de fabrica.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163719Z">
+        <seg>Este reajuste restaurará LightZone a sus ajustes de fabrica.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>This will discard preview images and orientations saved by the LightZone browser.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160220Z">
-        <seg>Esto desecharÃ¡ los previos de las imagenes y las orientaciones guardadas por el navegador de LightZone.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163709Z">
+        <seg>Esto desechará los previos de las imagenes y las orientaciones guardadas por el navegador de LightZone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3544,8 +3688,8 @@
       <tuv lang="EN-US">
         <seg>Thumbnail Size</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160334Z">
-        <seg>TamaÃ±o de miniatura</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163358Z">
+        <seg>Tamaño de miniatura</seg>
       </tuv>
     </tu>
     <tu>
@@ -3554,6 +3698,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120309Z">
         <seg>Copias de miniaturas de tus imagenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To learn more about SSE2 and the CPUs that support it, see</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164104Z">
+        <seg>Para aprender mas acerca de SSE2 y las CPUs que las soportas, ver</seg>
       </tuv>
     </tu>
     <tu>
@@ -3864,8 +4016,8 @@
       <tuv lang="EN-US">
         <seg>What would you like to do?</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120227Z">
-        <seg>Â¿Que deseas hacer?</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163145Z">
+        <seg>¿Que deseas hacer?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3896,8 +4048,8 @@
       <tuv lang="EN-US">
         <seg>When launched, LightZone can automatically check if a newer version is available for download.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160224Z">
-        <seg>Cuando estÃ¡ cargado, LightZone puede comprobar automaticamente si hay diponible una nuevar version para descargarse.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163715Z">
+        <seg>Cuando está cargado, LightZone puede comprobar automaticamente si hay diponible una nuevar version para descargarse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3928,24 +4080,24 @@
       <tuv lang="EN-US">
         <seg>Window positions and sizes</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120322Z">
-        <seg>Posiciones y tamaÃ±os de ventana</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163326Z">
+        <seg>Posiciones y tamaños de ventana</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Would you like to replace it?</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120026Z">
-        <seg>Â¿Deseas reemplazarlo?</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163118Z">
+        <seg>¿Deseas reemplazarlo?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Would you like to try resetting your LightZone Settings?</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120302Z">
-        <seg>Â¿Deseas intentar restablecer tus ajustes de LightZone?</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163150Z">
+        <seg>¿Deseas intentar restablecer tus ajustes de LightZone?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4086,6 +4238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://en.wikipedia.org/wiki/SSE2#CPUs_supporting_SSE2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164107Z">
+        <seg>http://en.wikipedia.org/wiki/SSE2#CPUs_supporting_SSE2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://www.lightcrafts.com/</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124707Z">
@@ -4114,6 +4274,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124705Z">
         <seg>http://www.lightcrafts.com/products/lightzone/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>none</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164424Z">
+        <seg>Ninguno</seg>
       </tuv>
     </tu>
     <tu>
