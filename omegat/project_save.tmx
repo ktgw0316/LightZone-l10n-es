@@ -174,6 +174,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AEB bracket value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194844Z">
+        <seg>AEB valor de horquilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AF point selected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195721Z">
+        <seg>punto Af seleccionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AF point used</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194729Z">
+        <seg>Punto de enfoque usado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AI focus AF</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195255Z">
+        <seg>AI foco AF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About LightZone</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135532Z">
@@ -342,6 +374,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto-exposure bracketing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194758Z">
+        <seg>Auto-exposicion de horquillado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto-rotate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194946Z">
+        <seg>Auto-rotar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-save is now on.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120211Z">
@@ -454,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bulb duration</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194942Z">
+        <seg>Duracion a voluntad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera object</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194409Z">
@@ -466,6 +522,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193629Z">
         <seg>Opciones de camara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera specification</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194445Z">
+        <seg>Especificación de cámara</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +562,38 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
         <seg>No se puede deshacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canon EF 14mm F/2.8L or Sigma 20mm EX F/1.8</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195908Z">
+        <seg>Canon EF 14mm F/2.8L o Sigma 20mm EX F/1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canon EF 24mm F/2.8 or Sigma 15mm F/2.8 EX fisheye</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195905Z">
+        <seg>Canon EF 24mm F/2.8 o Sigma 15mm F/2.8 EX ojo de pez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canon EF 35-350mm F/3.5-5.6L or Tamron AF 28-300mm or Sigma Bigma</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195919Z">
+        <seg>Canon EF 35-350mm F/3.5-5.6L o Tamron AF 28-300mm o Sigma Bigma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canon EF 50mm F/2.5 Macro or Sigma</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195855Z">
+        <seg>Canon EF 50mm F/2.5 Macro o Sigma</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +842,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160355Z">
         <seg>Continuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continuous drive mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195222Z">
+        <seg>Modo disparo continuo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contrast</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195518Z">
+        <seg>Contraste</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digital zoom</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195511Z">
+        <seg>Zoom digital</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Direct Save</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160249Z">
@@ -1262,6 +1382,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXIF information-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194603Z">
+        <seg>EXIF informacion-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Easy-shooting mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195322Z">
+        <seg>Modo disparo facil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120419Z">
@@ -1374,10 +1510,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure compensation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194620Z">
+        <seg>Compensación de exposición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exposure info</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194209Z">
         <seg>Exposición info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195755Z">
+        <seg>Modo exposicion</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flash mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195119Z">
+        <seg>Modo de Flash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focal Length</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160339Z">
@@ -1538,6 +1698,30 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193551Z">
         <seg>Tamaño plano focal Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus distance lower</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194926Z">
+        <seg>Enfocar la distancia más baja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus distance upper</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194915Z">
+        <seg>Enfocar la distancia superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195236Z">
+        <seg>Modo de enfoque</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,6 +1878,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ISO setting</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195557Z">
+        <seg>Configuracion ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194617Z">
+        <seg>Valor ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you don't save, your changes will be lost.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120102Z">
@@ -1746,6 +1946,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194037Z">
         <seg>Imagen info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image props</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194555Z">
+        <seg>Imagen props</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195451Z">
+        <seg>Tamaño de imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1906,6 +2122,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160339Z">
         <seg>Lente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lens type</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195842Z">
+        <seg>Tipo de lentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Macro mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195016Z">
+        <seg>Modo macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make &amp; model</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193015Z">
@@ -2182,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measured info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194443Z">
+        <seg>Info medida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Memory Limit</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160235Z">
@@ -2194,6 +2434,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163824Z">
         <seg>Reemplazandolo sobreescribirá su contenido actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Metering mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195632Z">
+        <seg>Modo de medicion</seg>
       </tuv>
     </tu>
     <tu>
@@ -3254,6 +3502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Saturation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195537Z">
+        <seg>Saturación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120254Z">
@@ -3510,6 +3766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Self-timer delay</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195033Z">
+        <seg>Retraso autodisparo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Self-timer time</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193947Z">
@@ -3582,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sequence number</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194715Z">
+        <seg>Numero de secuencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Serial number</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194000Z">
@@ -3602,6 +3874,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160236Z">
         <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpness</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195545Z">
+        <seg>Enfoque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shooting record</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194426Z">
+        <seg>Grabando disparo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,6 +4146,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164303Z">
         <seg>Velocidad del disparador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sigma 10-20mm F4-5.6 or 12-24mm F/4.5-5.6 or 14mm F/2.8</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195913Z">
+        <seg>Sigma 10-20mm F4-5.6 or 12-24mm F/4.5-5.6 o 14mm F/2.8</seg>
       </tuv>
     </tu>
     <tu>
@@ -4374,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>White balance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194630Z">
+        <seg>Balance de blancos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>White-balance table-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193743Z">
@@ -4518,10 +4822,138 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>auto + red-eye</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195152Z">
+        <seg>auto + ojos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto high</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195616Z">
+        <seg>alto auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>black &amp; white</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195422Z">
+        <seg>blanco y negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>center</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195736Z">
+        <seg>centro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>center-weighted</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195706Z">
+        <seg>Centro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cloudy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194648Z">
+        <seg>nublado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>continuous</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193254Z">
         <seg>continuo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>custom</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194702Z">
+        <seg>a medida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>depth-of-field</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195835Z">
+        <seg>profundidad de campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>easy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195800Z">
+        <seg>facil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>evaluative</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195641Z">
+        <seg>evaluativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>external flash</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195207Z">
+        <seg>flash externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fast shutter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195356Z">
+        <seg>disparador rapido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fine</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195104Z">
+        <seg>buena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flourescent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194654Z">
+        <seg>flourescente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>full auto</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195334Z">
+        <seg>todo auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>high</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195533Z">
+        <seg>alto</seg>
       </tuv>
     </tu>
     <tu>
@@ -4574,10 +5006,106 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>landscape</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195342Z">
+        <seg>paisaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>large</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195455Z">
+        <seg>Grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>left</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195744Z">
+        <seg>izquierda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>low</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195527Z">
+        <seg>bajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>manual focus</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195304Z">
+        <seg>foco manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195457Z">
+        <seg>Medio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>night</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195413Z">
+        <seg>nocturno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>none</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164424Z">
         <seg>Ninguno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on + red-eye</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195159Z">
+        <seg>on + ojos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>one-shot AF</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195248Z">
+        <seg>disparo unico AF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>other</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195516Z">
+        <seg>Otro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pan focus</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195443Z">
+        <seg>foco pan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>partial</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195647Z">
+        <seg>parcial</seg>
       </tuv>
     </tu>
     <tu>
@@ -4590,10 +5118,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>portrait</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195428Z">
+        <seg>retrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>program AE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195803Z">
+        <seg>programa AE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>real-world subject</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193203Z">
         <seg>sujeto mundo real</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>red-eye reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195132Z">
+        <seg>Reduccion ojos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>right</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195729Z">
+        <seg>derecha</seg>
       </tuv>
     </tu>
     <tu>
@@ -4638,6 +5198,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>shutter-speed priority</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195819Z">
+        <seg>prioridad de velocidad de disparo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>single</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195309Z">
+        <seg>unico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>single shot</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193250Z">
@@ -4646,10 +5222,82 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>slow shutter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195404Z">
+        <seg>disparador lento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>slow sync</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195144Z">
+        <seg>sync lenta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>small</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195459Z">
+        <seg>Pequeño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>software rotate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195000Z">
+        <seg>rotar por software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sports</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195433Z">
+        <seg>deportes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sunny</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194640Z">
+        <seg>soleado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>super-fine</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195113Z">
+        <seg>muy buena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tungsten</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194651Z">
+        <seg>tungsteno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>uncalibrated</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193806Z">
         <seg>Sin calibrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195848Z">
+        <seg>desconocido</seg>
       </tuv>
     </tu>
     <tu>
