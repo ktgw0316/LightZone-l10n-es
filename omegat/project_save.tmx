@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.7.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Newer Java required</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T154101Z">
+        <seg>Nueva version Java requerida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Browser</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120842Z">
@@ -3154,6 +3162,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160357Z">
         <seg>Seleccionar reciente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Software Update to get the latest Java from Apple.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T154154Z">
+        <seg>Seleccionar Actualización de Software para conseguir la ultima version de Java desde Apple.</seg>
       </tuv>
     </tu>
     <tu>
