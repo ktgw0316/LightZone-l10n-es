@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 files to process</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191935Z">
+        <seg>$1 archivos para procesar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 images selected</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163653Z">
@@ -42,6 +50,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160409Z">
         <seg>$1 no encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>$1 of $2 files processed, $3 seconds remaining</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192003Z">
+        <seg>$1 de $2 archivos procesados, $3 segundos restantes</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +98,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160128Z">
         <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 file to process</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191919Z">
+        <seg>1 archivo para procesar</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +366,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch Name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192034Z">
+        <seg>Nombre de lote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch Output Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192020Z">
+        <seg>Carpeta de lote de salida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Between Region Changes</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160247Z">
@@ -590,6 +630,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the image where you would like to create one or more regions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191152Z">
+        <seg>Clic en la imagen donde te gustaría crear una o más regiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the Crop button again to commit.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191634Z">
+        <seg>Clic el botón de Recorte otra vez para cometer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close Image</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120818Z">
@@ -744,8 +800,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't access the "$1" Style</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120032Z">
-        <seg>No se puede acceder al estilo "$1"</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192306Z">
+        <seg>No se puede acceder al Estilo "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1102,10 +1158,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-click to finish your region (or shift-click, or press ESC).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191227Z">
+        <seg>Doble-clic para acabar tu región (o Mayus-clic, o presionar ESC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download Now</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120344Z">
         <seg>Descargar ahora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag a rectangle on the image to crop it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191609Z">
+        <seg>Arrastrar un rectángulo en la imagen para recortarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag along features in your image to align them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191550Z">
+        <seg>Arrastrar a lo largo de las características en tu imagen para alinearlas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Batch Processing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191745Z">
+        <seg>Procesado por lotes de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone File Error</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160357Z">
@@ -1714,6 +1802,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120859Z">
         <seg>Pagina de producto de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Send</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192107Z">
+        <seg>Envio LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the sliders in the Rotate Tool to rotate your image.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191354Z">
+        <seg>Mover los deslizadores en la Herramienta Rotar para rotar la imagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move to Recycle Bin</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160352Z">
@@ -2150,18 +2254,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>O</seg>
+        <seg>Not enough memory</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120750Z">
-        <seg>O</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191846Z">
+        <seg>No hay suficiente memoria</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>OK</seg>
+        <seg>O</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120100Z">
-        <seg>OK</seg>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120750Z">
+        <seg>O</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2390,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output Size:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192200Z">
+        <seg>Tamaño de salida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output to:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192044Z">
+        <seg>Salida a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>P</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120819Z">
@@ -2322,6 +2442,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160342Z">
         <seg>Pegar Herramientas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick a folder that has some images in it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191722Z">
+        <seg>Elegir una carpeta que tiene algunas imágenes dentro de ella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2974,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save Format</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192058Z">
+        <seg>Guardar formato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save LightZone files as:</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160253Z">
@@ -3206,6 +3342,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send $1 images from $2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192137Z">
+        <seg>Enviar $1 imagenes desde $2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send 1 image from $1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192123Z">
+        <seg>Enviar 1 imagen desde $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send To Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192216Z">
+        <seg>Enviar a Carpeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send anonymous report to Light Crafts</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120240Z">
@@ -3266,6 +3426,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120232Z">
         <seg>Mostrar detalles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Help for LightZone Send</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192237Z">
+        <seg>Mostrar ayuda de envio de LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,6 +3710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192025Z">
+        <seg>Comenzar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting Logging</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120123Z">
@@ -3554,6 +3730,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120252Z">
         <seg>Numero de Estilo $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style could not be applied</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191824Z">
+        <seg>Estilo no se puede aplicar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3718,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To Folder:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192150Z">
+        <seg>A carpeta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To learn more about SSE2 and the CPUs that support it, see</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164104Z">
@@ -3774,6 +3966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown error processing this file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191906Z">
+        <seg>Error desconocido procesando este archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unrecognized image format</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124939Z">
@@ -3808,16 +4008,16 @@
       <tuv lang="EN-US">
         <seg>Use $1</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120221Z">
-        <seg>Use $1</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192410Z">
+        <seg>Usa $1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Use This</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120220Z">
-        <seg>Use este</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192405Z">
+        <seg>Usa este</seg>
       </tuv>
     </tu>
     <tu>
@@ -4306,6 +4506,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160918Z">
         <seg>pixels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>saved as $1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191804Z">
+        <seg>guardado como $1</seg>
       </tuv>
     </tu>
     <tu>
