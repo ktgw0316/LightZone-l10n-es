@@ -454,6 +454,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Camera object</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194409Z">
+        <seg>Objeto de cámara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera settings</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193629Z">
+        <seg>Opciones de camara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can't Launch LightZone</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164101Z">
@@ -490,6 +506,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160337Z">
         <seg>Fecha de captura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capture date/time</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194033Z">
+        <seg>Fecha/hora de la captura</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,10 +694,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color bit depth</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194128Z">
+        <seg>Profundidad de bits de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color space</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193752Z">
+        <seg>Espacio de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color temperature</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193749Z">
+        <seg>Temperatura de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common aspect ratios</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160401Z">
         <seg>Relacion de aspecto comunes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Component bit depth</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194111Z">
+        <seg>Profundidad de bits del componente</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom functions-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193710Z">
+        <seg>A medida funciones-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut Region</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192739Z">
@@ -986,6 +1050,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192901Z">
         <seg>Depurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decoder table-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194318Z">
+        <seg>Decodificador tabla-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194209Z">
+        <seg>Exposición info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to restore from preferences</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162028Z">
@@ -1350,10 +1430,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File description</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192936Z">
+        <seg>Descripción de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File name</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164250Z">
         <seg>Nombre de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File number</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194206Z">
+        <seg>Número de archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Firmware version</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193031Z">
+        <seg>Version Firmware</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fit image to screen</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160905Z">
@@ -1402,6 +1506,38 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164311Z">
         <seg>Profundidad focal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal length as shot</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193455Z">
+        <seg>Longitud focal cuando disparó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal length data</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193436Z">
+        <seg>Datos longitud focal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal plane X size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193536Z">
+        <seg>Tamaño plano focal X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal plane Y size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193551Z">
+        <seg>Tamaño plano focal Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1718,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image description</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194403Z">
+        <seg>Descripción de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image format</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193810Z">
+        <seg>Formato de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image height</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194043Z">
+        <seg>Altura de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194037Z">
+        <seg>Imagen info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image type</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193044Z">
+        <seg>Tipo de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image width</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194040Z">
+        <seg>Ancho de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import Style</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124136Z">
@@ -1666,6 +1850,38 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163138Z">
         <seg>¿Es esto correcto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG (lossy)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193900Z">
+        <seg>JPEG (con perdida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG (lossy/non-quantization)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193852Z">
+        <seg>JPEG (lcon perdida/sin-quantizacion)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG (non-quantization)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193836Z">
+        <seg>JPEG (sin-quantizacion)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPG from raw-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194335Z">
+        <seg>JPG de raw-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -1926,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make &amp; model</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193015Z">
+        <seg>Marca y modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Malformed LightZone file</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T115946Z">
@@ -1946,6 +2170,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120817Z">
         <seg>Administrar estilos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measured EV</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194202Z">
+        <seg>EV medido</seg>
       </tuv>
     </tu>
     <tu>
@@ -2302,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Original file name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193047Z">
+        <seg>Nombre de archivo original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output Size:</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192200Z">
@@ -2314,6 +2554,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192044Z">
         <seg>Salida a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Owner name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193042Z">
+        <seg>Nombre de dueño</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,10 +2614,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Picture info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193725Z">
+        <seg>Informacion de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixel Sampler</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160413Z">
         <seg>Selector de muestra de pixel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pixel aspect ratio</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194046Z">
+        <seg>Proporción de aspecto del píxel</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ROM operation mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193037Z">
+        <seg>Modo de operación de la ROM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rate</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160332Z">
@@ -2546,6 +2818,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120841Z">
         <seg>Calificacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw data-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194331Z">
+        <seg>Raw datos-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2922,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120847Z">
         <seg>Regiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release setting</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193420Z">
+        <seg>Configuacion Release</seg>
       </tuv>
     </tu>
     <tu>
@@ -2958,6 +3246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194048Z">
+        <seg>Rotación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120254Z">
@@ -3214,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Self-timer time</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193947Z">
+        <seg>Tiempo de autodisparo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T115840Z">
@@ -3270,6 +3574,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sensor info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193644Z">
+        <seg>Informacion del sensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serial number</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194000Z">
+        <seg>Número de serie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the angle of rotation in degrees</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164031Z">
@@ -3282,6 +3602,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160236Z">
         <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shot info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193604Z">
+        <seg>Informacion de disparo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3510,6 +3838,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shutter release method</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193237Z">
+        <seg>Método de liberación del disparador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shutter release timing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193330Z">
+        <seg>Temporizacion de disparo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shutter speed</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164303Z">
@@ -3634,6 +3978,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160403Z">
         <seg>Cambia la anchura y la altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target distance setting</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194257Z">
+        <seg>Opciones distancia destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target image type</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193127Z">
+        <seg>Tipo de imagen de destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -3782,6 +4142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thumbnail file name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193108Z">
+        <seg>Nombre de la miniatura de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail image-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194359Z">
+        <seg>Miniatura de image-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To Folder:</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192150Z">
@@ -3902,6 +4278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User comment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192941Z">
+        <seg>Comentario de usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VK_A</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135532Z">
@@ -3986,6 +4370,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160238Z">
         <seg>When saving your photo for the first time, the file chooser can automatically display the folder where your original photo came from, or it can display the last folder where LightZone saved something.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White-balance table-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193743Z">
+        <seg>Balance de blancos tabla-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -4118,6 +4510,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>aperture priority</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193405Z">
+        <seg>Prioridad a la abertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>continuous</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193254Z">
+        <seg>continuo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://crash.lightcrafts.com:8080/post-dump/test</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124702Z">
@@ -4182,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>real-world subject</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193203Z">
+        <seg>sujeto mundo real</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>saved as $1</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191804Z">
@@ -4210,6 +4626,38 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192731Z">
         <seg>Mayus Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>shutter priority</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193343Z">
+        <seg>Prioridad de disparo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>single shot</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193250Z">
+        <seg>disparo unico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>uncalibrated</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193806Z">
+        <seg>Sin calibrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>written document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193206Z">
+        <seg>Documento escrito</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
