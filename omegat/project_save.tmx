@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AF points used</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200337Z">
+        <seg>Puntos AF usados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AI focus AF</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195255Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195908Z">
         <seg>Canon EF 14mm F/2.8L o Sigma 20mm EX F/1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canon EF 180mm macro F/3.5L or Sigma 180mm F3.5 or 150mm F/2.8 macro</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195925Z">
+        <seg>Canon EF 180mm macro F/3.5L o Sigma 180mm F3.5 o 150mm F/2.8 macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +1662,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flash activity</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200009Z">
+        <seg>Actividad del Flash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flash details</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200020Z">
+        <seg>Detalles del Flash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flash mode</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195119Z">
@@ -1698,6 +1730,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193551Z">
         <seg>Tamaño plano focal Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal units per mm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195958Z">
+        <seg>Unidades focales por mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -1936,8 +1976,16 @@
       <tuv lang="EN-US">
         <seg>Image height</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194043Z">
-        <seg>Altura de imagen</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200228Z">
+        <seg>Alto de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image height as shot</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200321Z">
+        <seg>Alto de imagen como en el disparo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1978,6 +2026,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194040Z">
         <seg>Ancho de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image width as shot</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200301Z">
+        <seg>Ancho de imagen como en el disparo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,6 +2418,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160210Z">
         <seg>Local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Long focal length</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195948Z">
+        <seg>Longitud focal larga</seg>
       </tuv>
     </tu>
     <tu>
@@ -3838,10 +3902,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sensor bottom border</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200224Z">
+        <seg>Borde inferior del sensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensor height</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200125Z">
+        <seg>Alto de sensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sensor info</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193644Z">
         <seg>Informacion del sensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensor left border</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200139Z">
+        <seg>Borde izquierdo del sensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensor right border</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200214Z">
+        <seg>Borde derecho del sensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensor top border</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200156Z">
+        <seg>Borde superior del sensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensor width</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200117Z">
+        <seg>Ancho de sensor</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,6 +4002,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194426Z">
         <seg>Grabando disparo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Short focal length</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195953Z">
+        <seg>Longitud focal corta</seg>
       </tuv>
     </tu>
     <tu>
@@ -4810,6 +4930,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123336Z">
         <seg>Alejar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoomed resolution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200103Z">
+        <seg>Resolucion zoomed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoomed resolution base</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200114Z">
+        <seg>Resolution base zoomed</seg>
       </tuv>
     </tu>
     <tu>
