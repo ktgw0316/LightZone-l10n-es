@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Artist</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153024Z">
+        <seg>Artista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Save</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160201Z">
@@ -454,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bits per sample</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153401Z">
+        <seg>Bits por muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring All to Front</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135531Z">
@@ -514,6 +530,38 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194942Z">
         <seg>Duracion a voluntad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CCITT group 3 fax</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153424Z">
+        <seg>CCITT Grupo 3 fax</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CCITT group 4 fax</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153426Z">
+        <seg>CCITT Grupo 4 fax</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CCITT modified Huffman RLE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153420Z">
+        <seg>CCITT Modificado Huffman RLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152550Z">
+        <seg>Camara</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Caption</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153042Z">
+        <seg>Subtitulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Capture Time</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160337Z">
@@ -634,6 +690,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161055Z">
         <seg>Fecha de captura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell length</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T154757Z">
+        <seg>Alto de celda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell width</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T154748Z">
+        <seg>Ancho de celda</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,8 +816,8 @@
       <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191152Z">
-        <seg>Clic en la imagen donde te gustaría crear una o más regiones.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152406Z">
+        <seg>Click en la imagen donde te gustaría crear una o más regiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +882,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194128Z">
         <seg>Profundidad de bits de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color profile</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152657Z">
+        <seg>Perfil de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,14 +1026,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160326Z">
         <seg>Copiar herramienta de apilado de la imagen seleccionada al portapapeles</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Copyright</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160255Z">
-        <seg>Copyright</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directory</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152540Z">
+        <seg>Directorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120440Z">
@@ -1298,6 +1378,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163141Z">
         <seg>¿Quieres buscarlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Document name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T154806Z">
+        <seg>Nombre de documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File date/time</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152535Z">
+        <seg>Fecha/hora de la captura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File description</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192936Z">
@@ -1626,6 +1722,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164300Z">
         <seg>Tamaño de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill order</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T154804Z">
+        <seg>Llenar orden</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,10 +2102,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image orientation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152706Z">
+        <seg>Orientación de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image props</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194555Z">
         <seg>Imagen props</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image resolution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152702Z">
+        <seg>Resolución de imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2146,6 +2266,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193836Z">
         <seg>JPEG (sin-quantizacion)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG (old-style)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153430Z">
+        <seg>JPEG (Viejo-estilo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2438,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T154814Z">
+        <seg>Marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make &amp; model</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193015Z">
@@ -2514,6 +2650,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120843Z">
         <seg>Minimizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Model</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T154816Z">
+        <seg>Modelo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,6 +2998,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Original height</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153018Z">
+        <seg>Altura original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original orientation-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153004Z">
+        <seg>Orientación original-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original width</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153021Z">
+        <seg>Ancho original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output Size:</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192200Z">
@@ -2906,6 +3074,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160342Z">
         <seg>Pegar Herramientas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photometric interpretation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153500Z">
+        <seg>Interpretación fotométrica</seg>
       </tuv>
     </tu>
     <tu>
@@ -4390,6 +4566,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subfile type (new)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153354Z">
+        <seg>Tipo de subarchivo (nuevo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subfile type (old)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153349Z">
+        <seg>Tipo de subarchivo (viejo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swap width and height</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160403Z">
@@ -4534,6 +4726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Threshholding</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153705Z">
+        <seg>Umbral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumbnail Progress</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160322Z">
@@ -4570,6 +4770,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194359Z">
         <seg>Miniatura de image-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153047Z">
+        <seg>Título</seg>
       </tuv>
     </tu>
     <tu>
@@ -4982,6 +5190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>black is zero</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153506Z">
+        <seg>Negro es cero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>center</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195736Z">
@@ -5006,6 +5222,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>color filter array</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153549Z">
+        <seg>conjunto de filtros de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>color palette</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153509Z">
+        <seg>Paleta de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>continuous</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193254Z">
@@ -5018,6 +5250,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194702Z">
         <seg>a medida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>deflate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153449Z">
+        <seg>rebajar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5070,6 +5310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>flip</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152941Z">
+        <seg>giro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>flourescent</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194654Z">
@@ -5082,6 +5330,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195334Z">
         <seg>todo auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>full-resolution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153153Z">
+        <seg>resolucion completa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5166,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>linear raw</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153611Z">
+        <seg>raw lineal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>low</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195527Z">
@@ -5198,6 +5462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>no dither/halftone</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153746Z">
+        <seg>No difuminado/tramado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>none</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164424Z">
@@ -5218,6 +5490,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195248Z">
         <seg>disparo unico AF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ordered dither/halftone</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153809Z">
+        <seg>difuminado ordenado/tramado</seg>
       </tuv>
     </tu>
     <tu>
@@ -5270,6 +5550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>randomized process</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T154100Z">
+        <seg>proceso aleatorizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>real-world subject</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193203Z">
@@ -5286,10 +5574,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>reduced-resolution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153208Z">
+        <seg>resolucion reducida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>right</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195729Z">
         <seg>derecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rotated 180</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152913Z">
+        <seg>rotada 180</seg>
       </tuv>
     </tu>
     <tu>
@@ -5346,6 +5650,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195309Z">
         <seg>unico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>single of multi-page</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153306Z">
+        <seg>una de multipagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>single of multi-page, reduced resolution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153256Z">
+        <seg>una de multipagina, resolucion reducida</seg>
       </tuv>
     </tu>
     <tu>
@@ -5414,6 +5734,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>transparency mask</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153314Z">
+        <seg>Máscara de transparencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transparency mask, reduced resolution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153319Z">
+        <seg>Máscara de transparencia, resolución reducida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transparency mask, single of multi-page</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153323Z">
+        <seg>Máscara de transparencia, solo de multi-página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transparency mask, single of multi-page, reduced resolution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153330Z">
+        <seg>Máscara de transparencia, solo de multi-página, resolución reducida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tungsten</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194651Z">
@@ -5434,6 +5786,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195848Z">
         <seg>desconocido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>white is zero</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153503Z">
+        <seg>Blanco es cero</seg>
       </tuv>
     </tu>
     <tu>
