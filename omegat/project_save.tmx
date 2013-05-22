@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.7.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -94,10 +94,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143635Z">
+        <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 EV</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150409Z">
+        <seg>1 EV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 file to process</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191919Z">
         <seg>1 archivo para procesar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1/3 EV</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150401Z">
+        <seg>1/3 EV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>100</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145938Z">
+        <seg>100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144123Z">
+        <seg>16</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,10 +150,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>180</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143751Z">
+        <seg>180</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2/3 EV</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150401Z">
+        <seg>2/3 EV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>200</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145939Z">
+        <seg>200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2x</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143904Z">
+        <seg>2x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>400</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145940Z">
+        <seg>400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4x</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143905Z">
+        <seg>4x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>50</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145937Z">
+        <seg>50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8 Bits/Channel</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161031Z">
         <seg>8 Bits/Canal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>90</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143748Z">
+        <seg>90</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +338,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163333Z">
         <seg>Añadir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add $1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144744Z">
+        <seg>Añadir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adobe RGB</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143652Z">
+        <seg>Adobe RGB</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +590,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bits/Channel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144127Z">
+        <seg>Bits/Canal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144532Z">
+        <seg>Azul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring All to Front</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135531Z">
@@ -534,6 +670,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143530Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CCIRLEW</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145640Z">
+        <seg>CCIRLEW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CCITT group 3 fax</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153424Z">
@@ -554,6 +706,38 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153420Z">
         <seg>CCITT Modificado Huffman RLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CIELab</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145405Z">
+        <seg>CIELab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CIFF</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144844Z">
+        <seg>CIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CLOSE_BRACKET</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143619Z">
+        <seg>CLOSE_BRACKET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CMYK</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145400Z">
+        <seg>CMYK</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +802,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
         <seg>No se puede deshacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canon</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144845Z">
+        <seg>Canon</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144001Z">
+        <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't access the "$1" Style</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192306Z">
@@ -1246,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DCS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145658Z">
+        <seg>DCS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Debug</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192901Z">
@@ -1274,6 +1482,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120324Z">
         <seg>Ajustes por defecto para guardar, imprimir y convertir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deflate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145654Z">
+        <seg>Deflate</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,6 +1702,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143626Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EQUALS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143621Z">
+        <seg>EQUALS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXIF</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144839Z">
+        <seg>EXIF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXIF information-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194603Z">
@@ -1610,6 +1850,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120435Z">
         <seg>Expandir pilas de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144210Z">
+        <seg>Exposición</seg>
       </tuv>
     </tu>
     <tu>
@@ -1766,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flash</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143921Z">
+        <seg>Flash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flash activity</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200009Z">
@@ -1778,6 +2034,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200020Z">
         <seg>Detalles del Flash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flash info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144957Z">
+        <seg>Informacion de flash</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,6 +2110,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Focus distance (lower)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150300Z">
+        <seg>Enfocar la distancia más baja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus distance (upper)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150300Z">
+        <seg>Enfocar la distancia superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focus distance lower</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194926Z">
@@ -1886,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GPS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144846Z">
+        <seg>GPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160254Z">
@@ -1906,6 +2194,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160309Z">
         <seg>Avanzar al directorio seleccionado recientemente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Green</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144502Z">
+        <seg>Verde</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2318,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ICCLab</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145406Z">
+        <seg>ICCLab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPTC</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144841Z">
+        <seg>IPTC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143917Z">
+        <seg>ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ISO setting</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195557Z">
@@ -2034,6 +2354,46 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194617Z">
         <seg>Valor ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT8BL</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145646Z">
+        <seg>IT8BL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT8CTPAD</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145643Z">
+        <seg>IT8CTPAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT8LW</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145644Z">
+        <seg>IT8LW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT8MP</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145645Z">
+        <seg>IT8MP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ITULab</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145407Z">
+        <seg>ITULab</seg>
       </tuv>
     </tu>
     <tu>
@@ -2058,6 +2418,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160206Z">
         <seg>Si abres una nueva imagen mientras sigues editando otra, LightZone puede guardar automaticamente tu trabajo, o puede preguntarte que hacer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image Info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144825Z">
+        <seg>Imagen info</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143506Z">
+        <seg>Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initializing Engine Utilities</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120130Z">
@@ -2246,6 +2622,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JBIG</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145659Z">
+        <seg>JBIG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145326Z">
+        <seg>JPEG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JPEG (lossy)</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193900Z">
@@ -2278,10 +2670,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JPEG 2000</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145702Z">
+        <seg>JPEG 2000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JPG from raw-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194335Z">
         <seg>JPG de raw-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LZW</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145324Z">
+        <seg>LZW</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,6 +2966,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143533Z">
+        <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MINUS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143622Z">
+        <seg>MINUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Macro mode</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195016Z">
@@ -2758,6 +3182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>N</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143511Z">
+        <seg>N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120248Z">
@@ -2778,6 +3210,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T154101Z">
         <seg>Nueva version Java requerida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nikon</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144847Z">
+        <seg>Nikon</seg>
       </tuv>
     </tu>
     <tu>
@@ -2878,6 +3318,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143512Z">
+        <seg>O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143504Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OPEN_BRACKET</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143616Z">
+        <seg>OPEN_BRACKET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Online Help</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120858Z">
@@ -2966,6 +3430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orientation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145424Z">
+        <seg>Orientación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Orig</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160909Z">
@@ -3046,6 +3518,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143523Z">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PackBits</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145349Z">
+        <seg>PackBits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page Setup...</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161302Z">
@@ -3106,6 +3594,38 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193725Z">
         <seg>Informacion de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pixar LogL</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145410Z">
+        <seg>Pixar LogL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pixar LogLuv</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145411Z">
+        <seg>Pixar LogLuv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PixarFilm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145647Z">
+        <seg>PixarFilm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PixarLog</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145648Z">
+        <seg>PixarLog</seg>
       </tuv>
     </tu>
     <tu>
@@ -3246,6 +3766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Q</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143525Z">
+        <seg>Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quality</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161030Z">
@@ -3258,6 +3786,30 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120109Z">
         <seg>Salir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143611Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RAW</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143657Z">
+        <seg>RAW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RGB</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145402Z">
+        <seg>RGB</seg>
       </tuv>
     </tu>
     <tu>
@@ -3362,6 +3914,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160229Z">
         <seg>Recently used settings for tools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144413Z">
+        <seg>Rojo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3738,6 +4298,30 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194048Z">
         <seg>Rotación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143518Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SGILog</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145700Z">
+        <seg>SGILog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SGILog24</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145701Z">
+        <seg>SGILog24</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,10 +5046,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slow sync</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150318Z">
+        <seg>sync lenta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smaller image files will make LightZone faster.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160300Z">
         <seg>Smaller image files will make LightZone faster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Software</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145515Z">
+        <seg>Software</seg>
       </tuv>
     </tu>
     <tu>
@@ -4586,6 +5186,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160403Z">
         <seg>Cambia la anchura y la altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIFF</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144843Z">
+        <seg>TIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -4774,6 +5382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thunderscan</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145642Z">
+        <seg>Thunderscan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153047Z">
@@ -4910,6 +5526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>V</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143530Z">
+        <seg>V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VK_A</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135532Z">
@@ -4926,10 +5550,170 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VK_C</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143515Z">
+        <seg>VK_C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_D</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143524Z">
+        <seg>VK_D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_E</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143526Z">
+        <seg>VK_E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_F</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143509Z">
+        <seg>VK_F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_G</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143639Z">
+        <seg>VK_G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_H</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143638Z">
+        <seg>VK_H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_I</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143620Z">
+        <seg>VK_I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_L</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143531Z">
+        <seg>VK_L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_M</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143521Z">
+        <seg>VK_M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_N</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143510Z">
+        <seg>VK_N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_O</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143511Z">
+        <seg>VK_O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_P</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143523Z">
+        <seg>VK_P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_R</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143516Z">
+        <seg>VK_R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_S</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143517Z">
+        <seg>VK_S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_T</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143520Z">
+        <seg>VK_T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_U</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143527Z">
+        <seg>VK_U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_V</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143513Z">
+        <seg>VK_V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_W</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143532Z">
+        <seg>VK_W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143525Z">
+        <seg>VK_X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Verifying Libraries</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120113Z">
         <seg>Verificando Librerias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145609Z">
+        <seg>Version</seg>
       </tuv>
     </tu>
     <tu>
@@ -4946,6 +5730,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120850Z">
         <seg>Vista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143522Z">
+        <seg>W</seg>
       </tuv>
     </tu>
     <tu>
@@ -4994,6 +5786,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160238Z">
         <seg>When saving your photo for the first time, the file chooser can automatically display the folder where your original photo came from, or it can display the last folder where LightZone saved something.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Balance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144754Z">
+        <seg>Balance de blancos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5054,6 +5854,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143529Z">
+        <seg>X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Y</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143528Z">
+        <seg>Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YCbCr</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145404Z">
+        <seg>YCbCr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can go ahead and open this file, or you can try to import it as a LightZone Style.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120007Z">
@@ -5086,10 +5910,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Z</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143528Z">
+        <seg>Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zone Mapper Zones</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160412Z">
         <seg>Mapa de zonas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143534Z">
+        <seg>Zoom</seg>
       </tuv>
     </tu>
     <tu>
@@ -5158,10 +5998,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>alt 0</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143624Z">
+        <seg>alt 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>aperture priority</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193405Z">
         <seg>Prioridad a la abertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143718Z">
+        <seg>auto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5254,6 +6110,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>custom 1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150236Z">
+        <seg>a medida 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>custom 2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150241Z">
+        <seg>a medida 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>custom 3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150248Z">
+        <seg>a medida 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>custom 4</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150251Z">
+        <seg>a medida 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>deflate</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153449Z">
@@ -5306,6 +6194,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195104Z">
         <seg>buena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143726Z">
+        <seg>flash</seg>
       </tuv>
     </tu>
     <tu>
@@ -5438,6 +6334,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>low gain up</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145817Z">
+        <seg>Ninguno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>macro</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143810Z">
+        <seg>macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>manual</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143851Z">
+        <seg>manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>manual focus</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195304Z">
@@ -5470,10 +6390,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>no flash</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143831Z">
+        <seg>no flash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>none</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164424Z">
         <seg>Ninguno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>normal</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145107Z">
+        <seg>normal</seg>
       </tuv>
     </tu>
     <tu>
@@ -5598,10 +6534,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>sRGB</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143650Z">
+        <seg>sRGB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>saved as $1</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191804Z">
         <seg>guardado como $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>shift S</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143520Z">
+        <seg>shift S</seg>
       </tuv>
     </tu>
     <tu>
@@ -5790,6 +6742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>v.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143930Z">
+        <seg>V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>white is zero</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153503Z">
@@ -5802,6 +6762,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193206Z">
         <seg>Documento escrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>zoom</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145851Z">
+        <seg>zoom</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
