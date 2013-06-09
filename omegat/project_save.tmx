@@ -422,6 +422,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Analog balance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115523Z">
+        <seg>Equlibrio analogico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Antialias strength</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120015Z">
+        <seg>Fuerza antialias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160400Z">
@@ -502,6 +518,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shot neutral</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115607Z">
+        <seg>Como se disparó neutro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As shot white XY</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115623Z">
+        <seg>Como se disparó blanco XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Save</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160201Z">
@@ -550,6 +582,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Baseline exposure</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115704Z">
+        <seg>Exposicion inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Baseline noise</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115715Z">
+        <seg>Ruido inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Baseline sharpness</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115728Z">
+        <seg>Enfoque inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch Name</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192034Z">
@@ -562,6 +618,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192020Z">
         <seg>Carpeta de lote de salida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bayer green split</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115815Z">
+        <seg>Division bayer del verde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Best quality scale</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120246Z">
+        <seg>Escala de mejor calidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -602,6 +674,38 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144127Z">
         <seg>Bits/Canal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black level</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115153Z">
+        <seg>Nivel de negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black level delta H</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115221Z">
+        <seg>Delta H del nivel de negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black level delta V</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115236Z">
+        <seg>Delta V del nivel de negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black level repeat dim</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115146Z">
+        <seg>Nivel de negro atenuado</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +862,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calibration illuminant 1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120224Z">
+        <seg>Calibracion de iluminante 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calibration illuminant 2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120233Z">
+        <seg>Calibracion de iluminante 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152550Z">
@@ -766,10 +886,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Camera calibration 1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115414Z">
+        <seg>Calibracion de camara 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera calibration 2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115427Z">
+        <seg>Calibracion de camara 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera object</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194409Z">
         <seg>Objeto de cámara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera serial number</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115830Z">
+        <seg>Número de serie de cámara</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chroma blur radius</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115924Z">
+        <seg>radio de desenfoque chroma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T122311Z">
@@ -1106,6 +1258,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113043Z">
         <seg>Mapa de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color matrix 1-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115355Z">
+        <seg>Color matriz 1-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color matrix 2-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115359Z">
+        <seg>Color matriz 2-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,6 +1658,30 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194318Z">
         <seg>Decodificador tabla-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default crop origin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115325Z">
+        <seg>Origen por defecto de recorte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default crop size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115348Z">
+        <seg>Tamaño de recorte por defecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default scale</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115257Z">
+        <seg>Escala por defecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lens info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115856Z">
+        <seg>Informacion de lentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lens type</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195842Z">
@@ -3118,6 +3318,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linear response limit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115819Z">
+        <seg>Límite de respuesta lineal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linearization table</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114929Z">
+        <seg>tabla de linearizacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading Classes</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120132Z">
@@ -3194,6 +3410,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193015Z">
         <seg>Marca y modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maker note safety</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120134Z">
+        <seg>Nota de seguridad del fabricante</seg>
       </tuv>
     </tu>
     <tu>
@@ -4006,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Private data</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120100Z">
+        <seg>Datos privados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proof</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160420Z">
@@ -4194,6 +4426,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120437Z">
         <seg>Rehacer ultimo paso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduction matrix 1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115435Z">
+        <seg>Reduccion matriz 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduction matrix 2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115441Z">
+        <seg>Reduccion matriz 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -5042,6 +5290,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160236Z">
         <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shadow scale</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120038Z">
+        <seg>Escala de la sombra</seg>
       </tuv>
     </tu>
     <tu>
@@ -6182,6 +6438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>White level</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115243Z">
+        <seg>Nivel de blanco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>White point</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113011Z">
@@ -6662,6 +6926,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>even columns offset up 1/2 row</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114759Z">
+        <seg>incluso desplazamiento de columnas por encima de la fila 1/2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>even rows offset left 1/2 column</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114915Z">
+        <seg>incluso desplazamiento de filas a la izquierda de la columna 1/2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>even rows offset right 1/2 column</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114836Z">
+        <seg>incluso desplazamiento de filas a la derecha de la columna 1/2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>external flash</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195207Z">
@@ -7078,6 +7366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>safe</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120155Z">
+        <seg>seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>saved as $1</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191804Z">
@@ -7314,6 +7610,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195848Z">
         <seg>desconocido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unsafe</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120150Z">
+        <seg>inseguro</seg>
       </tuv>
     </tu>
     <tu>
