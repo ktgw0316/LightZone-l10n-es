@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom image processing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193823Z">
+        <seg>Procesamiento de imagen a medida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut Region</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192739Z">
@@ -1858,6 +1866,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195511Z">
         <seg>Zoom digital</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Digital zoom ratio</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193938Z">
+        <seg>Ratio del zoom digital</seg>
       </tuv>
     </tu>
     <tu>
@@ -2224,8 +2240,8 @@
       <tuv lang="EN-US">
         <seg>Exposure mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195755Z">
-        <seg>Modo exposicion</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193835Z">
+        <seg>Modo de exposición</seg>
       </tuv>
     </tu>
     <tu>
@@ -2350,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193759Z">
+        <seg>Fuente de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill order</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T154804Z">
@@ -2406,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flash energy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193150Z">
+        <seg>Energia de flash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flash info</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144957Z">
@@ -2418,6 +2450,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195119Z">
         <seg>Modo de Flash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FlashPix version</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T192726Z">
+        <seg>Version FlashPix</seg>
       </tuv>
     </tu>
     <tu>
@@ -2454,6 +2494,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Focal length in 35mm film</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194002Z">
+        <seg>Longitud focal en pelicula de 35mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal plane X resolution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193246Z">
+        <seg>Resolucion plano focal X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focal plane X size</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193536Z">
@@ -2462,10 +2518,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Focal plane Y resolution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193253Z">
+        <seg>Resolucion plano focal Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focal plane Y size</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193551Z">
         <seg>Tamaño plano focal Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal plane resolution unit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193315Z">
+        <seg>Unidad de resolucion plano focal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2554,6 +2626,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144846Z">
         <seg>GPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain control</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194059Z">
+        <seg>Control de ganancia</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,6 +3130,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192511Z">
         <seg>Error Interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interoperability offset</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193136Z">
+        <seg>Interoperabilidad offset</seg>
       </tuv>
     </tu>
     <tu>
@@ -4318,6 +4406,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pixel X dimension</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T192737Z">
+        <seg>Dimension Pixel X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pixel Y dimension</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T192744Z">
+        <seg>Diemnsion Pixel Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pixel aspect ratio</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194046Z">
@@ -4746,6 +4850,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121143Z">
         <seg>Ancho de imagen relacionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Related sound file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193116Z">
+        <seg>Archivo de sonido relacionado</seg>
       </tuv>
     </tu>
     <tu>
@@ -5326,6 +5438,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scene capture type</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194042Z">
+        <seg>Tipo de escena de captura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene type</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193802Z">
+        <seg>Tipo de escena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scratch Folder</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160241Z">
@@ -5466,6 +5594,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135529Z">
         <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensing method</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193413Z">
+        <seg>Metodo de deteccion</seg>
       </tuv>
     </tu>
     <tu>
@@ -5918,6 +6054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spatial frequency response</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193220Z">
+        <seg>Respuesta de frecuencia espacial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specify the image file format LightZone should use when it saves your work.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160300Z">
@@ -6014,6 +6158,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sub-sec time</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T192650Z">
+        <seg>Tiempo sub-sec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sub-sec time digitized</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T192718Z">
+        <seg>Tiempo digitalizacion Sub-sec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sub-sec time original</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T192706Z">
+        <seg>Tiempo original Sub-sec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subfile type (new)</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153354Z">
@@ -6042,6 +6210,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121651Z">
         <seg>Distancia del sujeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subject location</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193338Z">
+        <seg>Localizacion del sujeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -7078,18 +7254,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>auto</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143718Z">
-        <seg>auto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>auto + red-eye</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195152Z">
         <seg>auto + ojos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto bracket</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193909Z">
+        <seg>auto horquillado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto exposure</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193854Z">
+        <seg>exposicion automatica</seg>
       </tuv>
     </tu>
     <tu>
@@ -7202,6 +7386,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153509Z">
         <seg>Paleta de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>color sequential area sensor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193651Z">
+        <seg>sensor de area de color secuencial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>color sequential linear sensor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193725Z">
+        <seg>sensor lineal de color secuencial</seg>
       </tuv>
     </tu>
     <tu>
@@ -7750,6 +7950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>manual exposure</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193859Z">
+        <seg>Exposición manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>manual focus</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195304Z">
@@ -7834,6 +8042,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195159Z">
         <seg>on + ojos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>one-chip color area sensor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193553Z">
+        <seg>sensor de area de color de un chip</seg>
       </tuv>
     </tu>
     <tu>
@@ -7962,14 +8178,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152913Z">
         <seg>rotada 180</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>sRGB</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143650Z">
-        <seg>sRGB</seg>
       </tuv>
     </tu>
     <tu>
@@ -8214,6 +8422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>three-chip color area sensor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193614Z">
+        <seg>sensor de area de color de tres chip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>transparency mask</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153314Z">
@@ -8246,10 +8462,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>trilinear sensor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193703Z">
+        <seg>sensor trilineal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tungsten</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194651Z">
         <seg>tungsteno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>two-chip color area sensor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193605Z">
+        <seg>sensor de area de color de dos chip</seg>
       </tuv>
     </tu>
     <tu>
