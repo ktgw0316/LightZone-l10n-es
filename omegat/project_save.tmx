@@ -2382,14 +2382,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Flash</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143921Z">
-        <seg>Flash</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Flash activity</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200009Z">
@@ -2762,6 +2754,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195557Z">
         <seg>Configuracion ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO studio tungsten</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122545Z">
+        <seg>ISO tungsteno estudio</seg>
       </tuv>
     </tu>
     <tu>
@@ -3282,6 +3282,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124706Z">
         <seg>Light Crafts, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121914Z">
+        <seg>Fuente de luz</seg>
       </tuv>
     </tu>
     <tu>
@@ -7118,6 +7126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>center-weighted average</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121811Z">
+        <seg>Promedio ponderado al centro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>chunky</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112403Z">
@@ -7129,6 +7145,14 @@
         <seg>cloudy</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194648Z">
+        <seg>nublado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cloudy weather</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122309Z">
         <seg>nublado</seg>
       </tuv>
     </tu>
@@ -7162,6 +7186,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193254Z">
         <seg>continuo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cool white fluorescent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122455Z">
+        <seg>blanco frio fluorescente</seg>
       </tuv>
     </tu>
     <tu>
@@ -7210,6 +7242,30 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150251Z">
         <seg>a medida 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>day white fluorescent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122440Z">
+        <seg>luz dia blanca fluorescente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>daylight</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122207Z">
+        <seg>Luz dia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>daylight fluorescent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122408Z">
+        <seg>luz día fluorescente</seg>
       </tuv>
     </tu>
     <tu>
@@ -7302,10 +7358,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>flash</seg>
+        <seg>fine weather</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143726Z">
-        <seg>flash</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122231Z">
+        <seg>Buen tiempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122556Z">
+        <seg>flash disparado</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,6 +7386,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194654Z">
         <seg>flourescente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fluorescent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122210Z">
+        <seg>Fluorescente</seg>
       </tuv>
     </tu>
     <tu>
@@ -7418,6 +7490,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112632Z">
         <seg>centenas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>incandescent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122214Z">
+        <seg>incandescente</seg>
       </tuv>
     </tu>
     <tu>
@@ -7526,6 +7606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>multi-spot</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121838Z">
+        <seg>multi-puntual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>night</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195413Z">
@@ -7538,14 +7626,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153746Z">
         <seg>No difuminado/tramado</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>no flash</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143831Z">
-        <seg>no flash</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,6 +7706,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195647Z">
         <seg>parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pattern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121847Z">
+        <seg>patron</seg>
       </tuv>
     </tu>
     <tu>
@@ -7738,6 +7826,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112058Z">
         <seg>marina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>shade</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122326Z">
+        <seg>sombra</seg>
       </tuv>
     </tu>
     <tu>
@@ -7858,6 +7954,54 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195433Z">
         <seg>deportes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>spot</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121830Z">
+        <seg>puntual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>standard light A</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122509Z">
+        <seg>standard luz A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>standard light B</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122515Z">
+        <seg>standard luz B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>standard light C</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122520Z">
+        <seg>standard luz C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>strobe return light detected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122729Z">
+        <seg>retorno luz estroboscopica detectada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>strobe return light not detected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122709Z">
+        <seg>retorno luz estroboscopica no detectada</seg>
       </tuv>
     </tu>
     <tu>
@@ -7994,6 +8138,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143930Z">
         <seg>V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>white fluorescent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122503Z">
+        <seg>blanco fluorescente</seg>
       </tuv>
     </tu>
     <tu>
