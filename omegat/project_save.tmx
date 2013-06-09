@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backward version</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114417Z">
+        <seg>Version hacia atras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch Name</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192034Z">
@@ -710,6 +718,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CFA layout</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114547Z">
+        <seg>CFA diseño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CFA plane color</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114512Z">
+        <seg>CFA color plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CIELab</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145405Z">
@@ -730,14 +754,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143619Z">
         <seg>CLOSE_BRACKET</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>CMYK</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145400Z">
-        <seg>CMYK</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clip path-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113945Z">
+        <seg>Recorte de trazado-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close Image</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192710Z">
@@ -1226,14 +1250,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160326Z">
         <seg>Copiar herramienta de apilado de la imagen seleccionada al portapapeles</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Copyright</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144001Z">
-        <seg>Copyright</seg>
       </tuv>
     </tu>
     <tu>
@@ -1654,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dot range</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113637Z">
+        <seg>Rango de puntos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-click to finish your region (or shift-click, or press ESC).</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191227Z">
@@ -1890,6 +1914,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195755Z">
         <seg>Modo exposicion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extra samples</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113758Z">
+        <seg>Muestras extras</seg>
       </tuv>
     </tu>
     <tu>
@@ -2374,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ICC profile-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114349Z">
+        <seg>ICC perfil-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ICCLab</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145406Z">
@@ -2474,6 +2514,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160206Z">
         <seg>Si abres una nueva imagen mientras sigues editando otra, LightZone puede guardar automaticamente tu trabajo, o puede preguntarte que hacer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image ID</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114336Z">
+        <seg>Imagen ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,6 +2670,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ink names</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113602Z">
+        <seg>Nombre de tintas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ink set</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113527Z">
+        <seg>Conjunto de tintas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insufficient memory to open this file</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T115950Z">
@@ -2730,6 +2794,70 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145702Z">
         <seg>JPEG 2000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG AC tables-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114219Z">
+        <seg>JPEG AC tablas-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG DC tables-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114216Z">
+        <seg>JPEG DC tablas-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG Q tables-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114212Z">
+        <seg>JPEG Q tablas-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG interchange format length-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114111Z">
+        <seg>JPEG Longitud de formato del intercambio-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG interchange format-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114102Z">
+        <seg>JPEG Formato de intercambio-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG lossless predictors</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114150Z">
+        <seg>JPEG predictores sin perdida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG point transforms</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114205Z">
+        <seg>JPEG puntos de  transformacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG restart interval</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114134Z">
+        <seg>JPEG reiniciar intervalo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3010,6 +3138,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160210Z">
         <seg>Local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Localized camera model</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114459Z">
+        <seg>Modelo de cámara localizado</seg>
       </tuv>
     </tu>
     <tu>
@@ -3386,6 +3522,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191846Z">
         <seg>No hay suficiente memoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of inks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113615Z">
+        <seg>Numero de tintas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4054,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reference black white</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114321Z">
+        <seg>Referencia negro blanco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160343Z">
@@ -4450,6 +4602,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145701Z">
         <seg>SGILog24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample format</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113750Z">
+        <seg>Formato de muestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -5198,6 +5358,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smax sample value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113812Z">
+        <seg>Smax Valor de muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smin sample value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113810Z">
+        <seg>Smin Valor de muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160334Z">
@@ -5354,6 +5530,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193127Z">
         <seg>Tipo de imagen de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target printer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113647Z">
+        <seg>Impresora destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -5534,6 +5718,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tile byte counts-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113547Z">
+        <seg>Mosaico de bytes counts-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile length</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113424Z">
+        <seg>Longitud del mosaico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile offsets-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113454Z">
+        <seg>Desplazamiento-X del mosaico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile width</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113341Z">
+        <seg>Ancho del mosaico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153047Z">
@@ -5590,6 +5806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transfer range</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113916Z">
+        <seg>Rango de trasnferencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120822Z">
@@ -5602,6 +5826,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120436Z">
         <seg>Deshacer ultimo paso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unique camera model</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114430Z">
+        <seg>Modelo de cámara unico</seg>
       </tuv>
     </tu>
     <tu>
@@ -5862,14 +6094,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Version</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145609Z">
-        <seg>Version</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Versions</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120246Z">
@@ -6038,6 +6262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XMP packet-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114332Z">
+        <seg>XMP paquete-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Y</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143528Z">
@@ -6066,6 +6298,30 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145404Z">
         <seg>YCbCr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ycbcr coefficients</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114224Z">
+        <seg>Ycbcr coeficientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ycbcr positioning</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114301Z">
+        <seg>Ycbcr posicionando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ycbcr subsampling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114239Z">
+        <seg>Ycbcr subsampleado</seg>
       </tuv>
     </tu>
     <tu>
@@ -6206,6 +6462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>associated alpha data</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113724Z">
+        <seg>datos alfa asociados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>auto</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143718Z">
@@ -6226,6 +6490,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195616Z">
         <seg>alto auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>baseline sequential</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114018Z">
+        <seg>linea de base secuencial</seg>
       </tuv>
     </tu>
     <tu>
@@ -6378,6 +6650,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195641Z">
         <seg>evaluativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>even columns offset down 1/2 row</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114719Z">
+        <seg>incluso desplazamiento de columnas por debajo de la fila 1/2</seg>
       </tuv>
     </tu>
     <tu>
@@ -6566,6 +6846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>lossless with Huffman coding</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114057Z">
+        <seg>codificacion Huffman sin perdidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>low</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195527Z">
@@ -6650,6 +6938,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145107Z">
         <seg>normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>not CMYK</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113550Z">
+        <seg>no CMYK</seg>
       </tuv>
     </tu>
     <tu>
@@ -6998,6 +7294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>unassociated alpha data</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113737Z">
+        <seg>datos alfa sin asociar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>uncalibrated</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193806Z">
@@ -7010,6 +7314,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195848Z">
         <seg>desconocido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unspecified</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113708Z">
+        <seg>sin especificar</seg>
       </tuv>
     </tu>
     <tu>
