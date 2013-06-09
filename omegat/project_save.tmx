@@ -2206,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure index</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T192252Z">
+        <seg>Indice de exposicion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exposure info</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194209Z">
@@ -3578,6 +3586,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120134Z">
         <seg>Nota de seguridad del fabricante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maker note-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T192333Z">
+        <seg>Fabricante note-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -6014,6 +6030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subject area</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T192231Z">
+        <seg>Area del sujeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subject distance</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121651Z">
@@ -7366,10 +7390,146 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>flash did not fire, auto</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191522Z">
+        <seg>flash no disparado, auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash did not fire, compulsory flash mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191509Z">
+        <seg>flash no disparado, modo de falsh anulado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>flash fired</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122556Z">
         <seg>flash disparado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, auto</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191536Z">
+        <seg>flash disparado, auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, auto, red-eye reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191935Z">
+        <seg>flash disparado, auto, reduccion ojos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, auto, strobe return light detected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191611Z">
+        <seg>flash disparado, auto, retorno de luz estroboscopica detectada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, auto, strobe return light detected, red-eye reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T192011Z">
+        <seg>flash disparado, auto, retorno de luz estroboscopica detectada, reduccion ojos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, auto, strobe return light not detected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191603Z">
+        <seg>flash disparado, auto, retorno de luz estroboscopica no detectada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, auto, strobe return light not detected, red-eye reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191954Z">
+        <seg>flash disparado, auto, retorno de luz estroboscopica no detectada, reduccion ojos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, compulsory flash mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191309Z">
+        <seg>flash disparado, modo de falsh anulado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, compulsory flash mode, red-eye reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191745Z">
+        <seg>flash disparado, modo de falsh anulado, reduccion ojos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, compulsory flash mode, red-eye reduction, strobe return light detected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191908Z">
+        <seg>flash disparado, modo de flash anulado, reduccion ojos rojos, retorno de luz estroboscopica detectada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, compulsory flash mode, red-eye reduction, strobe return light not detected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191855Z">
+        <seg>flash disparado, modo de flash anulado, reduccion ojos rojos, retorno de luz estroboscopica no detectada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, compulsory flash mode, strobe return light detected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191439Z">
+        <seg>flash disparado, modo de flash anulado, retorno de luz estroboscopica detectada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, compulsory flash mode, strobe return light not detected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191414Z">
+        <seg>flash disparado, modo de flash anulado, retorno de luz estroboscopica no detectada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, red-eye reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191649Z">
+        <seg>flash disparado, reduccion ojos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, red-eye reduction, strobe return light detected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191717Z">
+        <seg>flash disparado, reduccion ojos rojos, retorno de luz estroboscopica detectada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flash fired, red-eye reduction, strobe return light not detected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191708Z">
+        <seg>flash disparado, reduccion ojos rojos, retorno de luz estroboscopica no detectada</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,6 +7786,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153746Z">
         <seg>No difuminado/tramado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no flash function</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191628Z">
+        <seg>sin function de flash</seg>
       </tuv>
     </tu>
     <tu>
