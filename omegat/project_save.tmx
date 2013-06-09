@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Device settings description</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194438Z">
+        <seg>Descripcion de las opciones del periferico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digital zoom</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195511Z">
@@ -3770,6 +3778,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195632Z">
         <seg>Modo de medicion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft rating</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194600Z">
+        <seg>clasificacion Microsoft</seg>
       </tuv>
     </tu>
     <tu>
@@ -6214,6 +6230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subject distance range</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194525Z">
+        <seg>rango de distancia al sujeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subject location</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193338Z">
@@ -7350,6 +7374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>close</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194545Z">
+        <seg>cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cloudy</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194648Z">
@@ -7506,6 +7538,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195835Z">
         <seg>profundidad de campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>distant</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194549Z">
+        <seg>distancia</seg>
       </tuv>
     </tu>
     <tu>
@@ -7774,10 +7814,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>hard</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194303Z">
+        <seg>Duro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>high</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195533Z">
         <seg>alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>high gain down</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194250Z">
+        <seg>alta ganancia hacia abajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>high gain up</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194231Z">
+        <seg>alta ganancia hacia arriba</seg>
       </tuv>
     </tu>
     <tu>
@@ -7926,18 +7990,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>low gain up</seg>
+        <seg>low gain down</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145817Z">
-        <seg>Ninguno</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194242Z">
+        <seg>baja ganancia hacia abajo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>macro</seg>
+        <seg>low gain up</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143810Z">
-        <seg>macro</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194217Z">
+        <seg>baja ganancia hacia arriba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>low saturation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194259Z">
+        <seg>baja saturacion</seg>
       </tuv>
     </tu>
     <tu>
@@ -8010,14 +8082,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112942Z">
         <seg>Ninguno</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>normal</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145107Z">
-        <seg>normal</seg>
       </tuv>
     </tu>
     <tu>
@@ -8314,6 +8378,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195459Z">
         <seg>Pequeño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>soft</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194313Z">
+        <seg>suave</seg>
       </tuv>
     </tu>
     <tu>
