@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active area</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120358Z">
+        <seg>Área activa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Actual Pixels</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120855Z">
@@ -454,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aperture value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121639Z">
+        <seg>Valor de abertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Application Managed Colors</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161304Z">
@@ -518,10 +534,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shot ICC profile-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120437Z">
+        <seg>Como se disparó ICC perfil-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shot neutral</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115607Z">
         <seg>Como se disparó neutro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As shot pre-profile matrix-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120456Z">
+        <seg>Como se disparó pre-perfil matriz-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brightness value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121602Z">
+        <seg>Valor de brillo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring All to Front</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135531Z">
@@ -790,14 +830,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>CCIRLEW</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145640Z">
-        <seg>CCIRLEW</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>CCITT group 3 fax</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153424Z">
@@ -826,6 +858,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114547Z">
         <seg>CFA diseño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CFA pattern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121150Z">
+        <seg>CFA Patrón</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,10 +1358,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Components configuration</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121513Z">
+        <seg>Configuración de componentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compressed bits per pixel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121536Z">
+        <seg>Bits por pixel comprimidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compression</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161035Z">
         <seg>Compresion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer/OS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120954Z">
+        <seg>Ordenador/OS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1614,6 +1678,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current ICC profile-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120547Z">
+        <seg>Perfil-X ICC actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current pre-profile matrix-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120610Z">
+        <seg>Pre-perfil matriz-X actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120251Z">
@@ -1642,6 +1722,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145658Z">
         <seg>DCS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date/time digitized</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121458Z">
+        <seg>Fecha/hora digitalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date/time original</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121422Z">
+        <seg>Fecha/hora original</seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXIF version</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121337Z">
+        <seg>EXIF Versión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Easy-shooting mode</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195322Z">
@@ -2086,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure bias value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121617Z">
+        <seg>Valor de sesgo de la exposición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exposure compensation</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194620Z">
@@ -2110,10 +2222,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure program</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121228Z">
+        <seg>Programa de exposición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure time</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121155Z">
+        <seg>Tiempo de exposición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extra samples</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113758Z">
         <seg>Muestras extras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F-Number</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121205Z">
+        <seg>Número F</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,14 +2758,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>ISO</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143917Z">
-        <seg>ISO</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>ISO setting</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195557Z">
@@ -2886,10 +3014,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inter-color profile</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121225Z">
+        <seg>perfil Inter-color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interactive Rendering</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160245Z">
         <seg>Interactive Rendering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interlace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121333Z">
+        <seg>Entrelazar</seg>
       </tuv>
     </tu>
     <tu>
@@ -2937,6 +3081,14 @@
         <seg>JBIG</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145659Z">
+        <seg>JBIG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JBIG color</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120645Z">
         <seg>JBIG</seg>
       </tuv>
     </tu>
@@ -3446,6 +3598,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Masked areas</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120413Z">
+        <seg>Areas enmascaradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max aperture value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121631Z">
+        <seg>Max valor de abertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Max sample value</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112309Z">
@@ -3646,10 +3814,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120652Z">
+        <seg>Siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nikon</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144847Z">
         <seg>Nikon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nikon NEF compressed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120702Z">
+        <seg>Nikon NEF comprimido</seg>
       </tuv>
     </tu>
     <tu>
@@ -3922,6 +4106,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153004Z">
         <seg>Orientación original-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original raw file data-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120355Z">
+        <seg>Nombre de archivo raw data-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original raw file name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120312Z">
+        <seg>Nombre de archivo raw original</seg>
       </tuv>
     </tu>
     <tu>
@@ -4342,6 +4542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raw data unique ID-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120302Z">
+        <seg>Datos Raw unicos ID-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raw data-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194331Z">
@@ -4454,6 +4662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reference black/white</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121104Z">
+        <seg>Referencia blanco/negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160343Z">
@@ -4482,6 +4698,30 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120847Z">
         <seg>Regiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Related image file format</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121140Z">
+        <seg>Formato de archivo de imagen relacionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Related image length</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121147Z">
+        <seg>Longitud de imagen relacionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Related image width</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121143Z">
+        <seg>Ancho de imagen relacionada</seg>
       </tuv>
     </tu>
     <tu>
@@ -5662,6 +5902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spectral sensitivity</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121300Z">
+        <seg>Sensibilidad espectral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spline Regions</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120849Z">
@@ -5702,6 +5950,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strip byte counts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120936Z">
+        <seg>banda de bytes counts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strip offsets-X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120800Z">
+        <seg>Desplazamiento-X de bandas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Style Number $1</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120252Z">
@@ -5738,6 +6002,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153349Z">
         <seg>Tipo de subarchivo (viejo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subject distance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121651Z">
+        <seg>Distancia del sujeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5974,6 +6246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tile byte counts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121030Z">
+        <seg>Mosaico de bytes counts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tile byte counts-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113547Z">
@@ -5986,6 +6266,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113424Z">
         <seg>Longitud del mosaico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile offsets</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121014Z">
+        <seg>Desplazamiento del mosaico</seg>
       </tuv>
     </tu>
     <tu>
@@ -6558,10 +6846,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>YCbCr</seg>
+        <seg>YCbCr coefficients</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145404Z">
-        <seg>YCbCr</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121039Z">
+        <seg>Ycbcr coeficientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YCbCr positioning</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121055Z">
+        <seg>YCbCr Posicionamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YCbCr subsampling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121044Z">
+        <seg>Ycbcr subsampleado</seg>
       </tuv>
     </tu>
     <tu>
@@ -6710,6 +7014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>action program</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121252Z">
+        <seg>Programa de acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>alt 0</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143624Z">
@@ -6754,6 +7066,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195616Z">
         <seg>alto auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>average</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121713Z">
+        <seg>promedio</seg>
       </tuv>
     </tu>
     <tu>
@@ -6842,6 +7162,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193254Z">
         <seg>continuo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>creative program</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121250Z">
+        <seg>Programa creativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7110,6 +7438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>landscape mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121257Z">
+        <seg>Modo de paisaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>large</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195455Z">
@@ -7168,8 +7504,8 @@
       <tuv lang="EN-US">
         <seg>manual</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143851Z">
-        <seg>manual</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121239Z">
+        <seg>Manual</seg>
       </tuv>
     </tu>
     <tu>
@@ -7226,6 +7562,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145107Z">
         <seg>normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>normal program</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121242Z">
+        <seg>Programa normal</seg>
       </tuv>
     </tu>
     <tu>
@@ -7298,6 +7642,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195428Z">
         <seg>retrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>portrait mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121255Z">
+        <seg>Modo de retrato</seg>
       </tuv>
     </tu>
     <tu>
@@ -7602,6 +7954,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193806Z">
         <seg>Sin calibrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>undefined</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121237Z">
+        <seg>sin definir</seg>
       </tuv>
     </tu>
     <tu>
