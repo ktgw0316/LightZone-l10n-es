@@ -598,14 +598,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>B</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135532Z">
-        <seg>VK_B</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Backward version</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114417Z">
@@ -760,8 +752,8 @@
       <tuv lang="EN-US">
         <seg>Bring All to Front</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135531Z">
-        <seg>Zoom</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T205112Z">
+        <seg>Traer todo al frente</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,8 +784,8 @@
       <tuv lang="EN-US">
         <seg>Browser</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120840Z">
-        <seg>navegador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T204444Z">
+        <seg>Navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,8 +800,8 @@
       <tuv lang="EN-US">
         <seg>Browser Layout</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163342Z">
-        <seg>Diseño de navegador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T204515Z">
+        <seg>Diseño de Navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -1192,8 +1184,8 @@
       <tuv lang="EN-US">
         <seg>Clear Recent Folders</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135529Z">
-        <seg>VK_B</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T205531Z">
+        <seg>Eliminar carpetas recientes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1272,8 +1264,8 @@
       <tuv lang="EN-US">
         <seg>Color Profile</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160917Z">
-        <seg>perfil de color</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T204748Z">
+        <seg>Perfil de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -1720,8 +1712,8 @@
       <tuv lang="EN-US">
         <seg>Cut Region</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192739Z">
-        <seg>Mayus Z</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T204846Z">
+        <seg>Cortar region</seg>
       </tuv>
     </tu>
     <tu>
@@ -2104,8 +2096,8 @@
       <tuv lang="EN-US">
         <seg>Edit Mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120421Z">
-        <seg>Modo Editar</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T204234Z">
+        <seg>Modo Editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -3968,8 +3960,8 @@
       <tuv lang="EN-US">
         <seg>No Browser</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120842Z">
-        <seg>No hay navegador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T204504Z">
+        <seg>No hay Navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -4152,8 +4144,8 @@
       <tuv lang="EN-US">
         <seg>Open image from dialog</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120429Z">
-        <seg>Abrir imagen desde el dialogo</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T204348Z">
+        <seg>Abrir imagen desde el cuadro de dialogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4904,16 +4896,16 @@
       <tuv lang="EN-US">
         <seg>Remove Rating</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162453Z">
-        <seg>Borrar clasificación</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T204646Z">
+        <seg>Borrar calificación</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Remove Rating and Select Next</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162501Z">
-        <seg>Borrar clasificación y seleccionar siguiente</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T204744Z">
+        <seg>Borrar calificación y seleccionar siguiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -5608,8 +5600,8 @@
       <tuv lang="EN-US">
         <seg>Send...</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135529Z">
-        <seg>P</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T205344Z">
+        <seg>Enviar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5752,8 +5744,8 @@
       <tuv lang="EN-US">
         <seg>Show Browser</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120842Z">
-        <seg>Mostrar navegador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T204454Z">
+        <seg>Mostrar Navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -6702,14 +6694,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>VK_B</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135529Z">
-        <seg>Eliminar archivos recientes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>VK_C</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143515Z">
@@ -6718,26 +6702,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>VK_D</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143524Z">
-        <seg>VK_D</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>VK_E</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143526Z">
         <seg>VK_E</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>VK_F</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143509Z">
-        <seg>VK_F</seg>
       </tuv>
     </tu>
     <tu>
@@ -6818,14 +6786,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143517Z">
         <seg>VK_S</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>VK_T</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143520Z">
-        <seg>VK_T</seg>
       </tuv>
     </tu>
     <tu>
