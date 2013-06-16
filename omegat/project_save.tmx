@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As Shot</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213428Z">
+        <seg>Cuando Disparó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shot ICC profile-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120437Z">
@@ -758,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As-Shot White Balance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213436Z">
+        <seg>Balance de blanco cuando disparó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto AF point</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203145Z">
@@ -770,6 +786,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160201Z">
         <seg>Auto Guardar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto White Balance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213353Z">
+        <seg>Balance de blanco Auto</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1018,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194622Z">
         <seg>Modo blanco y negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black and White</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213039Z">
+        <seg>Blanco y Negro</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Channel Mixer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213024Z">
+        <seg>Mezclador de canal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check for Update</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160224Z">
@@ -1718,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clone</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213059Z">
+        <seg>Clonar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close Image</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192710Z">
@@ -1746,6 +1794,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212103Z">
         <seg>Contaer esta herramienta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Balance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212946Z">
+        <seg>Balance de Color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Cast</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213010Z">
+        <seg>Dominante de Color</seg>
       </tuv>
     </tu>
     <tu>
@@ -2074,6 +2138,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195518Z">
         <seg>Contraste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contrast Mask</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212820Z">
+        <seg>Máscara de contraste</seg>
       </tuv>
     </tu>
     <tu>
@@ -2878,6 +2950,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable the hue selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212159Z">
+        <seg>Deshabilitar la seleccion de matiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable the luminosity selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212318Z">
+        <seg>Deshabilitar la seleccion por luminosidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120440Z">
@@ -3170,6 +3258,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212030Z">
         <seg>Habilitar Selección de Color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable the hue selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212138Z">
+        <seg>Habilitar la selección de matiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable the luminosity selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212252Z">
+        <seg>Habilitar la selección por luminosidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -4038,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gaussian Blur</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212922Z">
+        <seg>Desenfoque Gaussiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go back to previously selected folder</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211058Z">
@@ -4222,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide extra tool controls</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212124Z">
+        <seg>Esconder controles de herramienta extra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide print proofing tool</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160415Z">
@@ -4314,6 +4434,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T193625Z">
         <seg>Ajuste de matiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hue/Saturation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212937Z">
+        <seg>Matiz/Saturacion</seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,10 +4950,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invert Color Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212411Z">
+        <seg>Invertir la selección de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invert Masks</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211738Z">
         <seg>Invert Máscaras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert the color selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212348Z">
+        <seg>Invertir la selección de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -6022,6 +6166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Noise Reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213052Z">
+        <seg>Reduccion de ruido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Noise reduction</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T193914Z">
@@ -6034,6 +6186,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120336Z">
         <seg>Ninguno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal Color Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212418Z">
+        <seg>Selección de Color normal</seg>
       </tuv>
     </tu>
     <tu>
@@ -6370,6 +6530,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211357Z">
         <seg>Elegir Color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick White Balance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213340Z">
+        <seg>Elegir Balance de Blanco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick White Point</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213445Z">
+        <seg>Elegir Punto Blanco</seg>
       </tuv>
     </tu>
     <tu>
@@ -6822,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RAW Adjustments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213323Z">
+        <seg>Ajustes RAW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ROM operation mode</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193037Z">
@@ -6970,6 +7154,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144413Z">
         <seg>Rojo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red Eyes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213246Z">
+        <seg>Ojos rojos</seg>
       </tuv>
     </tu>
     <tu>
@@ -7130,6 +7322,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211213Z">
         <seg>Hora de liberacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relight</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212901Z">
+        <seg>Reiluminar</seg>
       </tuv>
     </tu>
     <tu>
@@ -7386,6 +7586,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T122727Z">
         <seg>Revertir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert the color selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212400Z">
+        <seg>Revertir la selección de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -7918,6 +8126,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the hue range</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212216Z">
+        <seg>Seleccionar el matiz de gama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the luminosity range</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212337Z">
+        <seg>Seleccionar el rango de luminosidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212422Z">
+        <seg>Selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Self timer</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202042Z">
@@ -8182,6 +8414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sharpen</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212909Z">
+        <seg>Enfocar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sharpening</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T185008Z">
@@ -8354,6 +8594,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210641Z">
         <seg>Mostrar y ocultar los bordes titulados alrededor de lo botones en las barras de herramientas de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show extra tool controls</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212121Z">
+        <seg>Mostrar controles de herramienta extra</seg>
       </tuv>
     </tu>
     <tu>
@@ -8566,6 +8814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smart Sharpen</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213309Z">
+        <seg>Enfoque suavizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smax sample value</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113812Z">
@@ -8674,6 +8930,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120849Z">
         <seg>Regiones spline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spot</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213243Z">
+        <seg>Mancha</seg>
       </tuv>
     </tu>
     <tu>
@@ -9334,6 +9598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ToneMapper</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212831Z">
+        <seg>Mapa de Tonos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool Change</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211954Z">
@@ -9522,6 +9794,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192410Z">
         <seg>Usa $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Luminosity Zones</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213520Z">
+        <seg>Utilizar Zonas de Luminosidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use RGB Zones</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213456Z">
+        <seg>Utilizar Zonas RGB</seg>
       </tuv>
     </tu>
     <tu>
@@ -9818,6 +10106,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144754Z">
         <seg>Balance de blancos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Point Change</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213443Z">
+        <seg>Cambio de Punto blanco</seg>
       </tuv>
     </tu>
     <tu>
@@ -10182,10 +10478,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zone Placement</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213554Z">
+        <seg>Colocacion de Zona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone Type Change</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213531Z">
+        <seg>Cambio de Tipo de Zona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zone matching</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183953Z">
         <seg>Ajuste de zona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZoneMapper</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212813Z">
+        <seg>Mapa de Zonas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZoneMapper,ToneMapperV5,UnSharpMaskV3,GaussianBlur,Hue/SaturationV3,ColorBalanceV3,WhitePointV3,ChannelMixerV4,AdvancedNoiseReductionV3,Clone,Spot,RedEyes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213231Z">
+        <seg>MapadeZonas,MapadeZonasV5,MascaradeEnfoqueV3,DesenfoqueGaussiano,matiz/SaturacionV3,BalancedeColorV3,PuntoBlancoV3,MezcladeCanalV4,ReduccionavanzadaderuidoV3,Clonar,Mancha,OjosRojos</seg>
       </tuv>
     </tu>
     <tu>
