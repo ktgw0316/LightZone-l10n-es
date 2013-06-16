@@ -6742,6 +6742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subject code</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160731Z">
+        <seg>Código sujeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subject distance</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121651Z">
@@ -7822,6 +7830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>agriculture</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161044Z">
+        <seg>Agricultura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>alt 0</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143624Z">
@@ -7830,10 +7846,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>alternative energy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161844Z">
+        <seg>Energía alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>aperture priority</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193405Z">
         <seg>Prioridad a la abertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>arable farming</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161056Z">
+        <seg>Agricultura cultivable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>archaeology</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160754Z">
+        <seg>Arqueología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>architecture</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160756Z">
+        <seg>Arquitectura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>arts, culture, &amp; entertainment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160752Z">
+        <seg>Artes, cultura, y entretenimiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -7910,6 +7966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>biotechnology</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161256Z">
+        <seg>Biotecnología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>black &amp; white</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195422Z">
@@ -7922,6 +7986,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153506Z">
         <seg>Negro es cero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bullfighting</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160804Z">
+        <seg>Taurino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>carnival</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160806Z">
+        <seg>Carnaval</seg>
       </tuv>
     </tu>
     <tu>
@@ -7950,10 +8030,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>chemicals</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161254Z">
+        <seg>Quimicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>chunky</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112403Z">
         <seg>solido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cinema</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160807Z">
+        <seg>Cine</seg>
       </tuv>
     </tu>
     <tu>
@@ -7998,6 +8094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>coal</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161846Z">
+        <seg>Carbón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>color filter array</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153549Z">
@@ -8030,6 +8134,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>computer hardware</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161612Z">
+        <seg>Hardware de ordenador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>computer networking</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161631Z">
+        <seg>Redes de ordenador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>computer software</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161641Z">
+        <seg>Software de ordenador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>computing &amp; information technology</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161608Z">
+        <seg>Informatica y tecnolgia de la informacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>construction &amp; property</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161713Z">
+        <seg>Construcción y propiedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>continuous</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193254Z">
@@ -8058,6 +8202,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121250Z">
         <seg>Programa creativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crime</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160935Z">
+        <seg>Delito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crime, law, &amp; justice</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160925Z">
+        <seg>Delito, ley, &amp; justicia</seg>
       </tuv>
     </tu>
     <tu>
@@ -8102,6 +8262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160809Z">
+        <seg>Baile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>day white fluorescent</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122440Z">
@@ -8142,6 +8310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>disasters &amp; accidents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161005Z">
+        <seg>Accidentes y desastres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>distance</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210625Z">
@@ -8166,10 +8342,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>drought</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161008Z">
+        <seg>Sequía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>earthquake</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161010Z">
+        <seg>Terremoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>easy</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195800Z">
         <seg>facil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>economy, business, &amp; finance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161041Z">
+        <seg>Economía, negocio, y finanza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>energy &amp; resources</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161837Z">
+        <seg>Energia y recursos</seg>
       </tuv>
     </tu>
     <tu>
@@ -8230,10 +8438,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>famine</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161012Z">
+        <seg>Hambruna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fashion</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160811Z">
+        <seg>Moda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fast shutter</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195356Z">
         <seg>disparador rapido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fertilisers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161309Z">
+        <seg>Fertilizantes</seg>
       </tuv>
     </tu>
     <tu>
@@ -8250,6 +8482,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122231Z">
         <seg>Buen tiempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fire</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161014Z">
+        <seg>Fuego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fishing industry</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161124Z">
+        <seg>Industrai de la pesca</seg>
       </tuv>
     </tu>
     <tu>
@@ -8406,6 +8654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>flood</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161016Z">
+        <seg>Inundación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>flourescent</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194654Z">
@@ -8418,6 +8674,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122210Z">
         <seg>Fluorescente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>forestry &amp; timber</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161211Z">
+        <seg>Silvicultura y madera</seg>
       </tuv>
     </tu>
     <tu>
@@ -8486,6 +8750,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>health &amp; beauty products</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161325Z">
+        <seg>Salud y productos de belleza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>heavy construction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161716Z">
+        <seg>Construcción pesada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>high</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195533Z">
@@ -8514,6 +8794,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113007Z">
         <seg>diferenciacion horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>house building</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161750Z">
+        <seg>Construccion de viviendas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8598,10 +8886,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>industrial accident</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161018Z">
+        <seg>Accidente industrial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>inorganic chemicals</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161402Z">
+        <seg>Productos químicos inorgánicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>interior view</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211750Z">
         <seg>Vista de interior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>judiciary</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160945Z">
+        <seg>Judicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -8618,6 +8930,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121257Z">
         <seg>Modo de paisaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>language</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160820Z">
+        <seg>idioma</seg>
       </tuv>
     </tu>
     <tu>
@@ -8654,10 +8974,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>libraries &amp; museums</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160852Z">
+        <seg>Librerias y museos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>linear raw</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153611Z">
         <seg>raw lineal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>literature</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160846Z">
+        <seg>Literatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>livestock farming</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161241Z">
+        <seg>ganaderia</seg>
       </tuv>
     </tu>
     <tu>
@@ -8750,10 +9094,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>meteorological disaster</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161021Z">
+        <seg>Desastre meteorológico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>movie scene</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160720Z">
+        <seg>Escena de movimiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>multi-spot</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121838Z">
         <seg>multi-puntual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>music</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160854Z">
+        <seg>Música</seg>
       </tuv>
     </tu>
     <tu>
@@ -8814,6 +9182,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>nuclear accident</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161023Z">
+        <seg>Accidente nuclear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>oil &amp; gas - downstream activities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162012Z">
+        <seg>Petroleo y gas - actividades posteriores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>on + red-eye</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195159Z">
@@ -8846,10 +9230,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>organic chemicals</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161425Z">
+        <seg>Productos químicos orgánicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>other</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195516Z">
         <seg>Otro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>painting</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160904Z">
+        <seg>Pintura</seg>
       </tuv>
     </tu>
     <tu>
@@ -8894,10 +9294,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>pharmaceuticals</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161439Z">
+        <seg>Farmaceutica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>photography</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160906Z">
+        <seg>Fotografía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>pixels</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160918Z">
         <seg>pixels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>police</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160949Z">
+        <seg>Policía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pollution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161025Z">
+        <seg>Contaminación</seg>
       </tuv>
     </tu>
     <tu>
@@ -8926,6 +9358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>prison</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160955Z">
+        <seg>Prisión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>profile</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211833Z">
@@ -8942,10 +9382,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>punishment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160953Z">
+        <seg>Castigo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>radio</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160910Z">
+        <seg>Radio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>randomized process</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T154100Z">
         <seg>proceso aleatorizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>real estate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161826Z">
+        <seg>Inmueble</seg>
       </tuv>
     </tu>
     <tu>
@@ -9014,6 +9478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>satellite technology</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161634Z">
+        <seg>Tecnología de satélite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>saved as $1</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191804Z">
@@ -9022,10 +9494,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>sculpture</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160912Z">
+        <seg>Escultura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>seascape</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112058Z">
         <seg>marina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>semiconductors &amp; active components</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161638Z">
+        <seg>Semiconductores &amp; componentes activos</seg>
       </tuv>
     </tu>
     <tu>
@@ -9238,6 +9726,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>synthetics &amp; plastics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161526Z">
+        <seg>Sinteticos y plasticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>telecommunications equipment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161644Z">
+        <seg>Equipamiento de telecomunicaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>telecommunications services</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161646Z">
+        <seg>Servicios de telecomunicaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>television</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160914Z">
+        <seg>Televisivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ten-thousandths</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112731Z">
@@ -9250,6 +9770,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112623Z">
         <seg>decimas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>theatre</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160916Z">
+        <seg>Teatro</seg>
       </tuv>
     </tu>
     <tu>
@@ -9298,6 +9826,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153330Z">
         <seg>Máscara de transparencia, solo de multi-página, resolución reducida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transport accident</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161027Z">
+        <seg>Accidente de transporte</seg>
       </tuv>
     </tu>
     <tu>
@@ -9394,6 +9930,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143930Z">
         <seg>V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>volcanic eruption</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161029Z">
+        <seg>Erupción volcánica</seg>
       </tuv>
     </tu>
     <tu>
