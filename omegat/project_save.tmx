@@ -7806,6 +7806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>accountancy &amp; auditing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162345Z">
+        <seg>Auditoría y contabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>action</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211740Z">
@@ -7822,6 +7830,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>addiction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164834Z">
+        <seg>Adicción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>adult education</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163816Z">
+        <seg>Educación de adultos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>advertising</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162854Z">
+        <seg>Publicidadad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>aerial view</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211813Z">
@@ -7830,10 +7862,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>aero/aviation sports</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165008Z">
+        <seg>Aero/Deportes de aviación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>aerospace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163059Z">
+        <seg>Aeroespacial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>agriculture</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161044Z">
         <seg>Agricultura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>air transport</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163745Z">
+        <seg>Transporte aereo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>alcoholic drinks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163358Z">
+        <seg>Bebidas alcohólicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>alpine skiing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165018Z">
+        <seg>Ski alpino</seg>
       </tuv>
     </tu>
     <tu>
@@ -7854,10 +7926,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>american football</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165032Z">
+        <seg>Futbol americano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>animals</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164226Z">
+        <seg>Animales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>aperture priority</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193405Z">
         <seg>Prioridad a la abertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>applied sciences</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164751Z">
+        <seg>Ciencias aplicadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>apprentices</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164259Z">
+        <seg>Aprendices</seg>
       </tuv>
     </tu>
     <tu>
@@ -7874,6 +7978,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160754Z">
         <seg>Arqueología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>archery</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165050Z">
+        <seg>Tiro al arco</seg>
       </tuv>
     </tu>
     <tu>
@@ -7898,6 +8010,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113724Z">
         <seg>datos alfa asociados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>athletics, track &amp; field</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165109Z">
+        <seg>Atletismo, pista y campo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7934,6 +8054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>automotive equipment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163114Z">
+        <seg>Equipamiento de automocion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>average</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121713Z">
@@ -7942,10 +8070,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>badminton</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165111Z">
+        <seg>Badminton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>banking</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162351Z">
+        <seg>Banca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>baseball</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165113Z">
+        <seg>Béisbol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>baseline sequential</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114018Z">
         <seg>linea de base secuencial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>basketball</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165114Z">
+        <seg>Baloncesto</seg>
       </tuv>
     </tu>
     <tu>
@@ -7962,6 +8122,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210616Z">
         <seg>Soportando ref.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>biathlon</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165121Z">
+        <seg>Biathlon</seg>
       </tuv>
     </tu>
     <tu>
@@ -7990,6 +8158,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>books</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162856Z">
+        <seg>Libros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>building materials</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163319Z">
+        <seg>Materiales de construccion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>bullfighting</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160804Z">
@@ -8002,6 +8186,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160806Z">
         <seg>Carnaval</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>casinos &amp; gambling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163602Z">
+        <seg>Casinos y juego</seg>
       </tuv>
     </tu>
     <tu>
@@ -8026,6 +8218,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121811Z">
         <seg>Promedio ponderado al centro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>central banks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162633Z">
+        <seg>Bancos centrales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>charity</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164836Z">
+        <seg>Caridad</seg>
       </tuv>
     </tu>
     <tu>
@@ -8070,6 +8278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>clothing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162531Z">
+        <seg>Ropa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cloudy</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194648Z">
@@ -8098,6 +8314,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161846Z">
         <seg>Carbón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>collective contracts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164304Z">
+        <seg>Contratos colectivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -8166,10 +8390,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>conservation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164014Z">
+        <seg>Conservación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>construction &amp; property</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161713Z">
         <seg>Construcción y propiedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>consultancy services</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162354Z">
+        <seg>Servicios de asesoría</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>consumer issues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162708Z">
+        <seg>Atencion al consumidor</seg>
       </tuv>
     </tu>
     <tu>
@@ -8218,6 +8466,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160925Z">
         <seg>Delito, ley, &amp; justicia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cults &amp; sects</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164645Z">
+        <seg>Cultos y sectas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>curiosities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164227Z">
+        <seg>Curiosidades</seg>
       </tuv>
     </tu>
     <tu>
@@ -8294,10 +8558,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>debt markets</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162712Z">
+        <seg>Mercados de deuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>defence</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164515Z">
+        <seg>Defensa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>defence equipment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163117Z">
+        <seg>Equipamiento de defensa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>deflate</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153449Z">
         <seg>rebajar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>demographics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164844Z">
+        <seg>demografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>department stores</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162555Z">
+        <seg>Grandes almacenes</seg>
       </tuv>
     </tu>
     <tu>
@@ -8310,10 +8614,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>diplomacy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164517Z">
+        <seg>Diplomacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disabled</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164857Z">
+        <seg>desactivado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>disasters &amp; accidents</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161005Z">
         <seg>Accidentes y desastres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>diseases</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164054Z">
+        <seg>Enfermedades</seg>
       </tuv>
     </tu>
     <tu>
@@ -8366,6 +8694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>economic indicators</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162714Z">
+        <seg>Indicadores económicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>economy, business, &amp; finance</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161041Z">
@@ -8374,10 +8710,138 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>education</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163812Z">
+        <seg>Educación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>elections</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164519Z">
+        <seg>Elecciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>electrical appliances</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163138Z">
+        <seg>Electrodomésticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>electricity production &amp; distribution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162242Z">
+        <seg>Producción electrica y distribucion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>emerging markets debt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162740Z">
+        <seg>Mercados de deuda emergentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>employment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164306Z">
+        <seg>Ocupación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>employment agencies</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162402Z">
+        <seg>Agencias de empleo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>energy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162835Z">
+        <seg>Energía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>energy &amp; resources</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161837Z">
         <seg>Energia y recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>energy savings</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164032Z">
+        <seg>Ahorro de energía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>engineering</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164809Z">
+        <seg>Ingeniería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>environmental issues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164006Z">
+        <seg>Asuntos medioambientales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>environmental politics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164037Z">
+        <seg>Política medioambiental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>environmental pollution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164041Z">
+        <seg>Contaminación medioambiental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>epidemic &amp; plague</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164108Z">
+        <seg>Epidemias y plagas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>espionage &amp; intelligence</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164534Z">
+        <seg>Espionaje e inteligencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>euthanasia</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164900Z">
+        <seg>Eutanasia</seg>
       </tuv>
     </tu>
     <tu>
@@ -8438,6 +8902,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>faith</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164650Z">
+        <seg>Fe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>family</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164903Z">
+        <seg>Familiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>family planning</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164906Z">
+        <seg>Planificación familiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>famine</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161012Z">
@@ -8466,6 +8954,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161309Z">
         <seg>Fertilizantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>financial &amp; business services</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162335Z">
+        <seg>Finanzas y servicios de negocios</seg>
       </tuv>
     </tu>
     <tu>
@@ -8678,10 +9174,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>food</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162600Z">
+        <seg>Comida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>foreign aid</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164538Z">
+        <seg>Ayuda extranjera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>foreign exchange markets</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162746Z">
+        <seg>Mercados de cambio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>forestry &amp; timber</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161211Z">
         <seg>Silvicultura y madera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>free masonry</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164721Z">
+        <seg>Masoneria</seg>
       </tuv>
     </tu>
     <tu>
@@ -8710,10 +9238,90 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>furnishings &amp; furniture</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163450Z">
+        <seg>Mobiliario y muebles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>further education</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163835Z">
+        <seg>Educacion superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>games</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164420Z">
+        <seg>Juegos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gaming &amp; lotteries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164430Z">
+        <seg>Juegos y loterias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gastronomy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164431Z">
+        <seg>Gastronomía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>general view</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211818Z">
         <seg>Vista general</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gold &amp; precious materials</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163328Z">
+        <seg>Oro y materiales preciosos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>goods distribution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162529Z">
+        <seg>Distribución de bienes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>government</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164539Z">
+        <seg>Gobierno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>government aid</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162748Z">
+        <seg>Ayuda de gobierno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>government debt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162750Z">
+        <seg>Deuda de gobierno</seg>
       </tuv>
     </tu>
     <tu>
@@ -8750,6 +9358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>health</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164051Z">
+        <seg>Salud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>health &amp; beauty products</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161325Z">
@@ -8758,10 +9374,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>health insurance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164909Z">
+        <seg>Seguro de salud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>health organisations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164114Z">
+        <seg>Organizaciones de salud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>health treatment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164112Z">
+        <seg>Tratamiento de salud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>healthcare providers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162439Z">
+        <seg>Proveedores de salud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>heavy construction</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161716Z">
         <seg>Construcción pesada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>heavy engineering</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163141Z">
+        <seg>Ingeniería pesada</seg>
       </tuv>
     </tu>
     <tu>
@@ -8790,10 +9446,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>hobbies</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164439Z">
+        <seg>Aficiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>holidays or vacations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164506Z">
+        <seg>Días festivos o vacaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>homelessness</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164936Z">
+        <seg>Falta de vivienda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>horizontal differencing</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113007Z">
         <seg>diferenciacion horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hotels &amp; accommodation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163618Z">
+        <seg>Hoteles y alojamiento</seg>
       </tuv>
     </tu>
     <tu>
@@ -8854,6 +9542,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>human Rights</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164542Z">
+        <seg>Derechos humanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>human interest</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164224Z">
+        <seg>Interés humano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>human sciences</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164812Z">
+        <seg>Ciencias humanas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>hundred-thousandths</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112751Z">
@@ -8894,10 +9606,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>industrial components</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163143Z">
+        <seg>Componentes industriales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>inorganic chemicals</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161402Z">
         <seg>Productos químicos inorgánicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>instrument engineering</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163212Z">
+        <seg>Instrumentos de ingenieria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>insurance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162444Z">
+        <seg>Seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>interest rates</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162754Z">
+        <seg>Índices de interés</seg>
       </tuv>
     </tu>
     <tu>
@@ -8910,10 +9654,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>international economic institutions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162757Z">
+        <seg>Instituciones económicas internacionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>international trade issues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162829Z">
+        <seg>Asuntos de comercio internacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iron &amp; steel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163347Z">
+        <seg>Hierro y acero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>judiciary</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160945Z">
         <seg>Judicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>labor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164240Z">
+        <seg>Trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>labour dispute</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164308Z">
+        <seg>Disputa laboral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>labour legislation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164310Z">
+        <seg>Legislación laboral</seg>
       </tuv>
     </tu>
     <tu>
@@ -8974,10 +9766,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>legal services</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162446Z">
+        <seg>Servicios legales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>libraries &amp; museums</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160852Z">
         <seg>Librerias y museos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lifestyle &amp; leisure</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164418Z">
+        <seg>Estilo de vida y ocio</seg>
       </tuv>
     </tu>
     <tu>
@@ -9002,6 +9810,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161241Z">
         <seg>ganaderia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>loan markets</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162832Z">
+        <seg>Mercados de préstamo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>local authorities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164544Z">
+        <seg>Autoridades locales</seg>
       </tuv>
     </tu>
     <tu>
@@ -9062,6 +9886,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>macro economics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162626Z">
+        <seg>Macroeconomía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mail order</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162604Z">
+        <seg>Compra por catálogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>manual</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121239Z">
@@ -9086,6 +9926,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>market research</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162457Z">
+        <seg>Búsqueda de mercados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>markets</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162833Z">
+        <seg>Mercados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>media</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162845Z">
+        <seg>Medios de comunicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medical research</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164135Z">
+        <seg>Inverstigacion medica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medical staff</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164141Z">
+        <seg>Personal médico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medicines</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164143Z">
+        <seg>Medicinas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>medium</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195457Z">
@@ -9094,10 +9982,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>metal goods &amp; engineering</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163057Z">
+        <seg>Productos metalicos y de ingenieria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>metals</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162837Z">
+        <seg>Metales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>metals &amp; minerals</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163252Z">
+        <seg>Metales y minerales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>meteorological disaster</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161021Z">
         <seg>Desastre meteorológico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>minority groups</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164946Z">
+        <seg>Grupos minorítarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -9122,6 +10042,46 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160854Z">
         <seg>Música</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>natural resources</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164043Z">
+        <seg>Recursos naturales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>natural sciences</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164815Z">
+        <seg>Ciencias naturales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nature</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164045Z">
+        <seg>Naturaleza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>news agencies</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162905Z">
+        <seg>Agencias de noticias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>newspaper &amp; magazines</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162925Z">
+        <seg>Periodicos y revistas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9158,6 +10118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>non-ferrous metals</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163351Z">
+        <seg>Metales no ferrosos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>none</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112942Z">
@@ -9190,10 +10158,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>nuclear power</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162215Z">
+        <seg>Poder nuclear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>oil &amp; gas - downstream activities</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162012Z">
         <seg>Petroleo y gas - actividades posteriores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>oil &amp; gas - upstream activities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162209Z">
+        <seg>petroleo y gas - actividades anteriores</seg>
       </tuv>
     </tu>
     <tu>
@@ -9270,6 +10254,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>paper &amp; packaging products</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163508Z">
+        <seg>Papel y productos de embalaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>parent organisations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163914Z">
+        <seg>Asociaciones de padres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>parliament</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164546Z">
+        <seg>Parlamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>partial</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195647Z">
@@ -9278,10 +10286,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>parties</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164548Z">
+        <seg>Partidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>pattern</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121847Z">
         <seg>patron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>people</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164238Z">
+        <seg>Personas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9298,6 +10322,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161439Z">
         <seg>Farmaceutica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>philosophical sciences</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164816Z">
+        <seg>Ciencias filosóficas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9326,10 +10358,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>politics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164513Z">
+        <seg>Política</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>pollution</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161025Z">
         <seg>Contaminación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>population</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164046Z">
+        <seg>Población</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pornography</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164948Z">
+        <seg>Pornografía</seg>
       </tuv>
     </tu>
     <tu>
@@ -9358,10 +10414,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>poverty</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164950Z">
+        <seg>Pobreza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>preschooling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163926Z">
+        <seg>Preescolar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>preventative medicine</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164155Z">
+        <seg>Medicina preventiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>prison</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160955Z">
         <seg>Prisión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>process industries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163355Z">
+        <seg>Industrias de proceso</seg>
       </tuv>
     </tu>
     <tu>
@@ -9382,6 +10470,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>prostitution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164951Z">
+        <seg>Prostitución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public relations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162930Z">
+        <seg>Relaciones públicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>punishment</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160953Z">
@@ -9390,10 +10494,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>racism</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164953Z">
+        <seg>Racismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>radio</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160910Z">
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162940Z">
         <seg>Radio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>railway</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163747Z">
+        <seg>Ferrocarril</seg>
       </tuv>
     </tu>
     <tu>
@@ -9430,6 +10550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>recreational &amp; sports goods</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163655Z">
+        <seg>Articulos de ocio y deporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>red-eye reduction</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195132Z">
@@ -9446,6 +10574,78 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>refugees</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164550Z">
+        <seg>Refugiados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>regional authorities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164552Z">
+        <seg>Autoridades regionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>religion &amp; belief</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164632Z">
+        <seg>Religion y creencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>religious institutions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164723Z">
+        <seg>Instituciones religiosas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>research</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164826Z">
+        <seg>Investigacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>restaurants &amp; catering</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163710Z">
+        <seg>Restaurantes y catering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>retail</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162606Z">
+        <seg>Minorista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>retirement</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164312Z">
+        <seg>Jubilación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>retraining</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164332Z">
+        <seg>Reciclaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>right</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195729Z">
@@ -9454,10 +10654,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>road transport</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163750Z">
+        <seg>Transporte de carretera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rotated 180</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152913Z">
         <seg>rotada 180</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rubber products</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163511Z">
+        <seg>Productos de goma</seg>
       </tuv>
     </tu>
     <tu>
@@ -9478,6 +10694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>satellite &amp; cable services</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163000Z">
+        <seg>Satelite y servicios de cable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>satellite technology</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161634Z">
@@ -9494,6 +10718,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>schools</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163928Z">
+        <seg>Escuelas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>science &amp; technology</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164740Z">
+        <seg>Ciencia y tecnologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>scientific exploration</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164829Z">
+        <seg>Exploración científica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sculpture</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160912Z">
@@ -9506,6 +10754,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112058Z">
         <seg>marina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>securities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162840Z">
+        <seg>Seguridades</seg>
       </tuv>
     </tu>
     <tu>
@@ -9554,6 +10810,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192731Z">
         <seg>Mayus Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>shipbuilding</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163236Z">
+        <seg>Construccion naval</seg>
       </tuv>
     </tu>
     <tu>
@@ -9630,6 +10894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>social issues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164832Z">
+        <seg>Asuntos sociales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>soft</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194313Z">
@@ -9638,10 +10910,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>soft commodities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162843Z">
+        <seg>Mercancías blandas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>soft drinks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163518Z">
+        <seg>Bebidas suaves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>software rotate</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195000Z">
         <seg>rotar por software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>space programs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164830Z">
+        <seg>Programas espaciales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>speciality stores</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162615Z">
+        <seg>Tiendas especialistas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sport</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164957Z">
+        <seg>Deporte</seg>
       </tuv>
     </tu>
     <tu>
@@ -9682,6 +10994,30 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122520Z">
         <seg>standard luz C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>state budget</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164554Z">
+        <seg>Presupuesto estatal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stock broking</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162524Z">
+        <seg>Valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>strike</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164334Z">
+        <seg>Huelga</seg>
       </tuv>
     </tu>
     <tu>
@@ -9734,6 +11070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>teachers unions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163940Z">
+        <seg>Asociaciones de profesores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>telecommunications equipment</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161644Z">
@@ -9752,8 +11096,8 @@
       <tuv lang="EN-US">
         <seg>television</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160914Z">
-        <seg>Televisivo</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163009Z">
+        <seg>Television</seg>
       </tuv>
     </tu>
     <tu>
@@ -9770,6 +11114,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112623Z">
         <seg>decimas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>textiles &amp; clothing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163532Z">
+        <seg>Textiles y ropa</seg>
       </tuv>
     </tu>
     <tu>
@@ -9794,6 +11146,30 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193614Z">
         <seg>sensor de area de color de tres chip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tour operators</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163722Z">
+        <seg>Operadores turisticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tourism</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164511Z">
+        <seg>Turismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tourism &amp; leisure</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163543Z">
+        <seg>Turismo y ocio</seg>
       </tuv>
     </tu>
     <tu>
@@ -9830,10 +11206,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>transport</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163724Z">
+        <seg>Transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>transport accident</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161027Z">
         <seg>Accidente de transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>treaties &amp; organisations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164622Z">
+        <seg>Tratados y organizaciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -9902,6 +11294,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>unemployment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164336Z">
+        <seg>Paro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164346Z">
+        <seg>Sindicato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>university</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164001Z">
+        <seg>Universidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>unknown</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195848Z">
@@ -9942,6 +11358,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>wages &amp; pensions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164359Z">
+        <seg>Sueldos y pensiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>waste</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164048Z">
+        <seg>Residuos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>waste management &amp; pollution control</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162256Z">
+        <seg>Control de contaminación y administración de residuos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>water supplies</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164050Z">
+        <seg>Suministros de agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>water supply</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162259Z">
+        <seg>Suministro de agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>waterway &amp; maritime transport</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163810Z">
+        <seg>Rutas maritimas y transporte maritimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>welfare</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164955Z">
+        <seg>Bienestar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>white fluorescent</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122503Z">
@@ -9954,6 +11426,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153503Z">
         <seg>Blanco es cero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>wholesale</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162618Z">
+        <seg>Al por mayor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>work relations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164402Z">
+        <seg>Relaciones de trabajo</seg>
       </tuv>
     </tu>
     <tu>
