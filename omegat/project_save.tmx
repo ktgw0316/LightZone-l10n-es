@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto AF point</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203145Z">
+        <seg>Punto Auto AF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Save</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160201Z">
@@ -2374,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202631Z">
+        <seg>Fecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date created</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211317Z">
@@ -2538,6 +2554,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210711Z">
         <seg>Destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination DST</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203522Z">
+        <seg>Destino DST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination city</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203449Z">
+        <seg>Ciudad de destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -3158,6 +3190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>F-number</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203228Z">
+        <seg>Numero-F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to restore from preferences</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162028Z">
@@ -3678,6 +3718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frame number</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203530Z">
+        <seg>Número de fotograma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Free byte counts-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112511Z">
@@ -3914,6 +3962,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120412Z">
         <seg>Historico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home-town DST</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203517Z">
+        <seg>En casa DST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home-town city</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203425Z">
+        <seg>En mi ciudad</seg>
       </tuv>
     </tu>
     <tu>
@@ -5342,6 +5406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202552Z">
+        <seg>Modo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Model</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T154816Z">
@@ -6222,6 +6294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preview image size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202624Z">
+        <seg>Ver tamaño de la imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preview image start 2</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200145Z">
@@ -6490,6 +6570,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194331Z">
         <seg>Raw datos-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw image size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203548Z">
+        <seg>Tamaño de imagen raw</seg>
       </tuv>
     </tu>
     <tu>
@@ -8398,14 +8486,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>TIFF</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144843Z">
-        <seg>TIFF</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>TOKINA 19-35mm F3.5-4.5 or TOKINA 28-70mm F2.8 AT-X #3/7</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183926Z">
@@ -8682,6 +8762,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113341Z">
         <seg>Ancho del mosaico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202641Z">
+        <seg>Hora</seg>
       </tuv>
     </tu>
     <tu>
@@ -9342,6 +9430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>World time location</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203353Z">
+        <seg>Ubicación de tiempo mundial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Would you like to replace it?</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163118Z">
@@ -9886,6 +9982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>auto daylight</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203251Z">
+        <seg>auto luz dia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>auto exposure</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193854Z">
@@ -9910,10 +10014,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>auto shade</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203257Z">
+        <seg>auto sombra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>auto, continuous</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201725Z">
         <seg>auto, continuo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto, did not fire</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203031Z">
+        <seg>auto, flash no disparado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto, did not fire, red-eye reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203044Z">
+        <seg>auto, flash no disparado, reduccion ojos rojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto, fired</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203055Z">
+        <seg>auto, disparado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto, fired, red-eye reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203116Z">
+        <seg>fauto, disparado, reduccion ojos rojos</seg>
       </tuv>
     </tu>
     <tu>
@@ -9930,6 +10074,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163114Z">
         <seg>Equipamiento de automocion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>autumn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202736Z">
+        <seg>Otoño</seg>
       </tuv>
     </tu>
     <tu>
@@ -10038,6 +10190,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>best</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202716Z">
+        <seg>la mejor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>better</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202653Z">
+        <seg>mejor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>biathlon</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165121Z">
@@ -10106,6 +10274,30 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T185623Z">
         <seg>Inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bottom-center</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203206Z">
+        <seg>Inferior-centro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bottom-left</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203204Z">
+        <seg>Inferior-izquierdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bottom-right</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203215Z">
+        <seg>Inferior-derecho</seg>
       </tuv>
     </tu>
     <tu>
@@ -10185,6 +10377,14 @@
         <seg>candle light</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T195045Z">
+        <seg>Luz de vela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>candlelight</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202939Z">
         <seg>Luz de vela</seg>
       </tuv>
     </tu>
@@ -10734,6 +10934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dark pet</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202918Z">
+        <seg>oscuro pet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>data form</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184654Z">
@@ -10842,6 +11050,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195835Z">
         <seg>profundidad de campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>destination</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203357Z">
+        <seg>Destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -11654,6 +11870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>flower</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202737Z">
+        <seg>Flor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fluorescent</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122210Z">
@@ -11706,6 +11930,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165932Z">
         <seg>Esqui estilo libre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>full</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202724Z">
+        <seg>Completo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11798,6 +12030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>good</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202649Z">
+        <seg>Buena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>goods distribution</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162529Z">
@@ -11834,6 +12074,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201519Z">
         <seg>Verde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>green mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202742Z">
+        <seg>Modo verde</seg>
       </tuv>
     </tu>
     <tu>
@@ -12034,6 +12282,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164506Z">
         <seg>Días festivos o vacaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>home town</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203355Z">
+        <seg>Ciudad natal</seg>
       </tuv>
     </tu>
     <tu>
@@ -12470,6 +12726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>light pet</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202912Z">
+        <seg>claro pet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>linear raw</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153611Z">
@@ -12758,10 +13022,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>medium hard</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203350Z">
+        <seg>medio duro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium high</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203333Z">
+        <seg>Medio alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium low</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203331Z">
+        <seg>Medio bajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>medium movie</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182535Z">
         <seg>pelicula media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium pet</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202924Z">
+        <seg>medio pet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium soft</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203344Z">
+        <seg>medio suave</seg>
       </tuv>
     </tu>
     <tu>
@@ -12930,6 +13234,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164815Z">
         <seg>Ciencias naturales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>natural skin tone</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202949Z">
+        <seg>Tono de piel natural</seg>
       </tuv>
     </tu>
     <tu>
@@ -13162,6 +13474,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201746Z">
         <seg>on, modo 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on, red-eye reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203129Z">
+        <seg>on, reducción de ojo rojo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14590,6 +14910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>surf &amp; snow</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202733Z">
+        <seg>surf &amp; nieve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>swimming</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180253Z">
@@ -14602,6 +14930,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T212026Z">
         <seg>Simbólico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>synchronous sound record</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203007Z">
+        <seg>Grabacion de sonido sincronizada</seg>
       </tuv>
     </tu>
     <tu>
@@ -14738,6 +15074,30 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181504Z">
         <seg>Superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>top-center</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203153Z">
+        <seg>Superior-centro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>top-left</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203151Z">
+        <seg>Superior-izquierdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>top-right</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203200Z">
+        <seg>Superior-derecho</seg>
       </tuv>
     </tu>
     <tu>
@@ -14910,6 +15270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>underwater</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202930Z">
+        <seg>Submarina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>underwater macro</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201314Z">
@@ -15026,6 +15394,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181905Z">
         <seg>usuario definido 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user-selected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203321Z">
+        <seg>seleccionado-usuario</seg>
       </tuv>
     </tu>
     <tu>
