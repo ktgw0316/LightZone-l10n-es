@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a new Style</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213621Z">
+        <seg>Añadir un Estilo nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the color range</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211610Z">
@@ -1302,14 +1310,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>CIFF</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144844Z">
-        <seg>CIFF</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>CLOSE_BRACKET</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143619Z">
@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel neutral color selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213952Z">
+        <seg>Cancelar selección de color neutro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot redo</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
@@ -1490,14 +1498,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
         <seg>No se puede deshacer</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Canon</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144845Z">
-        <seg>Canon</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +2230,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't access Style "$1"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213913Z">
+        <seg>No se puede acceder a Estilo "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't access Styles</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213704Z">
+        <seg>No se puede acceder a Estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't access the "$1" Style</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192306Z">
@@ -2350,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't read Style from "$1"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213918Z">
+        <seg>No se puede leer Estilo de "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't rename "$1" to "$2"</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120058Z">
@@ -2386,6 +2410,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120039Z">
         <seg>No se puede guardar en $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't store Style "$1"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213907Z">
+        <seg>No se puede almacenar Estilo "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't write Style "$1" to file "$2"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213931Z">
+        <seg>No se puede escribir Estilo "$1" para archivar "$2"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2782,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Style failed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213751Z">
+        <seg>Borrar Estilo erroneo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete the selected image</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T122844Z">
@@ -3142,14 +3190,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>EXIF</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144839Z">
-        <seg>EXIF</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>EXIF information-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194603Z">
@@ -3210,6 +3250,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210948Z">
         <seg>Editar estado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit the list of Styles</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213643Z">
+        <seg>Editar la lista de Estilos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3426,6 +3474,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211255Z">
         <seg>Hora de vencimiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Style</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213724Z">
+        <seg>Exportar Estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213712Z">
+        <seg>Exportar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4118,14 +4182,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>GPS</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144846Z">
-        <seg>GPS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Gain</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211500Z">
@@ -4302,6 +4358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Inspectors</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T214105Z">
+        <seg>Ocultar Inspectores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Previews</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160412Z">
@@ -4450,14 +4514,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114349Z">
         <seg>ICC perfil-X</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>IPTC</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144841Z">
-        <seg>IPTC</seg>
       </tuv>
     </tu>
     <tu>
@@ -4842,6 +4898,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113527Z">
         <seg>Conjunto de tintas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inspectors</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T214043Z">
+        <seg>Inspectores</seg>
       </tuv>
     </tu>
     <tu>
@@ -5330,14 +5394,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200445Z">
         <seg>Periferia de valor de luz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>LightZone</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124704Z">
-        <seg>LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -6070,14 +6126,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Nikon</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144847Z">
-        <seg>Nikon</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Nikon NEF compressed</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120702Z">
@@ -6144,8 +6192,8 @@
       <tuv lang="EN-US">
         <seg>No Styles defined</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124429Z">
-        <seg>No hay estilos definidas</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213801Z">
+        <seg>No hay Estilos definidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -7390,6 +7438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove this Style</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213640Z">
+        <seg>Elimianar este Estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rename $1 to:</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160355Z">
@@ -7562,6 +7618,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112854Z">
         <seg>Unidad de resolución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore Factory Styles</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213647Z">
+        <seg>Restaurar Estilos de Fábrica</seg>
       </tuv>
     </tu>
     <tu>
@@ -8110,6 +8174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a neutral color in the photo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213948Z">
+        <seg>Seleccionar un color neutro en la foto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select an Image</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120201Z">
@@ -8530,6 +8602,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162830Z">
         <seg>Mostrar Región Interior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Inspectors</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T214052Z">
+        <seg>Mostrar Inspectores</seg>
       </tuv>
     </tu>
     <tu>
@@ -9030,6 +9110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Style "$1" was written to "$2"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213942Z">
+        <seg>Estilo "$1" fue escrito a "$2"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Style Number $1</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120252Z">
@@ -9346,6 +9434,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205950Z">
         <seg>Esto es la carpeta que LightZone utilizará para almacenar datos temporalmente mientras editas tus fotos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This program has run out of memory and will now shut down.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T214022Z">
+        <seg>Este programa esta fuera de memoria y  ahora se cerrara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13210,22 +13306,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161750Z">
         <seg>Construccion de viviendas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>http://crash.lightcrafts.com:8080/post-dump/test</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124702Z">
-        <seg>http://crash.lightcrafts.com:8080/post-dump/test</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>http://en.wikipedia.org/wiki/SSE2#CPUs_supporting_SSE2</seg>
-      </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164107Z">
-        <seg>http://en.wikipedia.org/wiki/SSE2#CPUs_supporting_SSE2</seg>
       </tuv>
     </tu>
     <tu>
