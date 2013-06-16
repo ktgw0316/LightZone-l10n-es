@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-,0,+ / disabled</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181106Z">
+        <seg>-,0,+ / desactivado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-,0,+ / enabled</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181054Z">
+        <seg>-,0,+ / activado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...and $1 more</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160914Z">
@@ -102,6 +118,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0,-,+ / disabled</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181047Z">
+        <seg>0,-,+ / desactivado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0,-,+ / enabled</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181041Z">
+        <seg>0,-,+ / activado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 EV</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150409Z">
@@ -114,6 +146,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191919Z">
         <seg>1 archivo para procesar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1/200 (fixed)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180943Z">
+        <seg>1/200 (fijo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1st</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181153Z">
+        <seg>1.º</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2/3 EV</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150401Z">
@@ -170,6 +218,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145939Z">
         <seg>200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181155Z">
+        <seg>2.º</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AE lock/AF</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180749Z">
+        <seg>AE bloqueo/AF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AEB bracket value</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194844Z">
@@ -306,6 +370,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200337Z">
         <seg>Puntos AF usados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AF/AE lock</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180742Z">
+        <seg>Bloqueo AF/AE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AF/AF lock</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180754Z">
+        <seg>AF/AF bloqueo</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,10 +678,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto exposure-lock buttons</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180717Z">
+        <seg>Bloque de botones de autoexposicion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-exposure bracketing</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194758Z">
         <seg>Auto-exposicion de horquillado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto-exposure bracketing sequence / auto cancellation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181033Z">
+        <seg>Auto exposicion de sequencia de horquillado / auto cancelacion</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,6 +2710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File length</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180649Z">
+        <seg>Longitud de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File name</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164250Z">
@@ -2654,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill-flash auto-reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181337Z">
+        <seg>Reducion automatica de relleno de flash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find $1</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120224Z">
@@ -2672,8 +2784,8 @@
       <tuv lang="EN-US">
         <seg>Firmware version</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193031Z">
-        <seg>Version Firmware</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180553Z">
+        <seg>Firmware Versión</seg>
       </tuv>
     </tu>
     <tu>
@@ -2818,6 +2930,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193315Z">
         <seg>Unidad de resolucion plano focal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal type</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180640Z">
+        <seg>Tipo focal</seg>
       </tuv>
     </tu>
     <tu>
@@ -3286,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image number</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180555Z">
+        <seg>Número de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image orientation</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T152706Z">
@@ -3694,10 +3822,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lens auto-focus stop button function switch</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181251Z">
+        <seg>Cambio de funcion del boton del autofoco de la lente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lens info</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115856Z">
         <seg>Informacion de lentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lens info (EOS 1D)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180631Z">
+        <seg>Lente info (EOS 1D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,6 +4126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Long exposure noise reduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180654Z">
+        <seg>Reducción de ruido de exposición larga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Long focal length</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195948Z">
@@ -4186,6 +4338,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120843Z">
         <seg>Minimizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mirror lock-up</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180847Z">
+        <seg>Blqueo de espejo levantado</seg>
       </tuv>
     </tu>
     <tu>
@@ -4680,8 +4840,8 @@
       <tuv lang="EN-US">
         <seg>Owner name</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193042Z">
-        <seg>Nombre de dueño</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180609Z">
+        <seg>Nombre de propietario</seg>
       </tuv>
     </tu>
     <tu>
@@ -4746,6 +4906,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160342Z">
         <seg>Pegar Herramientas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permission denied</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180546Z">
+        <seg>Permiso denegado</seg>
       </tuv>
     </tu>
     <tu>
@@ -6454,6 +6622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shutter curtain sync</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181147Z">
+        <seg>Cortina de disparador sincronizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shutter release method</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193237Z">
@@ -6474,6 +6650,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164303Z">
         <seg>Velocidad del disparador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shutter-speed in Av mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180938Z">
+        <seg>Velocidad de disparo en modo Av</seg>
       </tuv>
     </tu>
     <tu>
@@ -7166,6 +7350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tv/Av and exposure level</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180903Z">
+        <seg>Tv/Av Y nivel de exposición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120822Z">
@@ -7830,6 +8022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>acts of terror</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180414Z">
+        <seg>Actos de terror</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>addiction</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164834Z">
@@ -7994,6 +8194,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160756Z">
         <seg>Arquitectura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>armed conflict</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180416Z">
+        <seg>Conflicto armado</seg>
       </tuv>
     </tu>
     <tu>
@@ -8302,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>civil unrest</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180420Z">
+        <seg>Malestar civil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>climbing</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165653Z">
@@ -8482,6 +8698,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122455Z">
         <seg>blanco frio fluorescente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>coup d'etat</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180447Z">
+        <seg>Golpe de estado</seg>
       </tuv>
     </tu>
     <tu>
@@ -8854,6 +9078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>enabled</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180857Z">
+        <seg>activado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>energy</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162835Z">
@@ -9114,6 +9346,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161124Z">
         <seg>Industrai de la pesca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fixed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180642Z">
+        <seg>Fijado</seg>
       </tuv>
     </tu>
     <tu>
@@ -9414,6 +9654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>global weather change</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180507Z">
+        <seg>Cambio de tiempo global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>gold &amp; precious materials</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163328Z">
@@ -9458,6 +9706,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211823Z">
         <seg>Grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>guerrilla activities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180450Z">
+        <seg>Actividades de guerrilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -10006,6 +10262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>lock AE, start timer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181317Z">
+        <seg>Bloqueo AE, inicio de temporizador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>longitude</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210523Z">
@@ -10130,6 +10394,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162833Z">
         <seg>Mercados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>massacre</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180451Z">
+        <seg>Masacre</seg>
       </tuv>
     </tu>
     <tu>
@@ -10434,6 +10706,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195248Z">
         <seg>disparo unico AF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>operate AF</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181256Z">
+        <seg>Operar AF</seg>
       </tuv>
     </tu>
     <tu>
@@ -10902,6 +11182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>riots</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180454Z">
+        <seg>Disturbios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>road transport</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163750Z">
@@ -10918,6 +11206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rowing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180007Z">
+        <seg>Remo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rubber products</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163511Z">
@@ -10926,10 +11222,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rugby league</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180014Z">
+        <seg>Liga de rugby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rugby union</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180020Z">
+        <seg>Unión de rugby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>safe</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120155Z">
         <seg>seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sailing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180029Z">
+        <seg>Navegar</seg>
       </tuv>
     </tu>
     <tu>
@@ -11070,6 +11390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>shooting</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180111Z">
+        <seg>Tiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>shutter priority</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193343Z">
@@ -11118,6 +11446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ski jumping</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180122Z">
+        <seg>Salto de sky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>slow shutter</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195404Z">
@@ -11138,6 +11474,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195459Z">
         <seg>Pequeño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>snow boarding</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180130Z">
+        <seg>snow board</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>soccer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180132Z">
+        <seg>Fútbol</seg>
       </tuv>
     </tu>
     <tu>
@@ -11198,6 +11550,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>speed skating</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180157Z">
+        <seg>Patinaje de velocidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>speedway</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180232Z">
+        <seg>Pista de carreras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sport</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164957Z">
@@ -11210,6 +11578,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195433Z">
         <seg>deportes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sports organisations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180235Z">
+        <seg>Organizaciones de deportes</seg>
       </tuv>
     </tu>
     <tu>
@@ -11302,6 +11678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>swimming</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180253Z">
+        <seg>Natacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>symbolic</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T212026Z">
@@ -11314,6 +11698,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161526Z">
         <seg>Sinteticos y plasticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>table tennis</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180304Z">
+        <seg>Ping pong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>taekwon-do</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180317Z">
+        <seg>taekwondo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11354,6 +11754,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112731Z">
         <seg>diezmilesimas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tennis</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180320Z">
+        <seg>Tenis</seg>
       </tuv>
     </tu>
     <tu>
@@ -11478,6 +11886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>triathlon</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180326Z">
+        <seg>Triathlon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>trilinear sensor</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193703Z">
@@ -11574,6 +11990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>unrest, conflicts, &amp; war</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180409Z">
+        <seg>Malestar, conflictos, y guerra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>unsafe</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120150Z">
@@ -11598,6 +12022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>violent demonstrations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180457Z">
+        <seg>Manifestaciones violentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>volcanic eruption</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161029Z">
@@ -11606,10 +12038,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>volleyball</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180332Z">
+        <seg>Voleibol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>wages &amp; pensions</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164359Z">
         <seg>Sueldos y pensiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>war</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180459Z">
+        <seg>Guerra</seg>
       </tuv>
     </tu>
     <tu>
@@ -11626,6 +12074,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162256Z">
         <seg>Control de contaminación y administración de residuos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>water polo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180338Z">
+        <seg>Waterpolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>water skiing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180348Z">
+        <seg>Esqui nautico</seg>
       </tuv>
     </tu>
     <tu>
@@ -11650,6 +12114,54 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163810Z">
         <seg>Rutas maritimas y transporte maritimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>weather</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180501Z">
+        <seg>Tiempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>weather forecasts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180503Z">
+        <seg>Previsiones de tiempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>weather reports</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180522Z">
+        <seg>Prediccion metereologica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>weather statistics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180525Z">
+        <seg>Estadística de tiempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>weather warnings</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180534Z">
+        <seg>Avisos de tiempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>weightlifting</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180353Z">
+        <seg>Halterofilia</seg>
       </tuv>
     </tu>
     <tu>
@@ -11686,6 +12198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>windsurfing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180357Z">
+        <seg>Windsurf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>work relations</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164402Z">
@@ -11698,14 +12218,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193206Z">
         <seg>Documento escrito</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>zoom</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145851Z">
-        <seg>zoom</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
