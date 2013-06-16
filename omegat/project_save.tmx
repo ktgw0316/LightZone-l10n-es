@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color effect</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201959Z">
+        <seg>Efecto de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color filter</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184704Z">
@@ -3334,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flash bias</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201949Z">
+        <seg>Sesgo de flash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flash charge level</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T195534Z">
@@ -4378,6 +4394,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184728Z">
         <seg>Flash interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal serial number</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201957Z">
+        <seg>Número de serie interno</seg>
       </tuv>
     </tu>
     <tu>
@@ -7406,6 +7430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Self timer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202042Z">
+        <seg>Temporizador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Self-timer delay</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195033Z">
@@ -9190,6 +9222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>White balance bias</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201931Z">
+        <seg>Sesgo de balance de blanco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>White balance bracket</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201245Z">
@@ -10530,6 +10570,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184914Z">
         <seg>Contraste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202007Z">
+        <seg>Fresco</seg>
       </tuv>
     </tu>
     <tu>
@@ -12166,6 +12214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>infinite</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202028Z">
+        <seg>Infinito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>inorganic chemicals</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161402Z">
@@ -12554,6 +12610,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194259Z">
         <seg>baja saturacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>low/high quality</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202026Z">
+        <seg>baja/alta calidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -15034,6 +15098,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180459Z">
         <seg>Guerra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>warm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202004Z">
+        <seg>Tibio</seg>
       </tuv>
     </tu>
     <tu>
