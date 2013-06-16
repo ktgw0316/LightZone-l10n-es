@@ -62,14 +62,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>$1 x $2</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123631Z">
-        <seg>$1 x $2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>(LightZone must restart for this to take effect.)</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160158Z">
@@ -146,14 +138,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180943Z">
         <seg>1/200 (fijo)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>16</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144123Z">
-        <seg>16</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust the color range</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211610Z">
+        <seg>Ajustar el rango de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Options</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161037Z">
@@ -554,6 +546,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120249Z">
         <seg>Siempre aplicar este Estilo a las imagenes RAW desde "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amount</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211510Z">
+        <seg>Cantidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +638,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Preset</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211853Z">
+        <seg>Aplicar Preset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Presets</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211856Z">
+        <seg>Aplicar Presets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Style</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120816Z">
@@ -650,6 +666,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120433Z">
         <seg>Aplicar Estilo a la imagen seleccionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply this tool to a selected color</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212110Z">
+        <seg>Aplicar esta herramienta a un color seleccionado</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1046,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blend</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211534Z">
+        <seg>Mezcla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blend Mode Change</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211551Z">
+        <seg>Cambio de modo de mezcla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blending Mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211639Z">
+        <seg>Modo de mezcla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blue</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144532Z">
@@ -1390,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel color selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212112Z">
+        <seg>Cancelar selección de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot redo</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
@@ -1670,10 +1726,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211941Z">
+        <seg>Contraer herramienta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse image stacks</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120434Z">
         <seg>Contraer pilas de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse this tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212103Z">
+        <seg>Contaer esta herramienta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Change</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211355Z">
+        <seg>Cambio de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Dropper Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212023Z">
+        <seg>Seleccion cuentagotas de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,10 +1774,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Intensity</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211411Z">
+        <seg>Intensidad de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Management</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161306Z">
         <seg>Gestion de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Noise</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211422Z">
+        <seg>Ruido de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,10 +1806,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Radius</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211409Z">
+        <seg>Radio de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211757Z">
+        <seg>Selección de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Selection Mask</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160412Z">
         <seg>Mascara de seleccion de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Selector</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211957Z">
+        <seg>Selector de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyan-Red</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211429Z">
+        <seg>Cyan-Rojo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cyans</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T204827Z">
@@ -2622,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detail</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211453Z">
+        <seg>Detalle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Device settings description</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194438Z">
@@ -2714,6 +2858,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210938Z">
         <seg>Version del directorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211812Z">
+        <seg>Deshabilitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable Color Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212044Z">
+        <seg>Deshabilitar selección de Color</seg>
       </tuv>
     </tu>
     <tu>
@@ -2950,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211324Z">
+        <seg>Tamaño de edicion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit status</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210948Z">
@@ -2982,6 +3150,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Empty Info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211258Z">
+        <seg>Info vacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211801Z">
+        <seg>Habilitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Color Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212030Z">
+        <seg>Habilitar Selección de Color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enforce aspect ratio constraints</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160402Z">
@@ -2992,24 +3184,24 @@
       <tuv lang="EN-US">
         <seg>Enter copyright text here.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160257Z">
-        <seg>Enter copyright text here.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210933Z">
+        <seg>Introducir texto de copyright aquí.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Enter copyright text in the space above.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160255Z">
-        <seg>Enter copyright text in the space above.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210735Z">
+        <seg>Introudcir texto de copyright en el espacio superior.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Enter creator here.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160258Z">
-        <seg>Enter creator here.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210947Z">
+        <seg>Introducir autor aquí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,10 +3286,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expand Tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211922Z">
+        <seg>Expandir Herramienta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expand image stacks</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120435Z">
         <seg>Expandir pilas de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand this tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212047Z">
+        <seg>Expandir esta herramienta</seg>
       </tuv>
     </tu>
     <tu>
@@ -3370,6 +3578,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193759Z">
         <seg>Fuente de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File time</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211339Z">
+        <seg>Hora de archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3806,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211500Z">
+        <seg>Ganancia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain control</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194059Z">
@@ -3814,10 +4038,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>General</seg>
+        <seg>Go back to previously selected folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160254Z">
-        <seg>General</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211058Z">
+        <seg>Volver a la carpeta seleccionada anteriormente</seg>
       </tuv>
     </tu>
     <tu>
@@ -3834,6 +4058,30 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200859Z">
         <seg>Gradación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grain Intensity</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211417Z">
+        <seg>Intensidad de grano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grain Noise</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211424Z">
+        <seg>Ruido de grano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grain Radius</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211415Z">
+        <seg>Radio de grano</seg>
       </tuv>
     </tu>
     <tu>
@@ -4574,6 +4822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invert Masks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211738Z">
+        <seg>Invert Máscaras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is one of these the right image?</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163134Z">
@@ -5166,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lock</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211821Z">
+        <seg>Bloquear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Long exposure noise reduction</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180654Z">
@@ -5198,6 +5462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Luminosity</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211507Z">
+        <seg>Luminosidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>M</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143533Z">
@@ -5226,6 +5498,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195016Z">
         <seg>Modo macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magenta-Green</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211431Z">
+        <seg>Magenta-Verde</seg>
       </tuv>
     </tu>
     <tu>
@@ -5392,8 +5672,8 @@
       <tuv lang="EN-US">
         <seg>Metadata</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163824Z">
-        <seg>Reemplazandolo sobreescribirá su contenido actual.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211240Z">
+        <seg>Metadatos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5410,6 +5690,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194600Z">
         <seg>clasificacion Microsoft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Midpoint</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211441Z">
+        <seg>Punto medio</seg>
       </tuv>
     </tu>
     <tu>
@@ -5806,6 +6094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opacity Change</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211627Z">
+        <seg>Cambiar opacidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135522Z">
@@ -5882,22 +6178,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145424Z">
         <seg>Orientación</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Orig</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160909Z">
-        <seg>Orig</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Original</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160912Z">
-        <seg>Original</seg>
       </tuv>
     </tu>
     <tu>
@@ -6082,6 +6362,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T204521Z">
         <seg>Imagen photoshop recursos-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick Color</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211357Z">
+        <seg>Elegir Color</seg>
       </tuv>
     </tu>
     <tu>
@@ -6542,6 +6830,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Radius</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211446Z">
+        <seg>Radio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211557Z">
+        <seg>Rango</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rate</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160332Z">
@@ -6830,10 +7134,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember Preset</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211851Z">
+        <seg>Recordar Preset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remind me later</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120401Z">
         <seg>Recordarmelo mas tarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove $1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211916Z">
+        <seg>Borrar $1</seg>
       </tuv>
     </tu>
     <tu>
@@ -6858,6 +7178,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T204744Z">
         <seg>Borrar calificación y seleccionar siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove from the stack</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211848Z">
+        <seg>Borrar del apilado</seg>
       </tuv>
     </tu>
     <tu>
@@ -6918,6 +7246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset Color Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211729Z">
+        <seg>Reiniciar seleccion de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset Crop</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160408Z">
@@ -6938,6 +7274,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160407Z">
         <seg>Reiniciar rotacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset color selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211714Z">
+        <seg>Reiniciar seleccion de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -7296,8 +7640,8 @@
       <tuv lang="EN-US">
         <seg>Save LightZone files as:</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160253Z">
-        <seg>Save LightZone files as:</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210657Z">
+        <seg>Guardar archivos LightZone files como:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7514,6 +7858,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160334Z">
         <seg>Seleccionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select $1 Preset</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211836Z">
+        <seg>Seleccionar $1 Preset</seg>
       </tuv>
     </tu>
     <tu>
@@ -7782,10 +8134,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set opacity</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211619Z">
+        <seg>Fijar opacidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the angle of rotation in degrees</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164031Z">
         <seg>Ajuste el ángulo de giro en grados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the default value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211350Z">
+        <seg>Fijar valor por defecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,8 +8352,8 @@
       <tuv lang="EN-US">
         <seg>Show and hide the titled borders around buttons in the LightZone toolbars.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160252Z">
-        <seg>Show and hide the titled borders around buttons in the LightZone toolbars.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210641Z">
+        <seg>Mostrar y ocultar los bordes titulados alrededor de lo botones en las barras de herramientas de LightZone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8042,6 +8410,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160846Z">
         <seg>Mostrar la herramienta de rotacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the help for this tool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212107Z">
+        <seg>Mostrar la ayuda para esta herramienta</seg>
       </tuv>
     </tu>
     <tu>
@@ -8184,8 +8560,8 @@
       <tuv lang="EN-US">
         <seg>Smaller image files will make LightZone faster.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160300Z">
-        <seg>Smaller image files will make LightZone faster.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211042Z">
+        <seg>Archivos de imagen más pequeños harán LightZone más rápido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8264,8 +8640,8 @@
       <tuv lang="EN-US">
         <seg>Specify the image file format LightZone should use when it saves your work.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160300Z">
-        <seg>Specify the image file format LightZone should use when it saves your work.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211024Z">
+        <seg>Especificar el formato de archivo de imagen que LightZone tendría que utilizar cuándo guarda tu trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8510,6 +8886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Swap Tools</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211950Z">
+        <seg>Herramientas de intercambio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swap width and height</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160403Z">
@@ -8590,6 +8974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperature</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211513Z">
+        <seg>Temperatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text info-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194705Z">
@@ -8632,8 +9024,8 @@
       <tuv lang="EN-US">
         <seg>Then select an image in the browser, and click the button next to the copyright field in the browser's metadata area to write this copyright text to an image file.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160256Z">
-        <seg>Then select an image in the browser, and click the button next to the copyright field in the browser's metadata area to write this copyright text to an image file.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210929Z">
+        <seg>Entonces seleccionar una imagen en el navegador, y picar en el boton cercano al campo de copyright en el area de metadatos del navegador para escribir este texto de copyrigth a un archivo de imagen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8721,6 +9113,14 @@
         <seg>Threshholding</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153705Z">
+        <seg>Umbral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Threshold</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211521Z">
         <seg>Umbral</seg>
       </tuv>
     </tu>
@@ -8854,6 +9254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tint</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211515Z">
+        <seg>Tinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153047Z">
@@ -8922,6 +9330,30 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203656Z">
         <seg>Curvas de tono-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool Change</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211954Z">
+        <seg>Cambio de herramienta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool Opacity</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211658Z">
+        <seg>Herramienta de opacidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool Settings</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211755Z">
+        <seg>Configuracion de herramientas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9034,6 +9466,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191906Z">
         <seg>Error desconocido procesando este archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211828Z">
+        <seg>Desbloquear</seg>
       </tuv>
     </tu>
     <tu>
@@ -9266,6 +9706,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210152Z">
         <seg>Versión ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211310Z">
+        <seg>tamaño de version</seg>
       </tuv>
     </tu>
     <tu>
@@ -9670,6 +10118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yellow-Blue</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211433Z">
+        <seg>Amarillo-Azul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yellows</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T204813Z">
@@ -9730,14 +10186,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183953Z">
         <seg>Ajuste de zona</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Zoom</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T143534Z">
-        <seg>Zoom</seg>
       </tuv>
     </tu>
     <tu>
@@ -13826,14 +14274,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160906Z">
         <seg>Fotografía</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>pixels</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160918Z">
-        <seg>pixels</seg>
       </tuv>
     </tu>
     <tu>
