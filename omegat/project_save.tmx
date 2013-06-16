@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto-bracketing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183148Z">
+        <seg>Auto-horquillado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-exposure bracketing</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194758Z">
@@ -786,6 +794,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144532Z">
         <seg>Azul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blur warning</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183202Z">
+        <seg>Aviso desenfoque</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure warning</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183226Z">
+        <seg>Aviso de exposicion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extra samples</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113758Z">
@@ -2814,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flash strength</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183034Z">
+        <seg>Fuerza de Flash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FlashPix version</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T192726Z">
@@ -2954,6 +2986,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195236Z">
         <seg>Modo de enfoque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus warning</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183217Z">
+        <seg>Aviso de foco</seg>
       </tuv>
     </tu>
     <tu>
@@ -4922,6 +4962,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193725Z">
         <seg>Informacion de imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Picture mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183057Z">
+        <seg>Modo de imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -8294,6 +8342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>aperture-priority AE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183120Z">
+        <seg>Prioridad a la abertura AE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>applied sciences</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164751Z">
@@ -9026,6 +9082,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122408Z">
         <seg>luz día fluorescente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>daywhite color, fluorescent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183008Z">
+        <seg>Color luz dia blanca, fluorescente</seg>
       </tuv>
     </tu>
     <tu>
@@ -11718,6 +11782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>shutter-priority AE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183138Z">
+        <seg>Prioridad al disparo AE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>shutter-speed priority</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195819Z">
@@ -12426,6 +12498,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180459Z">
         <seg>Guerra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>warning</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183210Z">
+        <seg>Aviso</seg>
       </tuv>
     </tu>
     <tu>
