@@ -280,8 +280,8 @@
       <tuv lang="EN-US">
         <seg>A high limit enables LightZone operate faster and smoother; a low limit leaves more memory for other applications.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160237Z">
-        <seg>A high limit enables LightZone operate faster and smoother; a low limit leaves more memory for other applications.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205546Z">
+        <seg>Un limite alto permite a LightZone operar mas rapido y fluido; un limite bajo libera memoria para otras aplicaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,8 +520,8 @@
       <tuv lang="EN-US">
         <seg>All the Time</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160246Z">
-        <seg>All the Time</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210303Z">
+        <seg>Todo el Tiempo</seg>
       </tuv>
     </tu>
     <tu>
@@ -920,8 +920,8 @@
       <tuv lang="EN-US">
         <seg>Between Region Changes</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160247Z">
-        <seg>Between Region Changes</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210306Z">
+        <seg>Entre Cambios de Región</seg>
       </tuv>
     </tu>
     <tu>
@@ -2696,8 +2696,8 @@
       <tuv lang="EN-US">
         <seg>Direct Save</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160249Z">
-        <seg>Direct Save</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210324Z">
+        <seg>Guardar directo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4168,8 +4168,8 @@
       <tuv lang="EN-US">
         <seg>If you have a fast hard disk, using a folder on it will enable LightZone to operate faster.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160243Z">
-        <seg>If you have a fast hard disk, using a folder on it will enable LightZone to operate faster.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210132Z">
+        <seg>Si  tienes un disco duro rápido, utilizando una carpeta dentro permite a LightZone operar más rápido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4496,8 +4496,8 @@
       <tuv lang="EN-US">
         <seg>Interactive Rendering</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160245Z">
-        <seg>Interactive Rendering</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210218Z">
+        <seg>Renderizado interactivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5000,16 +5000,16 @@
       <tuv lang="EN-US">
         <seg>LightZone Settings Info</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160232Z">
-        <seg>LightZone Settings Info</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205228Z">
+        <seg>Ajustes de LightZone Info</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LightZone Settings Reset</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160234Z">
-        <seg>LightZone Settings Reset</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205245Z">
+        <seg>Reinicio en los ajustes de LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -5376,8 +5376,8 @@
       <tuv lang="EN-US">
         <seg>Memory Limit</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160235Z">
-        <seg>Memory Limit</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205252Z">
+        <seg>Límite de memoria</seg>
       </tuv>
     </tu>
     <tu>
@@ -5904,8 +5904,8 @@
       <tuv lang="EN-US">
         <seg>Original Folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160239Z">
-        <seg>Original Folder</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205833Z">
+        <seg>Carpeta original</seg>
       </tuv>
     </tu>
     <tu>
@@ -6096,8 +6096,8 @@
       <tuv lang="EN-US">
         <seg>Pick a new scratch folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160244Z">
-        <seg>Pick a new scratch folder</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210153Z">
+        <seg>Elegir una carpeta de inicio nueva</seg>
       </tuv>
     </tu>
     <tu>
@@ -6624,8 +6624,8 @@
       <tuv lang="EN-US">
         <seg>Recent Folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160240Z">
-        <seg>Recent Folder</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205841Z">
+        <seg>Carpeta reciente</seg>
       </tuv>
     </tu>
     <tu>
@@ -7024,8 +7024,8 @@
       <tuv lang="EN-US">
         <seg>Restoring LightZone Settings means LightZone will work the way it did when it was new.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160231Z">
-        <seg>Restoring LightZone Settings means LightZone will work the way it did when it was new.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205119Z">
+        <seg>Restaurando los ajustes de LightZone significa que funcionará de la manera que lo hacia al principio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7368,8 +7368,8 @@
       <tuv lang="EN-US">
         <seg>Save to Folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160237Z">
-        <seg>Save to Folder</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205613Z">
+        <seg>Guardar en carpeta</seg>
       </tuv>
     </tu>
     <tu>
@@ -7488,8 +7488,8 @@
       <tuv lang="EN-US">
         <seg>Scratch Folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160241Z">
-        <seg>Scratch Folder</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205918Z">
+        <seg>Carpeta inicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -7792,8 +7792,8 @@
       <tuv lang="EN-US">
         <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160236Z">
-        <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205433Z">
+        <seg>Establece el limite superior en la cantidad de memoria que LightZone deberia usar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7968,8 +7968,8 @@
       <tuv lang="EN-US">
         <seg>Show Tool Titles</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160252Z">
-        <seg>Show Tool Titles</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210506Z">
+        <seg>Mostrar titulos de herramientas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8656,8 +8656,8 @@
       <tuv lang="EN-US">
         <seg>This can fix lots of problems, but loses your customizations.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160231Z">
-        <seg>This can fix lots of problems, but loses your customizations.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205146Z">
+        <seg>Esto puede arreglar ciertos problemas, pero pierdes tus personalizaciónes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8688,8 +8688,8 @@
       <tuv lang="EN-US">
         <seg>This is the folder that LightZone will use to store data temporarily while you edit your photos.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160242Z">
-        <seg>This is the folder that LightZone will use to store data temporarily while you edit your photos.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205950Z">
+        <seg>Esto es la carpeta que LightZone utilizará para almacenar datos temporalmente mientras editas tus fotos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9328,24 +9328,24 @@
       <tuv lang="EN-US">
         <seg>When Regions are Done</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160248Z">
-        <seg>When Regions are Done</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210312Z">
+        <seg>Cuándo las regiones están hechas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>When checked, using LightZone as the external editor for another application will cause LightZone to save your photo directly back to the other application when you select File &gt; Save.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160250Z">
-        <seg>When checked, using LightZone as the external editor for another application will cause LightZone to save your photo directly back to the other application when you select File &gt; Save.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210442Z">
+        <seg>Cuándo está activado, utilizando LightZone como el editor externo para otra aplicación causará que LightZone para salvar tu foto directamente volverá a la otra aplicación cuándo seleccionas Archivo &gt; Guardar.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>When drawing regions, LightZone can update the photo in real time, it can update only between changes, or it can wait until regions are done.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160246Z">
-        <seg>When drawing regions, LightZone can update the photo in real time, it can update only between changes, or it can wait until regions are done.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210301Z">
+        <seg>Cuándo se dibujan regiones, LightZone puede actualizar la foto en tiempo real,  pueda actualizar sólo entre cambios, o  pueda esperar hasta que las regiones estén hechas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9360,8 +9360,8 @@
       <tuv lang="EN-US">
         <seg>When saving your photo for the first time, the file chooser can automatically display the folder where your original photo came from, or it can display the last folder where LightZone saved something.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160238Z">
-        <seg>When saving your photo for the first time, the file chooser can automatically display the folder where your original photo came from, or it can display the last folder where LightZone saved something.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205830Z">
+        <seg>Cuando guardas tu foto por primera vez, el selector de archivos puede mostrar automaticamente donde estaba tu foto original, o puede mostrar la ultima carpeta donde LightZone guardo algo.</seg>
       </tuv>
     </tu>
     <tu>
