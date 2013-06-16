@@ -8134,6 +8134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>billiards, snooker, &amp; pool</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165354Z">
+        <seg>billar, snooker, y billar americano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>biotechnology</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161256Z">
@@ -8166,6 +8174,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>bowling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165427Z">
+        <seg>Bolos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bowls &amp; petanque</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165622Z">
+        <seg>Bolos y petanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>boxing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165627Z">
+        <seg>Boxeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>building materials</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163319Z">
@@ -8178,6 +8210,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160804Z">
         <seg>Taurino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>canoeing &amp; kayaking</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165643Z">
+        <seg>Canoa y kayak</seg>
       </tuv>
     </tu>
     <tu>
@@ -8258,6 +8298,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160807Z">
         <seg>Cine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>climbing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165653Z">
+        <seg>Escalada</seg>
       </tuv>
     </tu>
     <tu>
@@ -8454,6 +8502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cricket</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165656Z">
+        <seg>Criquet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>crime</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160935Z">
@@ -8482,6 +8538,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164227Z">
         <seg>Curiosidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>curling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165701Z">
+        <seg>Curling</seg>
       </tuv>
     </tu>
     <tu>
@@ -8526,10 +8590,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cycling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165704Z">
+        <seg>Ciclismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dance</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160809Z">
         <seg>Baile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dancing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165709Z">
+        <seg>Danza</seg>
       </tuv>
     </tu>
     <tu>
@@ -8666,6 +8746,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194549Z">
         <seg>distancia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>diving</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165716Z">
+        <seg>Bucear</seg>
       </tuv>
     </tu>
     <tu>
@@ -8830,6 +8918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>equestrian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165723Z">
+        <seg>Equestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>espionage &amp; intelligence</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164534Z">
@@ -8950,10 +9046,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>fencing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165726Z">
+        <seg>Esgrima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fertilisers</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161309Z">
         <seg>Fertilizantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>field hockey</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165738Z">
+        <seg>Hockey hierba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>figure skating</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165917Z">
+        <seg>Patinaje</seg>
       </tuv>
     </tu>
     <tu>
@@ -9214,6 +9334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>freestyle skiing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165932Z">
+        <seg>Esqui estilo libre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>full auto</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195334Z">
@@ -9334,10 +9462,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>gymnastics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165935Z">
+        <seg>Gimnasia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>half-length</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211928Z">
         <seg>mitad de largo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>handball (team)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165937Z">
+        <seg>Balonmano (equipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9478,6 +9622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>horse/harness racing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170008Z">
+        <seg>Caballo/arnes de carreras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>hotels &amp; accommodation</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163618Z">
@@ -9582,6 +9734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ice hockey</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170015Z">
+        <seg>Hockey hielo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>incandescent</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122214Z">
@@ -9678,10 +9838,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>jai alai (pelota)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170029Z">
+        <seg>Pelota vasca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>judiciary</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160945Z">
         <seg>Judicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>karate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170033Z">
+        <seg>Kárate</seg>
       </tuv>
     </tu>
     <tu>
@@ -9886,6 +10062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>luge</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170113Z">
+        <seg>Trineo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>macro economics</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162626Z">
@@ -9922,6 +10106,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195304Z">
         <seg>foco manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>marathon</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170115Z">
+        <seg>Maratón</seg>
       </tuv>
     </tu>
     <tu>
@@ -10018,6 +10210,38 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164946Z">
         <seg>Grupos minorítarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>modern pentathlon</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170125Z">
+        <seg>Pentathlon moderno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>motor racing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170137Z">
+        <seg>Carreras de motor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>motor rallying</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170146Z">
+        <seg>Rallies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>motorcycling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170148Z">
+        <seg>Motociclismo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10134,6 +10358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>nordic skiing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170218Z">
+        <seg>Ski nordico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>normal program</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121242Z">
@@ -10218,6 +10450,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161425Z">
         <seg>Productos químicos orgánicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>orienteering</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170256Z">
+        <seg>Orientacion</seg>
       </tuv>
     </tu>
     <tu>
@@ -10418,6 +10658,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164950Z">
         <seg>Pobreza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>power boating</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170342Z">
+        <seg>Motonautica</seg>
       </tuv>
     </tu>
     <tu>
