@@ -12048,8 +12048,8 @@
       <tuv lang="EN-US">
         <seg>ZoneMapper,ToneMapperV5,UnSharpMaskV3,GaussianBlur,Hue/SaturationV3,ColorBalanceV3,WhitePointV3,ChannelMixerV4,AdvancedNoiseReductionV3,Clone,Spot,RedEyes</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213231Z">
-        <seg>MapadeZonas,MapadeZonasV5,MascaradeEnfoqueV3,DesenfoqueGaussiano,matiz/SaturacionV3,BalancedeColorV3,PuntoBlancoV3,MezcladeCanalV4,ReduccionavanzadaderuidoV3,Clonar,Mancha,OjosRojos</seg>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T140750Z">
+        <seg>ZoneMapper,ToneMapperV5,UnSharpMaskV3,GaussianBlur,Hue/SaturationV3,ColorBalanceV3,WhitePointV3,ChannelMixerV4,AdvancedNoiseReductionV3,Clone,Spot,RedEyes</seg>
       </tuv>
     </tu>
     <tu>
