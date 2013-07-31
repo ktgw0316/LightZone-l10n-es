@@ -4510,14 +4510,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>HQ</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122350Z">
-        <seg>HQ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>HS continuous</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184230Z">
@@ -7382,14 +7374,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Pro photo RGB</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122340Z">
-        <seg>Pro photo RGB</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Process method</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210627Z">
@@ -8238,26 +8222,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>SHQ</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122351Z">
-        <seg>SHQ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>SIGMA 70-300mm F4-5.6 or SIGMA 300mm F4 APO Macro #3/7</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183932Z">
         <seg>SIGMA 70-300mm F4-5.6 o SIGMA 300mm F4 APO Macro #3/7</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>SQ</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122349Z">
-        <seg>SQ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12160,8 +12128,8 @@
       <tuv lang="EN-US">
         <seg>continuous AF</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200707Z">
-        <seg>continuo AF</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164933Z">
+        <seg>Continuo AF</seg>
       </tuv>
     </tu>
     <tu>
@@ -14120,8 +14088,8 @@
       <tuv lang="EN-US">
         <seg>left-to-right</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201606Z">
-        <seg>izquierda-a-derecha</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T165019Z">
+        <seg>Izquierda-a-derecha</seg>
       </tuv>
     </tu>
     <tu>
@@ -14656,8 +14624,8 @@
       <tuv lang="EN-US">
         <seg>muted</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201432Z">
-        <seg>apagado</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T165006Z">
+        <seg>Apagado</seg>
       </tuv>
     </tu>
     <tu>
@@ -15128,8 +15096,8 @@
       <tuv lang="EN-US">
         <seg>panorama</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122343Z">
-        <seg>panorama</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164955Z">
+        <seg>Panorama</seg>
       </tuv>
     </tu>
     <tu>
@@ -15616,8 +15584,8 @@
       <tuv lang="EN-US">
         <seg>reduction + filter (ISO boost)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201048Z">
-        <seg>reducton + filtro (aumento de ISO)</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164948Z">
+        <seg>Reduccion + filtro (aumento de ISO)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15712,8 +15680,8 @@
       <tuv lang="EN-US">
         <seg>right-to-left</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201612Z">
-        <seg>derecha-a-izquierda</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T165020Z">
+        <seg>Derecha-a-izquierda</seg>
       </tuv>
     </tu>
     <tu>
@@ -16064,8 +16032,8 @@
       <tuv lang="EN-US">
         <seg>single AF</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200651Z">
-        <seg>unico AF</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164930Z">
+        <seg>Unico AF</seg>
       </tuv>
     </tu>
     <tu>
@@ -16360,16 +16328,16 @@
       <tuv lang="EN-US">
         <seg>spot + highlight control</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200632Z">
-        <seg>spot + control altas luces</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164924Z">
+        <seg>Spot + control altas luces</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>spot + shadow control</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200641Z">
-        <seg>spot + control sombras</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164925Z">
+        <seg>Spot + control sombras</seg>
       </tuv>
     </tu>
     <tu>
