@@ -776,8 +776,8 @@
       <tuv lang="EN-US">
         <seg>As Shot</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213428Z">
-        <seg>Cuando Disparó</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T162801Z">
+        <seg>De Disparo</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,8 +816,8 @@
       <tuv lang="EN-US">
         <seg>As-Shot White Balance</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213436Z">
-        <seg>Balance de blanco cuando disparó</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T162827Z">
+        <seg>Balance de blanco del disparo</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,14 +842,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122417Z">
         <seg>Audio</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Auto</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122735Z">
-        <seg>auto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1406,14 +1398,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>CIFF</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122757Z">
-        <seg>CIFF</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>CM1 (red enhance)</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200920Z">
@@ -1610,14 +1594,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
         <seg>No se puede deshacer</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Canon</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122758Z">
-        <seg>Canon</seg>
       </tuv>
     </tu>
     <tu>
@@ -3342,14 +3318,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>EXIF</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122755Z">
-        <seg>EXIF</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>EXIF information-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194603Z">
@@ -4342,14 +4310,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>GPS</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122759Z">
-        <seg>GPS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Gain</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211500Z">
@@ -4730,14 +4690,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114349Z">
         <seg>ICC perfil-X</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>IPTC</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122756Z">
-        <seg>IPTC</seg>
       </tuv>
     </tu>
     <tu>
@@ -5638,14 +5590,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>LightZone</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122815Z">
-        <seg>LightZone</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>LightZone Batch Processing</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191745Z">
@@ -6450,14 +6394,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120652Z">
         <seg>Siguiente</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Nikon</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122800Z">
-        <seg>Nikon</seg>
       </tuv>
     </tu>
     <tu>
@@ -7768,8 +7704,8 @@
       <tuv lang="EN-US">
         <seg>Remove this Style</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213640Z">
-        <seg>Elimianar este Estilo</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T162956Z">
+        <seg>Eliminar este Estilo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9678,14 +9614,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>TIFF</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122428Z">
-        <seg>TIFF</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>TOKINA 19-35mm F3.5-4.5 or TOKINA 28-70mm F2.8 AT-X #3/7</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183926Z">
@@ -10488,8 +10416,8 @@
       <tuv lang="EN-US">
         <seg>When checked, using LightZone as the external editor for another application will cause LightZone to save your photo directly back to the other application when you select File &gt; Save.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210442Z">
-        <seg>Cuándo está activado, utilizando LightZone como el editor externo para otra aplicación causará que LightZone para salvar tu foto directamente volverá a la otra aplicación cuándo seleccionas Archivo &gt; Guardar.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T163818Z">
+        <seg>Cuándo está activado, utilizando LightZone como el editor externo para otra aplicación provocará que LightZone para salvar tu foto directamente volverá a la otra aplicación cuándo seleccionas Archivo &gt; Guardar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10936,8 +10864,8 @@
       <tuv lang="EN-US">
         <seg>Zoom To Fit</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120854Z">
-        <seg>Ajustar</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164217Z">
+        <seg>Zoom para Ajustar</seg>
       </tuv>
     </tu>
     <tu>
@@ -13642,14 +13570,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161750Z">
         <seg>Construccion de viviendas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>http://en.wikipedia.org/wiki/SSE2#CPUs_supporting_SSE2</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122833Z">
-        <seg>http://en.wikipedia.org/wiki/SSE2#CPUs_supporting_SSE2</seg>
       </tuv>
     </tu>
     <tu>
