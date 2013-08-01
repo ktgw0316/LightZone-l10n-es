@@ -62,14 +62,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>$1 x $2</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122722Z">
-        <seg>$1 x $2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>(LightZone must restart for this to take effect.)</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160158Z">
@@ -146,14 +138,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122423Z">
         <seg>10s</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>16</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122707Z">
-        <seg>16</seg>
       </tuv>
     </tu>
     <tu>
@@ -4382,34 +4366,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Gamma</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122731Z">
-        <seg>Gamma</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Gaussian Blur</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212922Z">
         <seg>Desenfoque Gaussiano</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>General</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122655Z">
-        <seg>General</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Global</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122653Z">
-        <seg>Global</seg>
       </tuv>
     </tu>
     <tu>
@@ -5902,14 +5862,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Local</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122651Z">
-        <seg>Local</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Localized camera model</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114459Z">
@@ -6534,14 +6486,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>No Info</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122714Z">
-        <seg>No Info</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>No Open Windows</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120846Z">
@@ -6778,22 +6722,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130522T145424Z">
         <seg>Orientación</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Orig</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122700Z">
-        <seg>Orig</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Original</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122701Z">
-        <seg>Original</seg>
       </tuv>
     </tu>
     <tu>
@@ -7880,8 +7808,8 @@
       <tuv lang="EN-US">
         <seg>Replacing it will overwrite its current contents.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163706Z">
-        <seg>Reeplazandola sobreescribiras el contenido actual.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T162250Z">
+        <seg>Reemplazandola sobreescribiras el contenido actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8328,8 +8256,8 @@
       <tuv lang="EN-US">
         <seg>Save LightZone files as:</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210657Z">
-        <seg>Guardar archivos LightZone files como:</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T161419Z">
+        <seg>Guardar archivos LightZone como:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9464,8 +9392,8 @@
       <tuv lang="EN-US">
         <seg>Spot</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213243Z">
-        <seg>Mancha</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T162704Z">
+        <seg>Mota</seg>
       </tuv>
     </tu>
     <tu>
@@ -9928,8 +9856,8 @@
       <tuv lang="EN-US">
         <seg>This is the folder that LightZone will use to store data temporarily while you edit your photos.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205950Z">
-        <seg>Esto es la carpeta que LightZone utilizará para almacenar datos temporalmente mientras editas tus fotos.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T162016Z">
+        <seg>Esta es la carpeta que LightZone utilizará para almacenar datos temporalmente mientras editas tus fotos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10928,8 +10856,8 @@
       <tuv lang="EN-US">
         <seg>You may have to restore orientations manually using the browser's rotate buttons.)</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160221Z">
-        <seg>Tienes que restaurar manualente las orientaciones usando los botones de rotar del navegador.)</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T161940Z">
+        <seg>Tienes que restaurar manualmente las orientaciones usando los botones de rotar del navegador.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10984,8 +10912,8 @@
       <tuv lang="EN-US">
         <seg>ZoneMapper,ToneMapperV5,UnSharpMaskV3,GaussianBlur,Hue/SaturationV3,ColorBalanceV3,WhitePointV3,ChannelMixerV4,AdvancedNoiseReductionV3,Clone,Spot,RedEyes</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T140750Z">
-        <seg>ZoneMapper,ToneMapperV5,UnSharpMaskV3,GaussianBlur,Hue/SaturationV3,ColorBalanceV3,WhitePointV3,ChannelMixerV4,AdvancedNoiseReductionV3,Clone,Spot,RedEyes</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T162658Z">
+        <seg>MapaZonas,MapaZonasV5,MacaraEnfoqueV3,DesenfoqueGausiano,Matiz/SaturacionV3,BalanceColorV3,PuntoBlancoV3,MezcladorCanalV4,ReduccionAvanzadaRuidoV3,Clonar,Mota,OjosRojos</seg>
       </tuv>
     </tu>
     <tu>
@@ -15218,14 +15146,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T160906Z">
         <seg>Fotografía</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>pixels</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130617T122705Z">
-        <seg>pixels</seg>
       </tuv>
     </tu>
     <tu>
