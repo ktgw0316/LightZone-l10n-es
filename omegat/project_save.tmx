@@ -1808,8 +1808,8 @@
       <tuv lang="EN-US">
         <seg>Choose</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T121056Z">
-        <seg>Escoger</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T155917Z">
+        <seg>Seleccionar</seg>
       </tuv>
     </tu>
     <tu>
@@ -10568,8 +10568,8 @@
       <tuv lang="EN-US">
         <seg>When drawing regions, LightZone can update the photo in real time, it can update only between changes, or it can wait until regions are done.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210301Z">
-        <seg>Cuándo se dibujan regiones, LightZone puede actualizar la foto en tiempo real,  pueda actualizar sólo entre cambios, o  pueda esperar hasta que las regiones estén hechas.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T160548Z">
+        <seg>Cuándo se dibujan regiones, LightZone puede actualizar la foto en tiempo real,  pueda actualizar sólo entre cambios, o  pueda esperar hasta que las regiones estén dibujadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10584,8 +10584,8 @@
       <tuv lang="EN-US">
         <seg>When saving your photo for the first time, the file chooser can automatically display the folder where your original photo came from, or it can display the last folder where LightZone saved something.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205830Z">
-        <seg>Cuando guardas tu foto por primera vez, el selector de archivos puede mostrar automaticamente donde estaba tu foto original, o puede mostrar la ultima carpeta donde LightZone guardo algo.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T160840Z">
+        <seg>Cuando guardas tu foto por primera vez, el administrador de archivos puede mostrar automaticamente donde estaba tu foto original, o puede mostrar la ultima carpeta donde LightZone guardo algo.</seg>
       </tuv>
     </tu>
     <tu>
