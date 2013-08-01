@@ -1280,8 +1280,8 @@
       <tuv lang="EN-US">
         <seg>Browse Mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T161055Z">
-        <seg>Vista de Navegador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164548Z">
+        <seg>Modo Navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -1312,8 +1312,8 @@
       <tuv lang="EN-US">
         <seg>Browser Layout</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T161627Z">
-        <seg>Vista de Navegador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164659Z">
+        <seg>Diseño de Navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,8 +1376,8 @@
       <tuv lang="EN-US">
         <seg>CFA layout</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114547Z">
-        <seg>CFA diseño</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164424Z">
+        <seg>Diseño CFA</seg>
       </tuv>
     </tu>
     <tu>
@@ -3360,8 +3360,8 @@
       <tuv lang="EN-US">
         <seg>Edit Mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T161103Z">
-        <seg>Vista de Editor</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164607Z">
+        <seg>Modo Editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -3400,8 +3400,8 @@
       <tuv lang="EN-US">
         <seg>Editor Layout</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T161619Z">
-        <seg>Vista de editor</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164706Z">
+        <seg>Diseño de editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -3472,8 +3472,8 @@
       <tuv lang="EN-US">
         <seg>Enter copyright text in the space above.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210735Z">
-        <seg>Introudcir texto de copyright en el espacio superior.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164250Z">
+        <seg>Introducir texto de copyright en el espacio superior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10064,8 +10064,8 @@
       <tuv lang="EN-US">
         <seg>Tool Opacity</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211658Z">
-        <seg>Herramienta de opacidad</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T165133Z">
+        <seg>Opacidad de la herramienta</seg>
       </tuv>
     </tu>
     <tu>
@@ -10336,8 +10336,8 @@
       <tuv lang="EN-US">
         <seg>Version size</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211310Z">
-        <seg>tamaño de version</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164744Z">
+        <seg>Tamaño de version</seg>
       </tuv>
     </tu>
     <tu>
