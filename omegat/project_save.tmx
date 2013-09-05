@@ -520,8 +520,8 @@
       <tuv lang="EN-US">
         <seg>All the Time</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210303Z">
-        <seg>Todo el Tiempo</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185647Z">
+        <seg>Todo el tiempo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display Color Profile</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185241Z">
+        <seg>Perfil de color del monitor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display the path of the current folder</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160322Z">
@@ -3058,6 +3066,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120110Z">
         <seg>No preguntar de nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't limit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T190011Z">
+        <seg>Sin limite</seg>
       </tuv>
     </tu>
     <tu>
@@ -3770,6 +3786,38 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160905Z">
         <seg>Ajustar la imagen a pantalla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 1024 x 1024</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185926Z">
+        <seg>Ajustar a 1024 x 1024</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 1536 x 1536</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185943Z">
+        <seg>Ajustar a 1536 x 1536</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 2048 x 2048</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185953Z">
+        <seg>Ajustar a 2048 x 2048</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 2560 x 2560</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T190002Z">
+        <seg>Ajustar a 2560 x 2560</seg>
       </tuv>
     </tu>
     <tu>
@@ -4522,6 +4570,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194617Z">
         <seg>Valor ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185544Z">
+        <seg>Si no fijas esta opción, LightZone usará un perfil sRGB por defecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5458,6 +5514,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130905T165811Z">
         <seg>LightZone se ha quedado sin memoria y se cerrará ahora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone must know the correct color profile for your display in order to show colors correctly.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185447Z">
+        <seg>LightZone debe conocer el perfil de color correcto para tu monitor y así poder mostrar los colores correctamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8254,6 +8318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the color profile of your display device.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185321Z">
+        <seg>Establecer el perfil de color de tu monitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the default value</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211350Z">
@@ -9192,8 +9264,8 @@
       <tuv lang="EN-US">
         <seg>This Style has no version number</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
-        <seg>Este estilo no tiene numero de version</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185840Z">
+        <seg>Este Estilo no tiene numero de version</seg>
       </tuv>
     </tu>
     <tu>
@@ -9264,8 +9336,8 @@
       <tuv lang="EN-US">
         <seg>This will discard preview images and orientations saved by the LightZone browser.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163709Z">
-        <seg>Esto desechará los previos de las imagenes y las orientaciones guardadas por el navegador de LightZone.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185147Z">
+        <seg>Esto descartará los previos de las imagenes y las orientaciones guardadas por el navegador de LightZone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10640,8 +10712,8 @@
       <tuv lang="EN-US">
         <seg>auto, continuous</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201725Z">
-        <seg>auto, continuo</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T184605Z">
+        <seg>Auto, continuo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10680,8 +10752,8 @@
       <tuv lang="EN-US">
         <seg>auto, focus button</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201722Z">
-        <seg>auto, boton de foco</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T184603Z">
+        <seg>Auto, boton de foco</seg>
       </tuv>
     </tu>
     <tu>
@@ -10808,16 +10880,16 @@
       <tuv lang="EN-US">
         <seg>best</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202716Z">
-        <seg>la mejor</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T184719Z">
+        <seg>La mejor</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>better</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T202653Z">
-        <seg>mejor</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T184651Z">
+        <seg>Mejor</seg>
       </tuv>
     </tu>
     <tu>
@@ -12352,8 +12424,8 @@
       <tuv lang="EN-US">
         <seg>flash fired</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T122556Z">
-        <seg>flash disparado</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185029Z">
+        <seg>Flash disparado</seg>
       </tuv>
     </tu>
     <tu>
@@ -12464,8 +12536,8 @@
       <tuv lang="EN-US">
         <seg>flash fired, red-eye reduction, strobe return light detected</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T191717Z">
-        <seg>flash disparado, reduccion ojos rojos, retorno de luz estroboscopica detectada</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185040Z">
+        <seg>Flash disparado, reduccion ojos rojos, retorno de luz estroboscopica detectada</seg>
       </tuv>
     </tu>
     <tu>
@@ -12760,8 +12832,8 @@
       <tuv lang="EN-US">
         <seg>halogen</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201652Z">
-        <seg>halogeno</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T184558Z">
+        <seg>Halogeno</seg>
       </tuv>
     </tu>
     <tu>
@@ -14224,8 +14296,8 @@
       <tuv lang="EN-US">
         <seg>on, red-eye reduction</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203129Z">
-        <seg>on, reducción de ojo rojo</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T184754Z">
+        <seg>On, reducción de ojo rojo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14344,8 +14416,8 @@
       <tuv lang="EN-US">
         <seg>panning</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201833Z">
-        <seg>panoramica</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T184617Z">
+        <seg>Panoramica</seg>
       </tuv>
     </tu>
     <tu>
@@ -15830,6 +15902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tele-macro</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T184611Z">
+        <seg>Tele-macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>telecommunications equipment</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161644Z">
@@ -15912,8 +15992,8 @@
       <tuv lang="EN-US">
         <seg>three chip color area sensor</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T204711Z">
-        <seg>Sensor de area de color de tres chip</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185056Z">
+        <seg>Sensor de area de color de tres chips</seg>
       </tuv>
     </tu>
     <tu>
@@ -16088,8 +16168,8 @@
       <tuv lang="EN-US">
         <seg>two chip color area sensor</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T204704Z">
-        <seg>Sensor de area de color de dos chip</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185053Z">
+        <seg>Sensor de area de color de dos chips</seg>
       </tuv>
     </tu>
     <tu>
