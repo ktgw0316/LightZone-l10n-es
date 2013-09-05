@@ -416,8 +416,8 @@
       <tuv lang="EN-US">
         <seg>About LightZone</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135532Z">
-        <seg>Guia de usuario en linea</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T170840Z">
+        <seg>Acerca de LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -1720,8 +1720,8 @@
       <tuv lang="EN-US">
         <seg>Click the Crop button again to commit.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T160446Z">
-        <seg>Click el botón de Recorte otra vez para cometer.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T165035Z">
+        <seg>Click el botón de Recorte otra vez para confirmarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1760,8 +1760,8 @@
       <tuv lang="EN-US">
         <seg>Collapse image stacks</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120434Z">
-        <seg>Contraer pilas de imagen</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T170351Z">
+        <seg>Contraer apilado de imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2264,8 +2264,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't find a Style named "$1"</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135605Z">
-        <seg>No se puede guardar este Estilo</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T165409Z">
+        <seg>No se puede encontrar un Estilo llamado</seg>
       </tuv>
     </tu>
     <tu>
@@ -2304,8 +2304,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't interpret the file "$1" as a Style</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135605Z">
-        <seg>No se encuentra un Estilo llamado "$1"</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T165446Z">
+        <seg>No se puede interpretar el archivo "$1" como un Estilo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3032,8 +3032,8 @@
       <tuv lang="EN-US">
         <seg>Don't Save</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T125132Z">
-        <seg>Guardar como...</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T165548Z">
+        <seg>No guardar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3392,8 +3392,8 @@
       <tuv lang="EN-US">
         <seg>Expand image stacks</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120435Z">
-        <seg>Expandir pilas de imagen</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T170357Z">
+        <seg>Expandir apilado de imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -3418,6 +3418,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211255Z">
         <seg>Hora de vencimiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T170444Z">
+        <seg>Exportar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5328,8 +5336,8 @@
       <tuv lang="EN-US">
         <seg>LightZone Settings Help</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120328Z">
-        <seg>Ayuda ajustes LightZone</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T165959Z">
+        <seg>Ayuda de LightZone para ajustes</seg>
       </tuv>
     </tu>
     <tu>
@@ -5432,8 +5440,8 @@
       <tuv lang="EN-US">
         <seg>LightZone has run out of memory and will now shut down.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163656Z">
-        <seg>LightZone se ha quedado sin memoria y se apagará ahora.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T165811Z">
+        <seg>LightZone se ha quedado sin memoria y se cerrará ahora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6432,8 +6440,8 @@
       <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191722Z">
-        <seg>Elegir una carpeta que tiene algunas imágenes dentro de ella.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T165052Z">
+        <seg>Elegir una carpeta que tiene algunas imágenes dentro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7160,8 +7168,8 @@
       <tuv lang="EN-US">
         <seg>Release setting</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T161756Z">
-        <seg>Liberar configuacion</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T171508Z">
+        <seg>Alterar configuacion</seg>
       </tuv>
     </tu>
     <tu>
@@ -7384,8 +7392,8 @@
       <tuv lang="EN-US">
         <seg>Resetting LightZone Settings will restore LightZone to its factory settings.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120329Z">
-        <seg>Los ajustes de LightZone restauraran LightZone a sus ajustes de fabrica.</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T170053Z">
+        <seg>Reinicializando los ajustes de LightZone restaurara LightZone a sus ajustes de fabrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7960,8 +7968,8 @@
       <tuv lang="EN-US">
         <seg>Select an Image</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120201Z">
-        <seg>Seleccionar una imagen</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T165638Z">
+        <seg>Selecciona una imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -8360,8 +8368,8 @@
       <tuv lang="EN-US">
         <seg>Show Help for LightZone Send</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192237Z">
-        <seg>Mostrar ayuda de envio de LightZone</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T165223Z">
+        <seg>Mostrar ayuda de LightZone para Enviar</seg>
       </tuv>
     </tu>
     <tu>
@@ -8608,8 +8616,8 @@
       <tuv lang="EN-US">
         <seg>Shutter release method</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193237Z">
-        <seg>Método de liberación del disparador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T171145Z">
+        <seg>Modo del disparador</seg>
       </tuv>
     </tu>
     <tu>
@@ -9574,6 +9582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Undo Redo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T170440Z">
+        <seg>Deshacer Rehacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undo last step</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120436Z">
@@ -9690,14 +9706,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192941Z">
         <seg>Comentario de usuario</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>VK_A</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T135532Z">
-        <seg>Acerca de LightZone</seg>
       </tuv>
     </tu>
     <tu>
