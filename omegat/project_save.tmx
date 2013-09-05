@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deflate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T172524Z">
+        <seg>Rebajar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124107Z">
@@ -14016,8 +14024,8 @@
       <tuv lang="EN-US">
         <seg>no flash function</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163201Z">
-        <seg>Sin function de flash</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T172734Z">
+        <seg>Sin funcion de flash</seg>
       </tuv>
     </tu>
     <tu>
@@ -15896,8 +15904,8 @@
       <tuv lang="EN-US">
         <seg>three-chip color area sensor</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163250Z">
-        <seg>Sensor de area de color de tres chip</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T172826Z">
+        <seg>Sensor de area de color de tres chips</seg>
       </tuv>
     </tu>
     <tu>
@@ -16072,8 +16080,8 @@
       <tuv lang="EN-US">
         <seg>two-chip color area sensor</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163249Z">
-        <seg>Sensor de area de color de dos chip</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T172822Z">
+        <seg>Sensor de area de color de dos chips</seg>
       </tuv>
     </tu>
     <tu>
