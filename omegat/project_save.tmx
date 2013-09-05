@@ -1776,8 +1776,8 @@
       <tuv lang="EN-US">
         <seg>Collapse this tool</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212103Z">
-        <seg>Contaer esta herramienta</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T190123Z">
+        <seg>Contraer esta herramienta</seg>
       </tuv>
     </tu>
     <tu>
@@ -6090,6 +6090,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120847Z">
         <seg>No hay imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T190519Z">
+        <seg>Sin Info</seg>
       </tuv>
     </tu>
     <tu>
