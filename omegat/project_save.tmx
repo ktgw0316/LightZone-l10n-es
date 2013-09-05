@@ -15992,16 +15992,16 @@
       <tuv lang="EN-US">
         <seg>transparency mask, single of multi-page</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153323Z">
-        <seg>Máscara de transparencia, solo de multi-página</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T172008Z">
+        <seg>Máscara de transparencia, una de multi-página</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>transparency mask, single of multi-page, reduced resolution</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153330Z">
-        <seg>Máscara de transparencia, solo de multi-página, resolución reducida</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T172016Z">
+        <seg>Máscara de transparencia, una de multi-página, resolución reducida</seg>
       </tuv>
     </tu>
     <tu>
