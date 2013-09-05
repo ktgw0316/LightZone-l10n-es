@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AF-assist light</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T183424Z">
+        <seg>AF-luz de asistencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AF/AE lock</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180742Z">
@@ -2904,8 +2912,8 @@
       <tuv lang="EN-US">
         <seg>Digital gain</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181955Z">
-        <seg>Ganacia digitall</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T183504Z">
+        <seg>Ganancia digital</seg>
       </tuv>
     </tu>
     <tu>
@@ -6136,8 +6144,8 @@
       <tuv lang="EN-US">
         <seg>One-touch white balance</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194825Z">
-        <seg>Balance de balnco de un solo toque</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T184259Z">
+        <seg>Balance de blanco de un solo toque</seg>
       </tuv>
     </tu>
     <tu>
@@ -10304,8 +10312,8 @@
       <tuv lang="EN-US">
         <seg>Zoomed resolution base</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182637Z">
-        <seg>Resolution base con zoom</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T183630Z">
+        <seg>Resolucion base con zoom</seg>
       </tuv>
     </tu>
     <tu>
@@ -11648,8 +11656,8 @@
       <tuv lang="EN-US">
         <seg>demographics</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164844Z">
-        <seg>demografia</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T183159Z">
+        <seg>Demografia</seg>
       </tuv>
     </tu>
     <tu>
