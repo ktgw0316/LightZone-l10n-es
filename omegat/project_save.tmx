@@ -2440,16 +2440,16 @@
       <tuv lang="EN-US">
         <seg>Creator Address</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211610Z">
-        <seg>Dirección de creador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182645Z">
+        <seg>Dirección del creador</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Creator City</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211624Z">
-        <seg>Ciudad de creador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182648Z">
+        <seg>Ciudad del creador</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,48 +2464,48 @@
       <tuv lang="EN-US">
         <seg>Creator Country</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211626Z">
-        <seg>País de creador</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182654Z">
+        <seg>País del creador</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Creator E-mail(s)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211630Z">
-        <seg>Email de creador(s)</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182658Z">
+        <seg>Email del creador(s)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Creator Phone(s)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211632Z">
-        <seg>Teléfono de creador(s)</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182702Z">
+        <seg>Teléfono del creador(s)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Creator Postal code</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163436Z">
-        <seg>Creador Código Postal</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182642Z">
+        <seg>Código Postal del creador</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Creator State/Province</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211656Z">
-        <seg>Creador Estado/Provincia</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182717Z">
+        <seg>Estado/Provincia del creador</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Creator Web URL(S)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211700Z">
-        <seg>Web de creador URL(S)</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182721Z">
+        <seg>Web del creador URL(S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14130,6 +14130,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164039Z">
         <seg>Off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>off-beat</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182818Z">
+        <seg>fuera de ritmo</seg>
       </tuv>
     </tu>
     <tu>
