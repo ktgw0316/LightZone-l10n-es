@@ -568,8 +568,8 @@
       <tuv lang="EN-US">
         <seg>An updated version of LightZone is required to read this Style</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160410Z">
-        <seg>Es necesaria una version actualizada de LightZone para leer este archivo Estilo</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130906T165013Z">
+        <seg>Es necesaria una version actualizada de LightZone para leer este archivo de Estilo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9008,8 +9008,8 @@
       <tuv lang="EN-US">
         <seg>Style "$1" was written to "$2"</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213942Z">
-        <seg>Estilo "$1" fue escrito a "$2"</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130906T165325Z">
+        <seg>El Estilo "$1" fue escrito a "$2"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9024,8 +9024,8 @@
       <tuv lang="EN-US">
         <seg>Style could not be applied</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191824Z">
-        <seg>Estilo no se puede aplicar</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130906T164935Z">
+        <seg>El Estilo no se puede aplicar</seg>
       </tuv>
     </tu>
     <tu>
@@ -10296,8 +10296,8 @@
       <tuv lang="EN-US">
         <seg>Zone Mapper Zones</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160412Z">
-        <seg>Mapa de zonas</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130906T165352Z">
+        <seg>Zonas del Mapa Zonal</seg>
       </tuv>
     </tu>
     <tu>
