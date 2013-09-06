@@ -736,8 +736,8 @@
       <tuv lang="EN-US">
         <seg>As Shot</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T162801Z">
-        <seg>De Disparo</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130906T164334Z">
+        <seg>De Cámara</seg>
       </tuv>
     </tu>
     <tu>
@@ -1298,6 +1298,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114512Z">
         <seg>CFA color plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CLOSE_BRACKET</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130906T164554Z">
+        <seg>CERRAR_HORQUILLADO</seg>
       </tuv>
     </tu>
     <tu>
@@ -3968,8 +3976,8 @@
       <tuv lang="EN-US">
         <seg>Focal length as shot</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193455Z">
-        <seg>Longitud focal cuando disparó</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130906T164045Z">
+        <seg>Longitud focal cuando se disparó</seg>
       </tuv>
     </tu>
     <tu>
@@ -6214,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OPEN_BRACKET</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130906T164607Z">
+        <seg>ABRIR_HORQUILLADO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One-touch white balance</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130905T184259Z">
@@ -8064,8 +8080,8 @@
       <tuv lang="EN-US">
         <seg>Select only most recent version from each stack</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162446Z">
-        <seg>Seleccionar solo la versión mas reciente de cada pila</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130906T163635Z">
+        <seg>Seleccionar solo la versión mas reciente de cada apilado</seg>
       </tuv>
     </tu>
     <tu>
@@ -11248,8 +11264,8 @@
       <tuv lang="EN-US">
         <seg>close</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163328Z">
-        <seg>Cerca</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20130906T164731Z">
+        <seg>Cerrar</seg>
       </tuv>
     </tu>
     <tu>
