@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browser anatomy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172855Z">
+        <seg>Estructura del navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bulb duration</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194942Z">
