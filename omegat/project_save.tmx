@@ -430,6 +430,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acknowledgments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T174427Z">
+        <seg>Reconocimientos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acknowledgments.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T174412Z">
+        <seg>Reconocimientos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active area</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120358Z">
@@ -5358,6 +5374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light Crafts would like to acknowledge the following people who contributed to LightZone:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T174526Z">
+        <seg>Light Crafts muestra su agradecimiento a las siguientes personas que han contribuido a LightZone:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Crafts, Inc.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124706Z">
@@ -5578,6 +5602,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164102Z">
         <seg>LightZone en Linux requiere una CPU que soporte el conjunto de instrucciones SSE2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Acknowledgments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T174404Z">
+        <seg>LightZone: Reconocimientos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6664,8 +6696,8 @@
       <tuv lang="EN-US">
         <seg>Platform.css</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172730Z">
-        <seg>Plataform.css</seg>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T174417Z">
+        <seg>Plataforma.css</seg>
       </tuv>
     </tu>
     <tu>
