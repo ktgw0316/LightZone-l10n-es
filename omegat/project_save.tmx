@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2830,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the parts of the browser window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172721Z">
+        <seg>Descripción de las partes del la ventana de navegación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Destination</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210711Z">
@@ -4358,6 +4366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help.css</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172726Z">
+        <seg>Ayuda.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Crop Tool</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160406Z">
@@ -4850,6 +4866,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124130Z">
         <seg>Importar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Index</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172746Z">
+        <seg>Indice</seg>
       </tuv>
     </tu>
     <tu>
@@ -6626,6 +6650,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130731T162613Z">
         <seg>Configuracion planar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform.css</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172730Z">
+        <seg>Plataform.css</seg>
       </tuv>
     </tu>
     <tu>
@@ -13150,6 +13182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/app_icon-32.png</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172754Z">
+        <seg>imagenés/app_icon-32.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>incandescent</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163120Z">
@@ -13162,6 +13202,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112859Z">
         <seg>Pulgada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172734Z">
+        <seg>indice.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>index/index.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172742Z">
+        <seg>indice/indice.html</seg>
       </tuv>
     </tu>
     <tu>
