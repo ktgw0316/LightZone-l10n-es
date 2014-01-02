@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buttons-Photo.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193455Z">
+        <seg>Botones-Foto.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CCD scan mode</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200231Z">
@@ -6678,6 +6686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigating_Folders.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193443Z">
+        <seg>Carpetas_Navegacion.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Near lens step</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200326Z">
@@ -7186,6 +7202,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180546Z">
         <seg>Permiso denegado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo viewer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193304Z">
+        <seg>Visualizador de fotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo_Viewer.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193521Z">
+        <seg>Visualizador_Fotos.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -14088,8 +14120,8 @@
       <tuv lang="EN-US">
         <seg>images/Anatomy-Browser-en.jpg</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20140102T193159Z">
-        <seg>imagenes/Anatomia-navegador-es.jpg</seg>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193419Z">
+        <seg>imagenes/Estructura-navegador-es.jpg</seg>
       </tuv>
     </tu>
     <tu>
