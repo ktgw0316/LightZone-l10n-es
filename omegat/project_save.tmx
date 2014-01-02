@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the parts of the editor window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193624Z">
+        <seg>Descripción de las partes de la ventana del editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Destination</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210711Z">
@@ -3610,6 +3618,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164706Z">
         <seg>Diseño de editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor anatomy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193642Z">
+        <seg>Estructura del Editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -6154,6 +6170,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20131206T160739Z">
         <seg>LightZone: Estructura del navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Editor Anatomy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193557Z">
+        <seg>LightZone: Estructura del Editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -9866,6 +9890,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120405Z">
         <seg>Estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193751Z">
+        <seg>Estilos.html</seg>
       </tuv>
     </tu>
     <tu>
