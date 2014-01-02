@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_6" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6462,6 +6462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metadata.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193224Z">
+        <seg>Metadatos.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metering mode</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195632Z">
@@ -6514,14 +6522,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164046Z">
         <seg>Bloqueo de espejo levantado</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Mitch Alland, Bruce Ammerman, Jamie Bsales, David Card, Anthony Dias, Jeff Donnelly, Jessica Donnelly, Romain Guy, Hans-Jürgen Hertz-Eichenrode, Jon Hill, Matthew Hollingworth, James Karney, Terry Karney, Walt Marhefka, Carlos Palma, Bud Paulding, Paul Rancuret, David Richard, Uwe Steinmueller, Mark Strathdee, Elizabeth Thrasher, Dean Tucker, Eric Vogel, John Waclo, Lalia Wilson, Ed Wolpov, and Brian Wong.</seg>
-      </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20131206T154624Z">
-        <seg>Mitch Alland, Bruce Ammerman, Jamie Bsales, David Card, Anthony Dias, Jeff Donnelly, Jessica Donnelly, Romain Guy, Hans-Jürgen Hertz-Eichenrode, Jon Hill, Matthew Hollingworth, James Karney, Terry Karney, Walt Marhefka, Carlos Palma, Bud Paulding, Paul Rancuret, David Richard, Uwe Steinmueller, Mark Strathdee, Elizabeth Thrasher, Dean Tucker, Eric Vogel, John Waclo, Lalia Wilson, Ed Wolpov, and Brian Wong.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6602,6 +6602,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160350Z">
         <seg>Mover $1 imagenes selecionadas a la papelera?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the mouse to an area of interest and click to learn more about it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193132Z">
+        <seg>Mover el raton en un area de interes y pulsar para aprender mas acerca del mismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10234,6 +10242,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194359Z">
         <seg>Miniatura de image-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnails.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193217Z">
+        <seg>Miniaturas.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -14066,6 +14082,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T170015Z">
         <seg>Hockey hielo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Anatomy-Browser-en.jpg</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140102T193159Z">
+        <seg>imagenes/Anatomia-navegador-es.jpg</seg>
       </tuv>
     </tu>
     <tu>
