@@ -1446,14 +1446,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Buttons-Photo.html</seg>
-      </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20140102T193455Z">
-        <seg>Botones-Foto.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>CCD scan mode</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200231Z">
@@ -4798,14 +4790,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Help.css</seg>
-      </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172726Z">
-        <seg>Ayuda.css</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Hide Crop Tool</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160406Z">
@@ -5378,14 +5362,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T124130Z">
         <seg>Importar...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Index</seg>
-      </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172746Z">
-        <seg>Indice</seg>
       </tuv>
     </tu>
     <tu>
@@ -6494,14 +6470,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Metadata.html</seg>
-      </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20140102T193224Z">
-        <seg>Metadatos.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Metering mode</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195632Z">
@@ -6706,14 +6674,6 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120248Z">
         <seg>Nombre</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Navigating_Folders.html</seg>
-      </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20140102T193443Z">
-        <seg>Carpetas_Navegacion.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -7238,14 +7198,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Photo_Viewer.html</seg>
-      </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20140102T193521Z">
-        <seg>Visualizador_Fotos.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Photometric interpretation</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153500Z">
@@ -7408,8 +7360,8 @@
       <tuv lang="EN-US">
         <seg>Platform.css</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T174417Z">
-        <seg>Plataforma.css</seg>
+      <tuv lang="ES" changeid="beto" changedate="20140111T180955Z">
+        <seg>Plataform.css</seg>
       </tuv>
     </tu>
     <tu>
@@ -9894,14 +9846,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Styles.html</seg>
-      </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20140102T193751Z">
-        <seg>Estilos.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Sub IFDs</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20131206T155538Z">
@@ -10306,14 +10250,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194359Z">
         <seg>Miniatura de image-X</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Thumbnails.html</seg>
-      </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20140102T193217Z">
-        <seg>Miniaturas.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -12976,8 +12912,8 @@
       <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20131206T154615Z">
-        <seg>es</seg>
+      <tuv lang="ES" changeid="beto" changedate="20140111T180905Z">
+        <seg>es-ES</seg>
       </tuv>
     </tu>
     <tu>
@@ -14150,22 +14086,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>images/Anatomy-Browser-en.jpg</seg>
-      </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20140102T193419Z">
-        <seg>imagenes/Estructura-navegador-es.jpg</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>images/app_icon-32.png</seg>
-      </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172754Z">
-        <seg>imagenés/app_icon-32.png</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>incandescent</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163120Z">
@@ -14178,22 +14098,6 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112859Z">
         <seg>Pulgada</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>index.html</seg>
-      </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172734Z">
-        <seg>indice.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>index/index.html</seg>
-      </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172742Z">
-        <seg>indice/indice.html</seg>
       </tuv>
     </tu>
     <tu>
