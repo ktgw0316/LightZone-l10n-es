@@ -1270,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black point compensation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140111T181530Z">
+        <seg>Compensacion del punto negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black point-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203637Z">
@@ -1298,6 +1306,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211639Z">
         <seg>Modo de mezcla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blending modes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140111T181650Z">
+        <seg>Modos de mezcla</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of black point compensation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140111T181452Z">
+        <seg>Descripcion de la compensacion del punto negro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the parts of the browser window.</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20131018T172721Z">
@@ -3154,6 +3178,14 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20140102T193624Z">
         <seg>Descripción de las partes de la ventana del editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of the various blending modes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140111T181635Z">
+        <seg>Descripcion de los distintos modos de mezcla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6138,6 +6170,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20131018T174404Z">
         <seg>LightZone: Reconocimientos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Black Point Compensation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140111T181432Z">
+        <seg>LightZone: Compensacion del punto negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Blending Modes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20140111T181609Z">
+        <seg>LightZone: Modos de Mezcla</seg>
       </tuv>
     </tu>
     <tu>
