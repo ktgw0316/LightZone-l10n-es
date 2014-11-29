@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20141129T100014Z" creationid="ktgw0316" creationdate="20141129T100014Z">
+        <seg>Promedio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Backward version</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114417Z">
@@ -6890,6 +6898,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120336Z">
         <seg>Ninguno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ktgw0316" changedate="20141129T100011Z" creationid="ktgw0316" creationdate="20141129T100011Z">
+        <seg>Normal</seg>
       </tuv>
     </tu>
     <tu>
