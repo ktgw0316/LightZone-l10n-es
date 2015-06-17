@@ -9592,8 +9592,8 @@
       <tuv lang="EN-US">
         <seg>Shutter release method</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T171145Z">
-        <seg>Modo del disparador</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T174831Z">
+        <seg>Modo de disparado</seg>
       </tuv>
     </tu>
     <tu>
@@ -11504,8 +11504,8 @@
       <tuv lang="EN-US">
         <seg>aperture priority</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193405Z">
-        <seg>Prioridad a la abertura</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T174848Z">
+        <seg>Prioridad a la apertura</seg>
       </tuv>
     </tu>
     <tu>
@@ -15872,8 +15872,8 @@
       <tuv lang="EN-US">
         <seg>real-world subject</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T161703Z">
-        <seg>Sujeto mundo real</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T174801Z">
+        <seg>Sujeto del mundo real</seg>
       </tuv>
     </tu>
     <tu>
