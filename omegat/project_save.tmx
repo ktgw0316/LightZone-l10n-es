@@ -792,8 +792,8 @@
       <tuv lang="EN-US">
         <seg>Aperture</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T195356Z">
-        <seg>Abertura</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T175522Z">
+        <seg>Apertura</seg>
       </tuv>
     </tu>
     <tu>
@@ -16384,8 +16384,8 @@
       <tuv lang="EN-US">
         <seg>shutter-speed priority</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T162332Z">
-        <seg>Prioridad de velocidad de disparo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T175426Z">
+        <seg>Prioridad de velocidad de obturacion</seg>
       </tuv>
     </tu>
     <tu>
