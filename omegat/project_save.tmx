@@ -4504,8 +4504,8 @@
       <tuv lang="EN-US">
         <seg>Focus distance (upper)</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150300Z">
-        <seg>Enfocar la distancia superior</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T181532Z">
+        <seg>Distancia de enfoque (mas lejana)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9656,8 +9656,8 @@
       <tuv lang="EN-US">
         <seg>Slow sync</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150318Z">
-        <seg>sync lenta</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T181716Z">
+        <seg>Sync lenta</seg>
       </tuv>
     </tu>
     <tu>
@@ -11536,8 +11536,8 @@
       <tuv lang="EN-US">
         <seg>aperture-priority AE</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183120Z">
-        <seg>Prioridad a la abertura AE</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T181724Z">
+        <seg>Prioridad a la apertura AE</seg>
       </tuv>
     </tu>
     <tu>
@@ -16392,8 +16392,8 @@
       <tuv lang="EN-US">
         <seg>shutter-priority AE</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183138Z">
-        <seg>Prioridad al disparo AE</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T181755Z">
+        <seg>Prioridad al obturador AE</seg>
       </tuv>
     </tu>
     <tu>
