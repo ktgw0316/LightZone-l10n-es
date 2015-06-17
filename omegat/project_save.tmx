@@ -424,8 +424,8 @@
       <tuv lang="EN-US">
         <seg>AF aperture</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194501Z">
-        <seg>Abertura AF</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182310Z">
+        <seg>Apertura AF</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,16 +800,16 @@
       <tuv lang="EN-US">
         <seg>Aperture at max focal length</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194448Z">
-        <seg>Abertura al max del largo de la focal</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182412Z">
+        <seg>Apertura al max de la distancia focal</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Aperture at min focal length</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194430Z">
-        <seg>Abertura al min del largo de la  focal</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182402Z">
+        <seg>Apertura al min de la distancia focal</seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,8 +3664,8 @@
       <tuv lang="EN-US">
         <seg>Effective max aperture</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194545Z">
-        <seg>Maxima abertura efectiva</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182417Z">
+        <seg>Maxima apertura efectiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -6456,8 +6456,8 @@
       <tuv lang="EN-US">
         <seg>Max focal length</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194339Z">
-        <seg>Max longitud focal</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182343Z">
+        <seg>Max distancia focal</seg>
       </tuv>
     </tu>
     <tu>
@@ -6552,8 +6552,8 @@
       <tuv lang="EN-US">
         <seg>Min focal length</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194333Z">
-        <seg>Min Longitud focal</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182335Z">
+        <seg>Min distancia focal</seg>
       </tuv>
     </tu>
     <tu>
@@ -12248,40 +12248,40 @@
       <tuv lang="EN-US">
         <seg>closest subject, bottom</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T185832Z">
-        <seg>Tema más cercano, inferior</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182226Z">
+        <seg>Sujeto más cercano, inferior</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>closest subject, center</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T185815Z">
-        <seg>Tema más cercano, centro</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182216Z">
+        <seg>Sujeto más cercano, centro</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>closest subject, left</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T185837Z">
-        <seg>Tema más cercano, izquierda</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182231Z">
+        <seg>Sujeto más cercano, izquierda</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>closest subject, right</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T185841Z">
-        <seg>Tema más cercano, derecha</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182235Z">
+        <seg>Sujeto más cercano, derecha</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>closest subject, top</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T185826Z">
-        <seg>Tema más cercano, superior</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182222Z">
+        <seg>Sujeto más cercano, superior</seg>
       </tuv>
     </tu>
     <tu>
@@ -15312,8 +15312,8 @@
       <tuv lang="EN-US">
         <seg>on for ISO 1600,3200</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194146Z">
-        <seg>on para ISO 1600,3200</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T182256Z">
+        <seg>On para ISO 1600,3200</seg>
       </tuv>
     </tu>
     <tu>
