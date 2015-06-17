@@ -5528,8 +5528,8 @@
       <tuv lang="EN-US">
         <seg>Interoperability offset</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193136Z">
-        <seg>Interoperabilidad offset</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T180500Z">
+        <seg>Desplazamiento interoperabilidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -6448,8 +6448,8 @@
       <tuv lang="EN-US">
         <seg>Max aperture value</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121631Z">
-        <seg>Max valor de abertura</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T180313Z">
+        <seg>Max valor de apertura</seg>
       </tuv>
     </tu>
     <tu>
