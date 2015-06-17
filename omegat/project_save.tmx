@@ -2760,8 +2760,8 @@
       <tuv lang="EN-US">
         <seg>Creator Contact Info-X</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211546Z">
-        <seg>Contacto de creador Info-X</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T180813Z">
+        <seg>Contacto del creador Info-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -2816,8 +2816,8 @@
       <tuv lang="EN-US">
         <seg>Creator title</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211404Z">
-        <seg>Título de creador</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T180803Z">
+        <seg>Título del creador</seg>
       </tuv>
     </tu>
     <tu>
@@ -15256,8 +15256,8 @@
       <tuv lang="EN-US">
         <seg>off-beat</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182818Z">
-        <seg>fuera de ritmo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T180834Z">
+        <seg>Fuera de ritmo</seg>
       </tuv>
     </tu>
     <tu>
@@ -16280,8 +16280,8 @@
       <tuv lang="EN-US">
         <seg>semiconductors &amp; active components</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T161638Z">
-        <seg>Semiconductores &amp; componentes activos</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T180901Z">
+        <seg>Semiconductores y componentes activos</seg>
       </tuv>
     </tu>
     <tu>
