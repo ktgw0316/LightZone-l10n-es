@@ -4496,8 +4496,8 @@
       <tuv lang="EN-US">
         <seg>Focus distance (lower)</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T150300Z">
-        <seg>Enfocar la distancia más baja</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T181515Z">
+        <seg>Distancia de enfoque (más cercana)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10096,8 +10096,8 @@
       <tuv lang="EN-US">
         <seg>Target aperture</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182708Z">
-        <seg>Abertura objetivo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T181401Z">
+        <seg>Apertura objetivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14704,8 +14704,8 @@
       <tuv lang="EN-US">
         <seg>manual temperature</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182743Z">
-        <seg>temperatura manual</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T181419Z">
+        <seg>Temperatura manual</seg>
       </tuv>
     </tu>
     <tu>
@@ -16400,8 +16400,8 @@
       <tuv lang="EN-US">
         <seg>shutter-speed priority</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150617T175426Z">
-        <seg>Prioridad de velocidad de obturacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T181331Z">
+        <seg>Prioridad a la obturacion</seg>
       </tuv>
     </tu>
     <tu>
