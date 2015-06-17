@@ -4512,16 +4512,16 @@
       <tuv lang="EN-US">
         <seg>Focus distance lower</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194926Z">
-        <seg>Enfocar la distancia más baja</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T175115Z">
+        <seg>Distancia de enfoque más baja</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Focus distance upper</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194915Z">
-        <seg>Enfocar la distancia superior</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T175105Z">
+        <seg>Distancia de enfoque mas alta</seg>
       </tuv>
     </tu>
     <tu>
@@ -9608,8 +9608,8 @@
       <tuv lang="EN-US">
         <seg>Shutter speed</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T164303Z">
-        <seg>Velocidad del disparador</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T175135Z">
+        <seg>Velocidad de disparo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13256,8 +13256,8 @@
       <tuv lang="EN-US">
         <seg>fast shutter</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T162237Z">
-        <seg>Disparador rapido</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T175339Z">
+        <seg>Obturador rapido</seg>
       </tuv>
     </tu>
     <tu>
@@ -16488,8 +16488,8 @@
       <tuv lang="EN-US">
         <seg>slow shutter</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T162239Z">
-        <seg>Disparador lento</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150617T175348Z">
+        <seg>Obturador lento</seg>
       </tuv>
     </tu>
     <tu>
