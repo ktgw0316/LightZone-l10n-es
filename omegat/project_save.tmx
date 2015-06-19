@@ -272,8 +272,8 @@
       <tuv lang="EN-US">
         <seg>3600K (tungsten light-like)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201152Z">
-        <seg>3600K (el tungsteno luz-como)</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161454Z">
+        <seg>3600K (luz como tungsteno)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5944,8 +5944,8 @@
       <tuv lang="EN-US">
         <seg>Light condition</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T195426Z">
-        <seg>Condición de luz</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161217Z">
+        <seg>Condición de la luz</seg>
       </tuv>
     </tu>
     <tu>
@@ -5960,16 +5960,16 @@
       <tuv lang="EN-US">
         <seg>Light value center</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200431Z">
-        <seg>Centro de valor de luz</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161332Z">
+        <seg>Centro del valor de la luz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Light value periphery</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200445Z">
-        <seg>Periferia de valor de luz</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161338Z">
+        <seg>Periferia del valor de la luz</seg>
       </tuv>
     </tu>
     <tu>
@@ -11528,8 +11528,8 @@
       <tuv lang="EN-US">
         <seg>aperture priority AE</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200523Z">
-        <seg>Prioridad a la abertura AE</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161349Z">
+        <seg>Prioridad a la apertura AE</seg>
       </tuv>
     </tu>
     <tu>
