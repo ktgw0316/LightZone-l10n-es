@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Arguments in Info.plist is not String or Array.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170326Z" creationid="beto" creationdate="20150619T170326Z">
+        <seg>"Argumentos en Info.plist no es una Cadena o Matriz.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Corrupted application";</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165315Z" creationid="beto" creationdate="20150619T165315Z">
@@ -46,10 +54,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Could not allocate main() argument array.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170103Z" creationid="beto" creationdate="20150619T170103Z">
+        <seg>"No se puede asignar principal() argumento de matriz.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Could not allocate main() argument string.";</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T165714Z" creationid="beto" creationdate="20150619T165714Z">
-        <seg>"No se puede asignar() argumento de cadena.";</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170110Z" creationid="beto" creationdate="20150619T165714Z">
+        <seg>"No se puede asignar principal() argumento de cadena.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +74,14 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165831Z" creationid="beto" creationdate="20150619T165831Z">
         <seg>"No se encuentra java.lang.Argumento de clase.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Element of argument array isn't a string.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170245Z" creationid="beto" creationdate="20150619T170245Z">
+        <seg>"Elemento del argumento de matriz no es una cadena.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"MainClass not specified in Info.plist.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170343Z" creationid="beto" creationdate="20150619T170343Z">
+        <seg>"MainClass no especificada en Info.plist.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Newer CPU required";</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165350Z" creationid="beto" creationdate="20150619T165350Z">
@@ -106,6 +138,14 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165326Z" creationid="beto" creationdate="20150619T165326Z">
         <seg>"Fallo inexperado";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"VMOptions in Info.plist is not String or Array.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170146Z" creationid="beto" creationdate="20150619T170146Z">
+        <seg>"VMOptions en Info.plist no es una Cadena o Matriz.";</seg>
       </tuv>
     </tu>
     <tu>
