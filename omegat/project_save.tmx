@@ -10782,6 +10782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The RGB color space can represent all luminosities from 100% white to 100% black.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T175434Z" creationid="beto" creationdate="20150619T175434Z">
+        <seg>El modelo de color RGB puede representar luminosidades desde 100% blanco hasta 100% negro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Settings include things like:</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120308Z">
@@ -11522,6 +11530,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130801T160548Z">
         <seg>Cuándo se dibujan regiones, LightZone puede actualizar la foto en tiempo real,  pueda actualizar sólo entre cambios, o  pueda esperar hasta que las regiones estén dibujadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When either &lt;a0&gt;converting&lt;/a0&gt; or &lt;a1&gt;printing&lt;/a1&gt; your photos using application managed colors, you can enable &lt;e2&gt;black point compensation&lt;/e2&gt; when the &lt;a3&gt;rendering intent&lt;/a3&gt; is Relative Colorimetric.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T175346Z" creationid="beto" creationdate="20150619T175346Z">
+        <seg>Tanto  &lt;a0&gt;convirtiendo&lt;/a0&gt; o &lt;a1&gt;imprimiendo&lt;/a1&gt; tus fotos usando una aplicacion con gstion de color, tu puedes activar &lt;e2&gt;compensacion del punto negro&lt;/e2&gt; cuando el &lt;a3&gt;intento de renderizado&lt;/a3&gt; es Relativo Colorimetrico.</seg>
       </tuv>
     </tu>
     <tu>
