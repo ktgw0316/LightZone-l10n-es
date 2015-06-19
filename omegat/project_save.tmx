@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black point compensation attempts to resolve the difference between the darkest black in your photo and the darkest black that a particular device can render.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T175741Z" creationid="beto" creationdate="20150619T175741Z">
+        <seg>La compensacion del punto negro trata de resolver las diferencias entre el negro mas oscuro de tu foto y el negro mas oscuro de un periferico en concreto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black point-X</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203637Z">
@@ -7682,6 +7690,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192200Z">
         <seg>Tamaño de salida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output devices (such as printers and computer displays) often have limitations in how black the darkest black they can render is.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T175619Z" creationid="beto" creationdate="20150619T175619Z">
+        <seg>Perifericos de salida (como impresoras o monitores) suelen tener limitaciones en como de negro puede renderizarse el negro mas oscuro.</seg>
       </tuv>
     </tu>
     <tu>
