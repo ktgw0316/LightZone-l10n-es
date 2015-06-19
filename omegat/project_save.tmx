@@ -2944,8 +2944,8 @@
       <tuv lang="EN-US">
         <seg>Cyan-Red</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211429Z">
-        <seg>Cyan-Rojo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163718Z">
+        <seg>Cian-Rojo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3194,6 +3194,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160347Z">
         <seg>Borrar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163747Z" creationid="beto" creationdate="20150619T163747Z">
+        <seg>Profundidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -4962,6 +4970,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194139Z">
         <seg>Reduccion de ruido ISO alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlights</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163729Z" creationid="beto" creationdate="20150619T163729Z">
+        <seg>Alta Luces</seg>
       </tuv>
     </tu>
     <tu>
@@ -9342,6 +9358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shadows</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163735Z" creationid="beto" creationdate="20150619T163735Z">
+        <seg>Sombras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sharpen</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212909Z">
@@ -9946,6 +9970,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210323Z">
         <seg>Estado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163714Z" creationid="beto" creationdate="20150619T163714Z">
+        <seg>Fuerza</seg>
       </tuv>
     </tu>
     <tu>
