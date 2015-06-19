@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Could not detach thread.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170758Z" creationid="beto" creationdate="20150619T170758Z">
+        <seg>"No se puede separar el hilo.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Could not find java.lang.String class.";</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165831Z" creationid="beto" creationdate="20150619T165831Z">
@@ -94,10 +102,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Could not find main class.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170839Z" creationid="beto" creationdate="20150619T170839Z">
+        <seg>"No se encuentra la clase principal.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Couldn't find Java %s.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170651Z" creationid="beto" creationdate="20150619T170651Z">
+        <seg>"No se encuentra Java %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Element of argument array isn't a string.";</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T170245Z" creationid="beto" creationdate="20150619T170245Z">
         <seg>"Elemento del argumento de matriz no es una cadena.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Error starting Java virtual machine.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170817Z" creationid="beto" creationdate="20150619T170817Z">
+        <seg>"Error iniciando maquina virtual Java.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +178,14 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165417Z" creationid="beto" creationdate="20150619T165417Z">
         <seg>"LightZone requiere un PowerPC G4, G5, o un procesador Intel.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Main class has no main() method.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170926Z" creationid="beto" creationdate="20150619T170926Z">
+        <seg>"La clase principal no tiene metodo principal().";</seg>
       </tuv>
     </tu>
     <tu>
@@ -9378,6 +9418,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T154154Z">
         <seg>Seleccionar Actualización de Software para conseguir la ultima version de Java desde Apple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Software Update to get the required Java version from Apple.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170737Z" creationid="beto" creationdate="20150619T170737Z">
+        <seg>Seleccionar Actualizacion de Software para obetener la version de Java requerida desde Apple.";</seg>
       </tuv>
     </tu>
     <tu>
