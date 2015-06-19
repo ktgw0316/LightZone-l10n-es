@@ -4662,6 +4662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuzz</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163934Z" creationid="beto" creationdate="20150619T163934Z">
+        <seg>Distorsion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>G</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20131206T155859Z">
