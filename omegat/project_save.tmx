@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A blending mode controls how the effects of tools in the &lt;a1&gt;tool stack&lt;/a1&gt; blend together to form the final photo.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T180730Z" creationid="beto" creationdate="20150619T180730Z">
+        <seg>un modo de mezcla controla como los efectos de las herramientas en la &lt;a1&gt;pila de herramientas&lt;/a1&gt; se mezclan juntos para formar la foto final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A file named "$1" already exists in $2.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120442Z">
