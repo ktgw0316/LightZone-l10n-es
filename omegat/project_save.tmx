@@ -24,8 +24,16 @@
       <tuv lang="EN-US">
         <seg>"A jar file is corrupt.";</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T165434Z" creationid="beto" creationdate="20150619T165434Z">
-        <seg>"A archivo jar esta corrupto.";</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165443Z" creationid="beto" creationdate="20150619T165434Z">
+        <seg>"Un archivo jar esta corrupto.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"A jar file is missing.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165506Z" creationid="beto" creationdate="20150619T165506Z">
+        <seg>"Un archivo jar no se encuentra.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +42,22 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165315Z" creationid="beto" creationdate="20150619T165315Z">
         <seg>"Aplicacion corrupta";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Could not allocate main() argument string.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165714Z" creationid="beto" creationdate="20150619T165714Z">
+        <seg>"No se puede asignar() argumento de cadena.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"LightZone requires Mac OS X version 10.4.3 or later.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165630Z" creationid="beto" creationdate="20150619T165630Z">
+        <seg>"LightZone requiere Mac OS X version 10.4.3 o posterior.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +74,14 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165350Z" creationid="beto" creationdate="20150619T165350Z">
         <seg>"Nuevo tipo de CPU requerido";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Newer Mac OS X required";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165517Z" creationid="beto" creationdate="20150619T165517Z">
+        <seg>"Nuevo Mac OS X requerido";</seg>
       </tuv>
     </tu>
     <tu>
