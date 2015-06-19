@@ -1432,8 +1432,8 @@
       <tuv lang="EN-US">
         <seg>Browser Cache</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160210Z">
-        <seg>Cache de Navegador</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T162346Z">
+        <seg>Cache de navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -2110,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Mask</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T162154Z" creationid="beto" creationdate="20150619T162154Z">
+        <seg>Macara de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Noise</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211422Z">
@@ -2154,6 +2162,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211957Z">
         <seg>Selector de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Zones</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T162135Z" creationid="beto" creationdate="20150619T162135Z">
+        <seg>Zonas de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -5478,6 +5494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intensity</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T162242Z" creationid="beto" creationdate="20150619T162242Z">
+        <seg>Intensidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inter-color profile</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163050Z">
@@ -7790,6 +7814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RAW Settings</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T162255Z" creationid="beto" creationdate="20150619T162255Z">
+        <seg>Opciones RAW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RGB</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20131206T155305Z">
@@ -8610,6 +8642,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T204759Z">
         <seg>Colores Muestreados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sampler</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T162231Z" creationid="beto" creationdate="20150619T162231Z">
+        <seg>Muestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -11254,6 +11294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zone</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T162236Z" creationid="beto" creationdate="20150619T162236Z">
+        <seg>Zona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zone Mapper Zones</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130906T165352Z">
@@ -11298,6 +11346,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130801T162658Z">
         <seg>MapaZonas,MapaZonasV5,MacaraEnfoqueV3,DesenfoqueGausiano,Matiz/SaturacionV3,BalanceColorV3,PuntoBlancoV3,MezcladorCanalV4,ReduccionAvanzadaRuidoV3,Clonar,Mota,OjosRojos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zones</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T162139Z" creationid="beto" creationdate="20150619T162139Z">
+        <seg>Zonas</seg>
       </tuv>
     </tu>
     <tu>
