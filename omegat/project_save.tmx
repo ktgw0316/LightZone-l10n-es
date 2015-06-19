@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Burn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164749Z" creationid="beto" creationdate="20150619T164749Z">
+        <seg>Subexponer color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Cast</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213010Z">
@@ -2090,6 +2098,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211355Z">
         <seg>Cambio de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Dodge</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164732Z" creationid="beto" creationdate="20150619T164732Z">
+        <seg>Sobreexponer color</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Darken</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164547Z" creationid="beto" creationdate="20150619T164547Z">
+        <seg>Oscurecer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data dump</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203651Z">
@@ -3298,6 +3322,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184609Z">
         <seg>DiMAGE A2 o S414</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Difference</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164606Z" creationid="beto" creationdate="20150619T164606Z">
+        <seg>Diferencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hard Light</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164706Z" creationid="beto" creationdate="20150619T164706Z">
+        <seg>Luz fuerte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Headline</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211430Z">
@@ -6286,6 +6326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lighten</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164555Z" creationid="beto" creationdate="20150619T164555Z">
+        <seg>Aclarar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linear response limit</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115819Z">
@@ -6822,6 +6870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Negation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164633Z" creationid="beto" creationdate="20150619T164633Z">
+        <seg>Negacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Window</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120743Z">
@@ -7258,6 +7314,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192044Z">
         <seg>Salida a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overlay</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164649Z" creationid="beto" creationdate="20150619T164649Z">
+        <seg>Superponer</seg>
       </tuv>
     </tu>
     <tu>
@@ -8990,6 +9054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164537Z" creationid="beto" creationdate="20150619T164537Z">
+        <seg>Trama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120223Z">
@@ -9818,6 +9890,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113810Z">
         <seg>Smin Valor de muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soft Dodge</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164825Z" creationid="beto" creationdate="20150619T164825Z">
+        <seg>Sobreexposiocn suave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soft Light</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164712Z" creationid="beto" creationdate="20150619T164712Z">
+        <seg>Luz suave</seg>
       </tuv>
     </tu>
     <tu>
