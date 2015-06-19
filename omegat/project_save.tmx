@@ -320,8 +320,8 @@
       <tuv lang="EN-US">
         <seg>6600K (daylight fluorescent)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201202Z">
-        <seg>6600K (luz del día fluorescente)</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161501Z">
+        <seg>6600K (luz de día fluorescente)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12624,8 +12624,8 @@
       <tuv lang="EN-US">
         <seg>dark pet</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T170052Z">
-        <seg>Oscuro pet</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161717Z">
+        <seg>Mascota oscuro pet</seg>
       </tuv>
     </tu>
     <tu>
@@ -14480,8 +14480,8 @@
       <tuv lang="EN-US">
         <seg>light pet</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T170050Z">
-        <seg>Claro pet</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161654Z">
+        <seg>Mascota claro</seg>
       </tuv>
     </tu>
     <tu>
@@ -14816,8 +14816,8 @@
       <tuv lang="EN-US">
         <seg>medium pet</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T170054Z">
-        <seg>Medio pet</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161713Z">
+        <seg>Mascota medio</seg>
       </tuv>
     </tu>
     <tu>
