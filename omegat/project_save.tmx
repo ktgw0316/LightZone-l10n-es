@@ -142,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 image</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163421Z" creationid="beto" creationdate="20150619T163421Z">
+        <seg>1 imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 image selected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163451Z" creationid="beto" creationdate="20150619T163451Z">
+        <seg>1 imagen seleccionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1/2 stop</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20131206T155712Z">
@@ -4392,8 +4408,8 @@
       <tuv lang="EN-US">
         <seg>Focal Length</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160339Z">
-        <seg>Profundidad focal</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163354Z">
+        <seg>Distancia focal</seg>
       </tuv>
     </tu>
     <tu>
@@ -6882,6 +6898,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213801Z">
         <seg>No hay Estilos definidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No images</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163442Z" creationid="beto" creationdate="20150619T163442Z">
+        <seg>No hay imagenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No images selected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163512Z" creationid="beto" creationdate="20150619T163512Z">
+        <seg>No hay imagenes seleccionadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -14230,6 +14262,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163426Z" creationid="beto" creationdate="20150619T163426Z">
+        <seg>imagenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images selected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163500Z" creationid="beto" creationdate="20150619T163500Z">
+        <seg>imagenes seleccionadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>incandescent</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163120Z">
@@ -14370,6 +14418,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163347Z">
         <seg>Hierro y acero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is a readonly file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163525Z" creationid="beto" creationdate="20150619T163525Z">
+        <seg>es un archivo de solo lectura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is a readonly folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T163537Z" creationid="beto" creationdate="20150619T163537Z">
+        <seg>es una carpeta de solo lectura</seg>
       </tuv>
     </tu>
     <tu>
