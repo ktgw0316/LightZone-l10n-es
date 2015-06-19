@@ -5630,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invert</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164436Z" creationid="beto" creationdate="20150619T164436Z">
+        <seg>Invertir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invert Color Selection</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212411Z">
@@ -6770,6 +6778,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160347Z">
         <seg>Mover a la Papelera...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiply</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164456Z" creationid="beto" creationdate="20150619T164456Z">
+        <seg>Multiplicar</seg>
       </tuv>
     </tu>
     <tu>
@@ -10582,6 +10598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tolerance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164354Z" creationid="beto" creationdate="20150619T164354Z">
+        <seg>Tolerancia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tom Bradford,Anton Kast,Grant Kim,Paul J. Lucas,Richard McKeethen,Justin Osial,Fabio Riccardi,Lars Vinberg</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20131206T160520Z">
@@ -10938,6 +10962,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120246Z">
         <seg>Versiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vibrance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164349Z" creationid="beto" creationdate="20150619T164349Z">
+        <seg>Intensidad</seg>
       </tuv>
     </tu>
     <tu>
