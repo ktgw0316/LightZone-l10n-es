@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Expand</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164955Z" creationid="beto" creationdate="20150619T164955Z">
+        <seg>Auto Expandir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Save</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160201Z">
@@ -1008,8 +1016,8 @@
       <tuv lang="EN-US">
         <seg>Auto White Balance</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213353Z">
-        <seg>Balance de blanco Auto</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165113Z">
+        <seg>Balance de blanco auto</seg>
       </tuv>
     </tu>
     <tu>
@@ -2042,6 +2050,30 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192710Z">
         <seg>Cerrar imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164925Z" creationid="beto" creationdate="20150619T164925Z">
+        <seg>Contraer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165023Z" creationid="beto" creationdate="20150619T165023Z">
+        <seg>Contraer todas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse Others</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164948Z" creationid="beto" creationdate="20150619T164948Z">
+        <seg>Contraer otras</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't Auto Expand</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165010Z" creationid="beto" creationdate="20150619T165010Z">
+        <seg>No Auto Expandir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't Reset</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120306Z">
@@ -3890,6 +3930,22 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120820Z">
         <seg>Salir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164952Z" creationid="beto" creationdate="20150619T164952Z">
+        <seg>Expandir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165033Z" creationid="beto" creationdate="20150619T165033Z">
+        <seg>Expandir todas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6662,10 +6718,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mid+Hilights</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164905Z" creationid="beto" creationdate="20150619T164905Z">
+        <seg>Med+Altas Luces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Midpoint</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211441Z">
         <seg>Punto medio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Midtones</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164914Z" creationid="beto" creationdate="20150619T164914Z">
+        <seg>Medios tonos</seg>
       </tuv>
     </tu>
     <tu>
@@ -9890,6 +9962,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113810Z">
         <seg>Smin Valor de muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soft Burn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T164840Z" creationid="beto" creationdate="20150619T164840Z">
+        <seg>Subexposicion suave</seg>
       </tuv>
     </tu>
     <tu>
