@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Could not find java.lang.String class.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165831Z" creationid="beto" creationdate="20150619T165831Z">
+        <seg>"No se encuentra java.lang.Argumento de clase.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Failed to set current working directory.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165852Z" creationid="beto" creationdate="20150619T165852Z">
+        <seg>"Fallo al asignar directorio de trabajo actual.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"LightZone requires Mac OS X version 10.4.3 or later.";</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165630Z" creationid="beto" creationdate="20150619T165630Z">
