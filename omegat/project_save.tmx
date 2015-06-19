@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"CFBundleName not specified in Info.plist.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170523Z" creationid="beto" creationdate="20150619T170523Z">
+        <seg>"CFBundleName no especificada en Info.plist.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Corrupted application";</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165315Z" creationid="beto" creationdate="20150619T165315Z">
@@ -70,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Could not allocate memory.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170504Z" creationid="beto" creationdate="20150619T170504Z">
+        <seg>No se puede asignar suficiente memoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Could not find java.lang.String class.";</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165831Z" creationid="beto" creationdate="20150619T165831Z">
@@ -90,6 +106,30 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165852Z" creationid="beto" creationdate="20150619T165852Z">
         <seg>"Fallo al asignar directorio de trabajo actual.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"JVMVersion not specified in Info.plist.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170400Z" creationid="beto" creationdate="20150619T170400Z">
+        <seg>"JVMVersion no especificada en Info.plist.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Java appears not to be installed correctly on this computer.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170553Z" creationid="beto" creationdate="20150619T170553Z">
+        <seg>"Java parece no estar instalado correctamente en este ordenador.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Java dictionary not specified in Info.plist.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170421Z" creationid="beto" creationdate="20150619T170421Z">
+        <seg>"Diccionario Java no especificado en Info.plist.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +170,30 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165517Z" creationid="beto" creationdate="20150619T165517Z">
         <seg>"Nuevo Mac OS X requerido";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Quit";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170435Z" creationid="beto" creationdate="20150619T170435Z">
+        <seg>Salir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Required Java version not found";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170641Z" creationid="beto" creationdate="20150619T170641Z">
+        <seg>"La version Java requerida no se encuentra";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The Java Versions directory could not be read.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T170624Z" creationid="beto" creationdate="20150619T170624Z">
+        <seg>"El directorio de la version de Java no se puede leer.";</seg>
       </tuv>
     </tu>
     <tu>
