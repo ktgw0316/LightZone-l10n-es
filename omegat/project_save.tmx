@@ -5262,6 +5262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the darkest black of your photo becomes the darkest black that the device can render.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T180230Z" creationid="beto" creationdate="20150619T180230Z">
+        <seg>Por lo tanto, el negro mas oscuro de tu foto para a ser el negro mas oscuro que el periferico puede renderizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Crop Tool</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160406Z">
@@ -7482,6 +7490,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130906T164607Z">
         <seg>ABRIR_HORQUILLADO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the other hand, if black point compensation is done, the luminosity range of your photo is compressed to fit into the luminosity range of the device.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T180234Z" creationid="beto" creationdate="20150619T180135Z">
+        <seg>Por otro lado, si la compensacion del punto negro se lleva a cabo, el rango luminoso de tu foto es comprimido para igualarse al rango luminosos del periferico.</seg>
       </tuv>
     </tu>
     <tu>
