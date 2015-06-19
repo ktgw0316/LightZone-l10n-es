@@ -22,6 +22,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"A jar file is corrupt.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165434Z" creationid="beto" creationdate="20150619T165434Z">
+        <seg>"A archivo jar esta corrupto.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Corrupted application";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165315Z" creationid="beto" creationdate="20150619T165315Z">
+        <seg>"Aplicacion corrupta";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"LightZone requires a PowerPC G4, G5, or Intel processor.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165417Z" creationid="beto" creationdate="20150619T165417Z">
+        <seg>"LightZone requiere un PowerPC G4, G5, o un procesador Intel.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Newer CPU required";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165350Z" creationid="beto" creationdate="20150619T165350Z">
+        <seg>"Nuevo tipo de CPU requerido";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Unexpected failure";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T165326Z" creationid="beto" creationdate="20150619T165326Z">
+        <seg>"Fallo inexperado";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 files to process</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191935Z">
