@@ -5574,6 +5574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no black point compensation is done, then detail will be lost in the darkest shadow areas of your photo because the dark areas beyond the darkest black the device can render are truncated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T180006Z" creationid="beto" creationdate="20150619T180006Z">
+        <seg>Si no hay compensacion del punto negro, el detalle en las areas de sombras mas oscuras se pierde porque las areas mas alla del negro mas oscuro que el periferico puede renderizar son recortadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185544Z">
