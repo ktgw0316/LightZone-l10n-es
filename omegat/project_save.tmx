@@ -3224,8 +3224,8 @@
       <tuv lang="EN-US">
         <seg>Destination city code</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T204215Z">
-        <seg>Código de ciudad del destino</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161911Z">
+        <seg>Código de destino de la ciudad</seg>
       </tuv>
     </tu>
     <tu>
@@ -4968,8 +4968,8 @@
       <tuv lang="EN-US">
         <seg>Home-town city code</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T204209Z">
-        <seg>Codigo postal de ciudad natal</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161838Z">
+        <seg>Codigo postal de la ciudad natal</seg>
       </tuv>
     </tu>
     <tu>
