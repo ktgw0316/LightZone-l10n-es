@@ -5430,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T180434Z" creationid="beto" creationdate="20150619T180434Z">
+        <seg>Sin embargo, debido a que el rango de luminosidad se comprime, informacion de tu foto se pierde: la pérdida se extiende justo de manera uniforme a lo largo de toda la gama de luminosidad (y por lo tanto menos perceptible) en lugar de ser recortado en el extremo negro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hue</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201507Z">
@@ -7130,6 +7138,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183336Z">
         <seg>Mes/dia de creacion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most tools can have a &lt;e0&gt;blending mode&lt;/e0&gt; specified for them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T180603Z" creationid="beto" creationdate="20150619T180603Z">
+        <seg>La mayor parte de las heramientas pueden tener un&lt;e0&gt;modo de mezcla&lt;/e0&gt; especifico para ellas.</seg>
       </tuv>
     </tu>
     <tu>
