@@ -3606,6 +3606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T171400Z" creationid="beto" creationdate="20150619T171400Z">
+        <seg>Desarrolladores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Device settings description</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T194438Z">
@@ -6198,6 +6206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keepers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T171351Z" creationid="beto" creationdate="20150619T171351Z">
+        <seg>Mantenedores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keywords</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211053Z">
@@ -7518,6 +7534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Source Team</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T171335Z" creationid="beto" creationdate="20150619T171335Z">
+        <seg>Equipo Codigo Libre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open an Image</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120200Z">
@@ -7586,6 +7610,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205833Z">
         <seg>Carpeta original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original LightZone from Light Crafts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T171308Z" creationid="beto" creationdate="20150619T171308Z">
+        <seg>Original LightZone de Light Crafts</seg>
       </tuv>
     </tu>
     <tu>
@@ -11186,6 +11218,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130731T162717Z">
         <seg>Rango de transferencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translators</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T171408Z" creationid="beto" creationdate="20150619T171408Z">
+        <seg>Traductores</seg>
       </tuv>
     </tu>
     <tu>
