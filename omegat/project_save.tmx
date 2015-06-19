@@ -5864,8 +5864,8 @@
       <tuv lang="EN-US">
         <seg>Lens distortion params-X</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194700Z">
-        <seg>Distorsion de lente parametross-X</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T160955Z">
+        <seg>Distorsion de lente parametros-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -5896,8 +5896,8 @@
       <tuv lang="EN-US">
         <seg>Lens temperature</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T195419Z">
-        <seg>Temperatura de lente</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161126Z">
+        <seg>Temperatura de la lente</seg>
       </tuv>
     </tu>
     <tu>
@@ -6392,8 +6392,8 @@
       <tuv lang="EN-US">
         <seg>Maker notes version</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183500Z">
-        <seg>Nota de version del fabricante</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T160938Z">
+        <seg>Nota de la version del fabricante</seg>
       </tuv>
     </tu>
     <tu>
@@ -6960,8 +6960,8 @@
       <tuv lang="EN-US">
         <seg>One-touch white balance</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T184259Z">
-        <seg>Balance de blanco de un solo toque</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161033Z">
+        <seg>Balance de blanco en un toque</seg>
       </tuv>
     </tu>
     <tu>
@@ -9152,8 +9152,8 @@
       <tuv lang="EN-US">
         <seg>Sensor temperature</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T195417Z">
-        <seg>Temperatura de sensor</seg>
+      <tuv lang="ES" changeid="beto" changedate="20150619T161055Z">
+        <seg>Temperatura del sensor</seg>
       </tuv>
     </tu>
     <tu>
