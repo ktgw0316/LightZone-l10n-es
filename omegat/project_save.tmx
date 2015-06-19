@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"ClassPath in Info.plist is not a String or an Array.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T171115Z" creationid="beto" creationdate="20150619T171115Z">
+        <seg>"ClassPath en Info.plist no es una cadena o matriz.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Corrupted application";</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T165315Z" creationid="beto" creationdate="20150619T165315Z">
@@ -90,6 +98,22 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T170758Z" creationid="beto" creationdate="20150619T170758Z">
         <seg>"No se puede separar el hilo.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Could not find MightyMouse class.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T171139Z" creationid="beto" creationdate="20150619T171139Z">
+        <seg>"No se encuentra la clase MightyMouse.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Could not find handleEvent method.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T171203Z" creationid="beto" creationdate="20150619T171203Z">
+        <seg>"No se encuentra el metodo handleEvent.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +258,22 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T170624Z" creationid="beto" creationdate="20150619T170624Z">
         <seg>"El directorio de la version de Java no se puede leer.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The RegisterNatives() method failed.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T171233Z" creationid="beto" creationdate="20150619T171233Z">
+        <seg>"El metodo RegisterNatives() falló.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The main() method threw an exception.";</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20150619T171000Z" creationid="beto" creationdate="20150619T171000Z">
+        <seg>"El metodo principal() arrojo una excepcion.";</seg>
       </tuv>
     </tu>
     <tu>
