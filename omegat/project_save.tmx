@@ -6414,6 +6414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light Crafts and the LightZone Project would like to acknowledge the following people who contributed to LightZone:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20151211T203930Z" creationid="beto" creationdate="20151211T203930Z">
+        <seg>Light Crafts y el Proyecto LightZone desea agradecer a las siguientes personas que han contribuido en LightZone:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Crafts embeds no personal data of any kind in these reports.</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120242Z">
@@ -7672,8 +7680,8 @@
       <tuv lang="EN-US">
         <seg>Original LightZone from Light Crafts</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T171308Z" creationid="beto" creationdate="20150619T171308Z">
-        <seg>Original LightZone de Light Crafts</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151211T203943Z" creationid="beto" creationdate="20150619T171308Z">
+        <seg>LightZone original de Light Crafts</seg>
       </tuv>
     </tu>
     <tu>
@@ -11600,8 +11608,8 @@
       <tuv lang="EN-US">
         <seg>When either &lt;a0&gt;converting&lt;/a0&gt; or &lt;a1&gt;printing&lt;/a1&gt; your photos using application managed colors, you can enable &lt;e2&gt;black point compensation&lt;/e2&gt; when the &lt;a3&gt;rendering intent&lt;/a3&gt; is Relative Colorimetric.</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T175346Z" creationid="beto" creationdate="20150619T175346Z">
-        <seg>Tanto  &lt;a0&gt;convirtiendo&lt;/a0&gt; o &lt;a1&gt;imprimiendo&lt;/a1&gt; tus fotos usando una aplicacion con gstion de color, tu puedes activar &lt;e2&gt;compensacion del punto negro&lt;/e2&gt; cuando el &lt;a3&gt;intento de renderizado&lt;/a3&gt; es Relativo Colorimetrico.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151211T204115Z" creationid="beto" creationdate="20150619T175346Z">
+        <seg>Tanto  &lt;a0&gt;convirtiendo&lt;/a0&gt; o &lt;a1&gt;imprimiendo&lt;/a1&gt; tus fotos usando una aplicacion con gestion de color, tu puedes activar &lt;e2&gt;la compensacion del punto negro&lt;/e2&gt; cuando el &lt;a3&gt;intento de renderizado&lt;/a3&gt; es Relativo Colorimetrico.</seg>
       </tuv>
     </tu>
     <tu>
