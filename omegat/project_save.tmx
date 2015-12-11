@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blend color</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20151211T204644Z" creationid="beto" creationdate="20151211T204542Z">
+        <seg>Color mezclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blending Mode</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211639Z">
@@ -9030,6 +9038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Result color</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20151211T204737Z" creationid="beto" creationdate="20151211T204737Z">
+        <seg>Color resultante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Revert</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T122727Z">
@@ -10946,6 +10962,22 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162430Z">
         <seg>Esta carpeta puede estar en el mismo lugar que las imagenes ("Local")o en una localización centralizada ("Global").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the color of a pixel after a tool's effect has been applied to the photo.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20151211T204725Z" creationid="beto" creationdate="20151211T204725Z">
+        <seg>Este es el color de un pixel despues de que una herramineta de efectos se haya aplicado a la foto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the color of a pixel before a tool's effect has been applied to the photo.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20151211T204511Z" creationid="beto" creationdate="20151211T204511Z">
+        <seg>Este es el color de un pixel antes de que una heramienta de efectos se haya aplicado a la foto.</seg>
       </tuv>
     </tu>
     <tu>
