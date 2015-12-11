@@ -8968,16 +8968,16 @@
       <tuv lang="EN-US">
         <seg>Resetting LightZone Settings means LightZone will work the way it did when it was new.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163703Z">
-        <seg>Reinicializando los ajustes de LightZone significa que funcionará de la manera que lo hacia al principio.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151211T205612Z">
+        <seg>Reinicializar los ajustes de LightZone significa que funcionará de la manera que lo hacia al principio.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Resetting LightZone Settings will restore LightZone to its factory settings.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T170053Z">
-        <seg>Reinicializando los ajustes de LightZone restaurara LightZone a sus ajustes de fabrica.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151211T205629Z">
+        <seg>Reinicializar los ajustes de LightZone restaurara LightZone a sus ajustes de fabrica.</seg>
       </tuv>
     </tu>
     <tu>
