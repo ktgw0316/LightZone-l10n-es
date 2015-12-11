@@ -672,8 +672,8 @@
       <tuv lang="EN-US">
         <seg>A blending mode controls how the effects of tools in the &lt;a1&gt;tool stack&lt;/a1&gt; blend together to form the final photo.</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T180730Z" creationid="beto" creationdate="20150619T180730Z">
-        <seg>un modo de mezcla controla como los efectos de las herramientas en la &lt;a1&gt;pila de herramientas&lt;/a1&gt; se mezclan juntos para formar la foto final.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151211T204314Z" creationid="beto" creationdate="20150619T180730Z">
+        <seg>Un modo de mezcla controla como los efectos de las herramientas en la &lt;a1&gt;pila de herramientas&lt;/a1&gt; se mezclan juntos para formar la foto final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1410,6 +1410,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130609T114417Z">
         <seg>Version hacia atras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base color</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20151211T204417Z" creationid="beto" creationdate="20151211T204417Z">
+        <seg>Color base</seg>
       </tuv>
     </tu>
     <tu>
@@ -5878,6 +5886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to understand blending modes, there are a few terms to know:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20151211T204407Z" creationid="beto" creationdate="20151211T204407Z">
+        <seg>Para entender los modos de mezcla, hay algunos terminos a conocer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indexed</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T204432Z">
@@ -7160,8 +7176,8 @@
       <tuv lang="EN-US">
         <seg>Most tools can have a &lt;e0&gt;blending mode&lt;/e0&gt; specified for them.</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T180603Z" creationid="beto" creationdate="20150619T180603Z">
-        <seg>La mayor parte de las heramientas pueden tener un&lt;e0&gt;modo de mezcla&lt;/e0&gt; especifico para ellas.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151211T204245Z" creationid="beto" creationdate="20150619T180603Z">
+        <seg>La mayor parte de las herramientas pueden tener un&lt;e0&gt;modo de mezcla&lt;/e0&gt; especifico para ellas.</seg>
       </tuv>
     </tu>
     <tu>
