@@ -2864,8 +2864,8 @@
       <tuv lang="EN-US">
         <seg>Copy the selected image to another folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120424Z">
-        <seg>Copiar la imagen seleccionada a otra carpeta</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151212T192134Z">
+        <seg>Crear jpg de la imagen seleccionada en una carpeta</seg>
       </tuv>
     </tu>
     <tu>
