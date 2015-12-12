@@ -1768,8 +1768,8 @@
       <tuv lang="EN-US">
         <seg>Browser Layout</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164659Z">
-        <seg>Diseño de Navegador</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151212T190222Z">
+        <seg>Modo Navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -4072,8 +4072,8 @@
       <tuv lang="EN-US">
         <seg>Editor Layout</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164706Z">
-        <seg>Diseño de editor</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151212T190215Z">
+        <seg>Modo Editor</seg>
       </tuv>
     </tu>
     <tu>
