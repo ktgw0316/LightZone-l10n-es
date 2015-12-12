@@ -1168,8 +1168,8 @@
       <tuv lang="EN-US">
         <seg>Apply toolstack to the selected image</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160327Z">
-        <seg>Aplicar herramienta de apilado a la imagen seleccionada</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151212T191100Z">
+        <seg>Aplicar ajustes del apilado a la imagen seleccionada</seg>
       </tuv>
     </tu>
     <tu>
@@ -2872,8 +2872,8 @@
       <tuv lang="EN-US">
         <seg>Copy toolstack to clipboard from selected image</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160326Z">
-        <seg>Copiar herramienta de apilado de la imagen seleccionada al portapapeles</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151212T191042Z">
+        <seg>Copiar ajustes del apilado de la imagen seleccionada al portapapeles</seg>
       </tuv>
     </tu>
     <tu>
