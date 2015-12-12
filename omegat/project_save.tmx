@@ -2824,8 +2824,8 @@
       <tuv lang="EN-US">
         <seg>Convert the selected image to a new image type</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120427Z">
-        <seg>Convertir la imagen seleccionada a un nuevo tipo de imagen</seg>
+      <tuv lang="ES" changeid="beto" changedate="20151212T195152Z">
+        <seg>Convertir la imagen seleccionada a un nuevo tipo de imagen por lotes</seg>
       </tuv>
     </tu>
     <tu>
