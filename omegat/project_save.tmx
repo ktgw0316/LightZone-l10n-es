@@ -9568,8 +9568,8 @@
       <tuv lang="EN-US">
         <seg>Second, as shown by the red arrows, the base and blend colors are blended together using a blending mode producing the result colors.</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20170114T234200Z" creationid="beto" creationdate="20170114T234200Z">
-        <seg>En segundo lugar, como se muestra por las flechas rojas, los colores de base y de mezcla se mezclan juntos usando un modo de mezcla que produce los colores de resultado.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T234234Z" creationid="beto" creationdate="20170114T234200Z">
+        <seg>En segundo lugar, como se muestra en las flechas rojas, los colores de base y de mezcla se mezclan juntos usando un modo de mezcla que produce los colores resultantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10942,6 +10942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are many blending modes to choose from.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T234643Z" creationid="beto" creationdate="20170114T234643Z">
+        <seg>Hay muchos modos de mezcla para escoger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There was a problem checking for an update.</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162400Z">
@@ -11714,6 +11722,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130801T160840Z">
         <seg>Cuando guardas tu foto por primera vez, el administrador de archivos puede mostrar automaticamente donde estaba tu foto original, o puede mostrar la ultima carpeta donde LightZone guardo algo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While descriptions for each are below, it's best to experiment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T234802Z" creationid="beto" creationdate="20170114T234802Z">
+        <seg>Aunque las descripciones para cada uno estan debajo, es mejor experimentar.</seg>
       </tuv>
     </tu>
     <tu>
