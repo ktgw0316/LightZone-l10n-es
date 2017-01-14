@@ -1288,8 +1288,8 @@
       <tuv lang="EN-US">
         <seg>Auto Save</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160201Z">
-        <seg>Auto Guardar</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T210854Z">
+        <seg>Auto Guardado</seg>
       </tuv>
     </tu>
     <tu>
@@ -3728,8 +3728,8 @@
       <tuv lang="EN-US">
         <seg>Direct Save</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210324Z">
-        <seg>Guardar directo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T210840Z">
+        <seg>Guardado directo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5640,8 +5640,8 @@
       <tuv lang="EN-US">
         <seg>If you have a fast hard disk, using a folder on it will enable LightZone to operate faster.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210132Z">
-        <seg>Si  tienes un disco duro rápido, utilizando una carpeta dentro permite a LightZone operar más rápido.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T210813Z">
+        <seg>Si  tienes un disco duro rápido, utilizando una carpeta en el mismo permite a LightZone operar más rápido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10912,8 +10912,8 @@
       <tuv lang="EN-US">
         <seg>Then select an image in the browser, and click the button next to the copyright field in the browser's metadata area to write this copyright text to an image file.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T210929Z">
-        <seg>Entonces seleccionar una imagen en el navegador, y picar en el boton cercano al campo de copyright en el area de metadatos del navegador para escribir este texto de copyrigth a un archivo de imagen.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211035Z">
+        <seg>Entonces selecciona una imagen en el navegador, y pica en el boton cercano al campo de copyright en el area de metadatos del navegador para escribir este texto de copyright a un archivo de imagen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11640,8 +11640,8 @@
       <tuv lang="EN-US">
         <seg>When checked, using LightZone as the external editor for another application will cause LightZone to save your photo directly back to the other application when you select File &gt; Save.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T163818Z">
-        <seg>Cuándo está activado, utilizando LightZone como el editor externo para otra aplicación provocará que LightZone para salvar tu foto directamente volverá a la otra aplicación cuándo seleccionas Archivo &gt; Guardar.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T210958Z">
+        <seg>Cuándo está activado, utilizando LightZone como el editor externo para otra aplicación provocará que LightZone para salvar tu foto volverá directamente a la otra aplicación cuándo seleccionas Archivo &gt; Guardar.</seg>
       </tuv>
     </tu>
     <tu>
