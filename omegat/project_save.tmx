@@ -4646,6 +4646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, as shown by the green arrows, the base colors of a photo have a tool's effect applied to them producing the blend colors.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T234125Z" creationid="beto" creationdate="20170114T234125Z">
+        <seg>En primer lugar, como se muestra en las flechas verdes, los colores de base de una foto tienen un efecto de una herramienta aplicado a ellos produciendo los colores de mezcla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fit image to screen</seg>
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160905Z">
@@ -9554,6 +9562,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120223Z">
         <seg>Buscar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second, as shown by the red arrows, the base and blend colors are blended together using a blending mode producing the result colors.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T234200Z" creationid="beto" creationdate="20170114T234200Z">
+        <seg>En segundo lugar, como se muestra por las flechas rojas, los colores de base y de mezcla se mezclan juntos usando un modo de mezcla que produce los colores de resultado.</seg>
       </tuv>
     </tu>
     <tu>
