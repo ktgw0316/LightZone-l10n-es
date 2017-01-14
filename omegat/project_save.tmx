@@ -3160,16 +3160,16 @@
       <tuv lang="EN-US">
         <seg>Creator E-mail(s)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182658Z">
-        <seg>Email del creador(s)</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202215Z">
+        <seg>Email(s) del creador</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Creator Phone(s)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182702Z">
-        <seg>Teléfono del creador(s)</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202226Z">
+        <seg>Teléfono(s) del creador</seg>
       </tuv>
     </tu>
     <tu>
@@ -3192,8 +3192,8 @@
       <tuv lang="EN-US">
         <seg>Creator Web URL(S)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T182721Z">
-        <seg>Web del creador URL(S)</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202304Z">
+        <seg>URL(S) del creador Web</seg>
       </tuv>
     </tu>
     <tu>
@@ -6264,8 +6264,8 @@
       <tuv lang="EN-US">
         <seg>Job ID</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211428Z">
-        <seg>Trabajo ID</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202129Z">
+        <seg>ID del Trabajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8368,8 +8368,8 @@
       <tuv lang="EN-US">
         <seg>Program version</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211346Z">
-        <seg>Versión de programa</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202118Z">
+        <seg>Versión del programa</seg>
       </tuv>
     </tu>
     <tu>
@@ -14656,8 +14656,8 @@
       <tuv lang="EN-US">
         <seg>headshot</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163506Z">
-        <seg>Foto de la cabeza</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202359Z">
+        <seg>Retrato</seg>
       </tuv>
     </tu>
     <tu>
