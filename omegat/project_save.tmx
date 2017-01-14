@@ -4008,8 +4008,8 @@
       <tuv lang="EN-US">
         <seg>EXIF version</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121337Z">
-        <seg>EXIF Versión</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201024Z">
+        <seg>Version EXIF</seg>
       </tuv>
     </tu>
     <tu>
@@ -8712,8 +8712,8 @@
       <tuv lang="EN-US">
         <seg>Related image file format</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T121140Z">
-        <seg>Formato de archivo de imagen relacionado</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T200950Z">
+        <seg>Formato del archivo de imagen relacionado</seg>
       </tuv>
     </tu>
     <tu>
@@ -10592,8 +10592,8 @@
       <tuv lang="EN-US">
         <seg>Strip byte counts</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163018Z">
-        <seg>Banda de bytes counts</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T200913Z">
+        <seg>Tira de bytes counts</seg>
       </tuv>
     </tu>
     <tu>
