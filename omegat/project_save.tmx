@@ -6600,8 +6600,8 @@
       <tuv lang="EN-US">
         <seg>LightZone Settings remember what was going on the last time you used LightZone.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120307Z">
-        <seg>Los ajustes de LightZone guardan lo que ocurrio la ultima vez que usaste LightZone.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T193018Z">
+        <seg>Los ajustes de LightZone guardan lo que estabas haciendo la ultima vez que usaste LightZone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6648,8 +6648,8 @@
       <tuv lang="EN-US">
         <seg>LightZone failed to start last time.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162950Z">
-        <seg>LightZone falló al comenzar la última vez.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T192906Z">
+        <seg>LightZone falló al iniciarse la última vez.</seg>
       </tuv>
     </tu>
     <tu>
