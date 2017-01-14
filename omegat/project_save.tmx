@@ -4912,8 +4912,8 @@
       <tuv lang="EN-US">
         <seg>Focal units per mm</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195958Z">
-        <seg>Unidades focales por mm</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194915Z">
+        <seg>Unidades focales en mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -9776,8 +9776,8 @@
       <tuv lang="EN-US">
         <seg>Sensor height</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200125Z">
-        <seg>Alto de sensor</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194931Z">
+        <seg>Alto del sensor</seg>
       </tuv>
     </tu>
     <tu>
@@ -9848,8 +9848,8 @@
       <tuv lang="EN-US">
         <seg>Sensor width</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200117Z">
-        <seg>Ancho de sensor</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194927Z">
+        <seg>Ancho del sensor</seg>
       </tuv>
     </tu>
     <tu>
@@ -12928,8 +12928,8 @@
       <tuv lang="EN-US">
         <seg>center-weighted</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195706Z">
-        <seg>Centro</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194832Z">
+        <seg>Ponderada al centro</seg>
       </tuv>
     </tu>
     <tu>
