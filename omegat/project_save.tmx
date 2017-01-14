@@ -5440,8 +5440,8 @@
       <tuv lang="EN-US">
         <seg>Home-town city code</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T161838Z">
-        <seg>Codigo postal de la ciudad natal</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T210117Z">
+        <seg>Código postal de la ciudad natal</seg>
       </tuv>
     </tu>
     <tu>
@@ -11728,8 +11728,8 @@
       <tuv lang="EN-US">
         <seg>White balance mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T195709Z">
-        <seg>Modo de balance de blanco</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205958Z">
+        <seg>Modo del balance de blanco</seg>
       </tuv>
     </tu>
     <tu>
@@ -11832,8 +11832,8 @@
       <tuv lang="EN-US">
         <seg>World time location</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203353Z">
-        <seg>Ubicación de tiempo mundial</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T210046Z">
+        <seg>Hora mundial</seg>
       </tuv>
     </tu>
     <tu>
@@ -12512,8 +12512,8 @@
       <tuv lang="EN-US">
         <seg>auto, did not fire, red-eye reduction</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T170106Z">
-        <seg>Auto, flash no disparado, reduccion ojos rojos</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205924Z">
+        <seg>Auto, flash no disparado, reduccion de ojos rojos</seg>
       </tuv>
     </tu>
     <tu>
@@ -12528,8 +12528,8 @@
       <tuv lang="EN-US">
         <seg>auto, fired, red-eye reduction</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T170111Z">
-        <seg>Auto, disparado, reduccion ojos rojos</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205931Z">
+        <seg>Auto, disparado, reduccion de ojos rojos</seg>
       </tuv>
     </tu>
     <tu>
@@ -13416,8 +13416,8 @@
       <tuv lang="EN-US">
         <seg>dark pet</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T161717Z">
-        <seg>Mascota oscuro pet</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205911Z">
+        <seg>Mascota oscuro</seg>
       </tuv>
     </tu>
     <tu>
@@ -15608,8 +15608,8 @@
       <tuv lang="EN-US">
         <seg>medium hard</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203350Z">
-        <seg>medio duro</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T210015Z">
+        <seg>Medio duro</seg>
       </tuv>
     </tu>
     <tu>
