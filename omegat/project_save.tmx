@@ -3374,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Darkens the base color to reflect the blend color by increasing contrast.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235030Z" creationid="beto" creationdate="20170114T235030Z">
+        <seg>Oscurece el color base para reflejar el color de la mezcla aumentando el contraste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data dump</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T203651Z">
@@ -10966,6 +10974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This blending mode has no effect; therefore, the blend and result colors are the same.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T234909Z" creationid="beto" creationdate="20170114T234909Z">
+        <seg>Este modo de mezcla no tiene efecto; por lo tanto la mezcla y los colores resultantes son los mismos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can fix lots of problems, but loses your customizations.</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T205146Z">
@@ -11034,6 +11050,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130801T162016Z">
         <seg>Esta es la carpeta que LightZone utilizará para almacenar datos temporalmente mientras editas tus fotos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the same as the Normal blending mode but at 50% opacity.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T234952Z" creationid="beto" creationdate="20170114T234952Z">
+        <seg>Este es el mismo que el modo de mezcla Normal pero al 50% de opacidad.</seg>
       </tuv>
     </tu>
     <tu>
