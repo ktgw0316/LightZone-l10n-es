@@ -1992,16 +1992,16 @@
       <tuv lang="EN-US">
         <seg>Camera settings</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193629Z">
-        <seg>Opciones de camara</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204410Z">
+        <seg>Opciones de la camara</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Camera settings (old)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183505Z">
-        <seg>Opciones de camara</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204404Z">
+        <seg>Opciones de la camara (viejo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2720,8 +2720,8 @@
       <tuv lang="EN-US">
         <seg>Compressed image size</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183513Z">
-        <seg>Tamaño de imagen comprimida</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204415Z">
+        <seg>Tamaño de la imagen comprimida</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,8 +6040,8 @@
       <tuv lang="EN-US">
         <seg>Interval length</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184339Z">
-        <seg>Longitud de intervalo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204545Z">
+        <seg>Longitud del intervalo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6056,8 +6056,8 @@
       <tuv lang="EN-US">
         <seg>Interval number</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184341Z">
-        <seg>Número de intervalo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204549Z">
+        <seg>Número del intervalo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6928,8 +6928,8 @@
       <tuv lang="EN-US">
         <seg>Maker notes version</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T160938Z">
-        <seg>Nota de la version del fabricante</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204341Z">
+        <seg>Notas de la version del fabricante</seg>
       </tuv>
     </tu>
     <tu>
@@ -11976,8 +11976,8 @@
       <tuv lang="EN-US">
         <seg>Year created</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183325Z">
-        <seg>Año de creacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204252Z">
+        <seg>Año de creación</seg>
       </tuv>
     </tu>
     <tu>
@@ -15768,8 +15768,8 @@
       <tuv lang="EN-US">
         <seg>multi-pattern</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183354Z">
-        <seg>multi-Patrón</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204317Z">
+        <seg>Multi-patrón</seg>
       </tuv>
     </tu>
     <tu>
@@ -17448,8 +17448,8 @@
       <tuv lang="EN-US">
         <seg>solarizaion</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164743Z">
-        <seg>Solarizacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204436Z">
+        <seg>Solarización</seg>
       </tuv>
     </tu>
     <tu>
