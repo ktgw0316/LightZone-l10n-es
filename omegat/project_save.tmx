@@ -4736,8 +4736,8 @@
       <tuv lang="EN-US">
         <seg>Flash energy</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193150Z">
-        <seg>Energia de flash</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201417Z">
+        <seg>Energia del flash</seg>
       </tuv>
     </tu>
     <tu>
@@ -4896,8 +4896,8 @@
       <tuv lang="EN-US">
         <seg>Focal plane resolution unit</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T193315Z">
-        <seg>Unidad de resolucion plano focal</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201433Z">
+        <seg>Unidad de resolución del plano focal</seg>
       </tuv>
     </tu>
     <tu>
@@ -14208,8 +14208,8 @@
       <tuv lang="EN-US">
         <seg>flash did not fire, compulsory flash mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163153Z">
-        <seg>Flash no disparado, modo de falsh anulado</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201227Z">
+        <seg>Flash no disparado, modo de flash anulado</seg>
       </tuv>
     </tu>
     <tu>
@@ -14232,8 +14232,8 @@
       <tuv lang="EN-US">
         <seg>flash fired, auto, red-eye reduction</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163214Z">
-        <seg>Flash disparado, auto, reduccion ojos rojos</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201346Z">
+        <seg>Flash disparado, auto, reduccion de ojos rojos</seg>
       </tuv>
     </tu>
     <tu>
@@ -14248,8 +14248,8 @@
       <tuv lang="EN-US">
         <seg>flash fired, auto, strobe return light detected, red-eye reduction</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163216Z">
-        <seg>Flash disparado, auto, retorno de luz estroboscopica detectada, reduccion ojos rojos</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201356Z">
+        <seg>Flash disparado, auto, retorno de luz estroboscopica detectada, reduccion de ojos rojos</seg>
       </tuv>
     </tu>
     <tu>
@@ -14264,40 +14264,40 @@
       <tuv lang="EN-US">
         <seg>flash fired, auto, strobe return light not detected, red-eye reduction</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163215Z">
-        <seg>Flash disparado, auto, retorno de luz estroboscopica no detectada, reduccion ojos rojos</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201352Z">
+        <seg>Flash disparado, auto, retorno de luz estroboscopica no detectada, reduccion de ojos rojos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>flash fired, compulsory flash mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163148Z">
-        <seg>Flash disparado, modo de falsh anulado</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201214Z">
+        <seg>Flash disparado, modo de flash anulado</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>flash fired, compulsory flash mode, red-eye reduction</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163209Z">
-        <seg>Flash disparado, modo de falsh anulado, reduccion ojos rojos</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201333Z">
+        <seg>Flash disparado, modo de falsh anulado, reduccion de ojos rojos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>flash fired, compulsory flash mode, red-eye reduction, strobe return light detected</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163212Z">
-        <seg>Flash disparado, modo de flash anulado, reduccion ojos rojos, retorno de luz estroboscopica detectada</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201342Z">
+        <seg>Flash disparado, modo de flash anulado, reduccion de ojos rojos, retorno de luz estroboscopica detectada</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>flash fired, compulsory flash mode, red-eye reduction, strobe return light not detected</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163211Z">
-        <seg>Flash disparado, modo de flash anulado, reduccion ojos rojos, retorno de luz estroboscopica no detectada</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201338Z">
+        <seg>Flash disparado, modo de flash anulado, reduccion de ojos rojos, retorno de luz estroboscopica no detectada</seg>
       </tuv>
     </tu>
     <tu>
@@ -14320,24 +14320,24 @@
       <tuv lang="EN-US">
         <seg>flash fired, red-eye reduction</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163203Z">
-        <seg>Flash disparado, reduccion ojos rojos</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201319Z">
+        <seg>Flash disparado, reduccion de ojos rojos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>flash fired, red-eye reduction, strobe return light detected</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185040Z">
-        <seg>Flash disparado, reduccion ojos rojos, retorno de luz estroboscopica detectada</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201328Z">
+        <seg>Flash disparado, reduccion de ojos rojos, retorno de luz estroboscopica detectada</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>flash fired, red-eye reduction, strobe return light not detected</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163206Z">
-        <seg>Flash disparado, reduccion ojos rojos, retorno de luz estroboscopica no detectada</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201324Z">
+        <seg>Flash disparado, reduccion de ojos rojos, retorno de luz estroboscopica no detectada</seg>
       </tuv>
     </tu>
     <tu>
@@ -17640,16 +17640,16 @@
       <tuv lang="EN-US">
         <seg>strobe return light detected</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163146Z">
-        <seg>Retorno luz estroboscopica detectada</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201206Z">
+        <seg>Retorno de luz estroboscopica detectada</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>strobe return light not detected</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T163145Z">
-        <seg>Retorno luz estroboscopica no detectada</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201202Z">
+        <seg>Retorno de luz estroboscopica no detectada</seg>
       </tuv>
     </tu>
     <tu>
