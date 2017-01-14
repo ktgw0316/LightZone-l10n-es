@@ -2688,8 +2688,8 @@
       <tuv lang="EN-US">
         <seg>Common aspect ratios</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160401Z">
-        <seg>Relacion de aspecto comunes</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211247Z">
+        <seg>Relaciones de aspecto comunes</seg>
       </tuv>
     </tu>
     <tu>
@@ -5384,8 +5384,8 @@
       <tuv lang="EN-US">
         <seg>Hide the Rotate Tool</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160847Z">
-        <seg>Ocultar la herramienta de rotacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211353Z">
+        <seg>Ocultar la herramienta de rotación</seg>
       </tuv>
     </tu>
     <tu>
@@ -7248,8 +7248,8 @@
       <tuv lang="EN-US">
         <seg>Move to Recycle Bin...</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160346Z">
-        <seg>Mover a la Papelera de reciclado...</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211158Z">
+        <seg>Mover a la Papelera de reciclaje...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10112,8 +10112,8 @@
       <tuv lang="EN-US">
         <seg>Show Rotate Tool</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160853Z">
-        <seg>Mostar herramienta royacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211402Z">
+        <seg>Mostar herramienta rotación</seg>
       </tuv>
     </tu>
     <tu>
@@ -10200,8 +10200,8 @@
       <tuv lang="EN-US">
         <seg>Show the Rotate Tool</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160846Z">
-        <seg>Mostrar la herramienta de rotacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211348Z">
+        <seg>Mostrar la herramienta de rotación</seg>
       </tuv>
     </tu>
     <tu>
