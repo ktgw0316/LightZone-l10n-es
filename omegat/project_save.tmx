@@ -2864,8 +2864,8 @@
       <tuv lang="EN-US">
         <seg>Copy the selected image to another folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20151212T192134Z">
-        <seg>Crear jpg de la imagen seleccionada en una carpeta</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T193302Z">
+        <seg>Copia la imagen seleccionada en otra carpeta</seg>
       </tuv>
     </tu>
     <tu>
@@ -4616,8 +4616,8 @@
       <tuv lang="EN-US">
         <seg>Finish editing and return to Browse Mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T161158Z">
-        <seg>Terminando edición y volviendo a la Vista Navegador</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T193433Z">
+        <seg>Terminando edición y volviendo al Modo Navegador</seg>
       </tuv>
     </tu>
     <tu>
