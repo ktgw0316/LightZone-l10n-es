@@ -13608,8 +13608,8 @@
       <tuv lang="EN-US">
         <seg>diving</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165716Z">
-        <seg>Bucear</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202906Z">
+        <seg>Buceo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13864,8 +13864,8 @@
       <tuv lang="EN-US">
         <seg>equestrian</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T165723Z">
-        <seg>Equestre</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202917Z">
+        <seg>Equitación</seg>
       </tuv>
     </tu>
     <tu>
@@ -17488,8 +17488,8 @@
       <tuv lang="EN-US">
         <seg>speedway</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180232Z">
-        <seg>Pista de carreras</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202953Z">
+        <seg>Circuito de carreras</seg>
       </tuv>
     </tu>
     <tu>
@@ -18512,8 +18512,8 @@
       <tuv lang="EN-US">
         <seg>work relations</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T164402Z">
-        <seg>Relaciones de trabajo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202812Z">
+        <seg>Relaciones del trabajo</seg>
       </tuv>
     </tu>
     <tu>
