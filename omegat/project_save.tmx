@@ -2224,8 +2224,8 @@
       <tuv lang="EN-US">
         <seg>Check here to show the Video Learning Center window when LightZone starts.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160209Z">
-        <seg>Marcar aqui para mostrar la ventana del centro de videos de aprendizaje cuando LightZone se abre .</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T210544Z">
+        <seg>Marcar aqui para mostrar la ventana de los videos del centro de aprendizaje cuando LightZone se abre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10128,8 +10128,8 @@
       <tuv lang="EN-US">
         <seg>Show Video Learning Center</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160208Z">
-        <seg>Mostrar centro de videos de aprendizaje</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T210513Z">
+        <seg>Mostrar videos del centro de aprendizaje</seg>
       </tuv>
     </tu>
     <tu>
@@ -10960,8 +10960,8 @@
       <tuv lang="EN-US">
         <seg>This folder can go in the same place as its images ("Local"), or into one central location ("Global").</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162430Z">
-        <seg>Esta carpeta puede estar en el mismo lugar que las imagenes ("Local")o en una localización centralizada ("Global").</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T210614Z">
+        <seg>Esta carpeta puede estar en el mismo lugar que las imagenes ("Local") o en una localización centralizada ("Global").</seg>
       </tuv>
     </tu>
     <tu>
@@ -11200,8 +11200,8 @@
       <tuv lang="EN-US">
         <seg>To save work, the browser saves previews in a special cache folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160218Z">
-        <seg>Para guardar el trabajo,el navegador guardar previos en una carpeta especial de cache.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T210602Z">
+        <seg>Para guardar el trabajo,el navegador guardar previos en una carpeta especial de la cache.</seg>
       </tuv>
     </tu>
     <tu>
