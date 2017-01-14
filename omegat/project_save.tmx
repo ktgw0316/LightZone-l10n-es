@@ -3392,8 +3392,8 @@
       <tuv lang="EN-US">
         <seg>Date created</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211317Z">
-        <seg>Fecha de creacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202102Z">
+        <seg>Fecha de creación</seg>
       </tuv>
     </tu>
     <tu>
@@ -4168,16 +4168,16 @@
       <tuv lang="EN-US">
         <seg>Envelope number</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210740Z">
-        <seg>Numero de sobre</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201947Z">
+        <seg>Numero del sobre</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Envelope priority</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210819Z">
-        <seg>Prioridad sobre</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T201941Z">
+        <seg>Prioridad del sobre</seg>
       </tuv>
     </tu>
     <tu>
@@ -4680,8 +4680,8 @@
       <tuv lang="EN-US">
         <seg>Fixture identifier</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211050Z">
-        <seg>Identificador de dispositivo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202037Z">
+        <seg>Identificador del dispositivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8352,8 +8352,8 @@
       <tuv lang="EN-US">
         <seg>Product ID</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210839Z">
-        <seg>Producto ID</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202001Z">
+        <seg>ID del Producto</seg>
       </tuv>
     </tu>
     <tu>
@@ -9880,8 +9880,8 @@
       <tuv lang="EN-US">
         <seg>Service identifier</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T210906Z">
-        <seg>Identificador de servicio</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202016Z">
+        <seg>Identificador del servicio</seg>
       </tuv>
     </tu>
     <tu>
@@ -11144,8 +11144,8 @@
       <tuv lang="EN-US">
         <seg>Time created</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211326Z">
-        <seg>Hora de creacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202107Z">
+        <seg>Hora de creación</seg>
       </tuv>
     </tu>
     <tu>
