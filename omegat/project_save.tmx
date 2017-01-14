@@ -752,8 +752,8 @@
       <tuv lang="EN-US">
         <seg>AF point used</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194729Z">
-        <seg>Punto de enfoque usado</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194432Z">
+        <seg>Punto de AF usado</seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,8 +1328,8 @@
       <tuv lang="EN-US">
         <seg>Auto-exposure bracketing</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194758Z">
-        <seg>Auto-exposicion de horquillado</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194511Z">
+        <seg>Horquillado de la auto-exposición</seg>
       </tuv>
     </tu>
     <tu>
@@ -1784,8 +1784,8 @@
       <tuv lang="EN-US">
         <seg>Bulb duration</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194942Z">
-        <seg>Duracion a voluntad</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194624Z">
+        <seg>Duracion en modo voluntad</seg>
       </tuv>
     </tu>
     <tu>
