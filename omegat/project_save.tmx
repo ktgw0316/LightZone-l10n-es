@@ -11704,16 +11704,16 @@
       <tuv lang="EN-US">
         <seg>White balance bias</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201931Z">
-        <seg>Sesgo de balance de blanco</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205814Z">
+        <seg>Sesgo del balance de blanco</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>White balance bracket</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201245Z">
-        <seg>Horquillado de balance blanco</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205637Z">
+        <seg>Horquillado del balance blanco</seg>
       </tuv>
     </tu>
     <tu>
@@ -11744,8 +11744,8 @@
       <tuv lang="EN-US">
         <seg>White balance temperature</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T201216Z">
-        <seg>Temperatura de balance de blanco</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205634Z">
+        <seg>Temperatura del balance de blanco</seg>
       </tuv>
     </tu>
     <tu>
@@ -16048,8 +16048,8 @@
       <tuv lang="EN-US">
         <seg>not ready</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200804Z">
-        <seg>No a punto</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205542Z">
+        <seg>No preparada</seg>
       </tuv>
     </tu>
     <tu>
@@ -16696,8 +16696,8 @@
       <tuv lang="EN-US">
         <seg>ready</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200808Z">
-        <seg>A punto</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205549Z">
+        <seg>Preparada</seg>
       </tuv>
     </tu>
     <tu>
