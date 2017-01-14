@@ -10974,6 +10974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is illustrated in the figure below.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T233747Z" creationid="beto" creationdate="20170114T233747Z">
+        <seg>Esto se muestra en la figura de abajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the color of a pixel after a tool's effect has been applied to the photo.</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20151211T204725Z" creationid="beto" creationdate="20151211T204725Z">
@@ -10984,8 +10992,8 @@
       <tuv lang="EN-US">
         <seg>This is the color of a pixel after its base and blend colors have been blended together using a blending mode.</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20170114T233416Z" creationid="beto" creationdate="20170114T233416Z">
-        <seg>TEste es el color de un pixel despues after its base and blend colors have been blended together using a blending mode.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T233723Z" creationid="beto" creationdate="20170114T233416Z">
+        <seg>Este es el color de un píxel después de que su base y los colores de la mezcla se hayan mezclado juntos usando un modo de fusión.</seg>
       </tuv>
     </tu>
     <tu>
