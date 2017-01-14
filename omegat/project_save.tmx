@@ -2128,7 +2128,7 @@
       <tuv lang="EN-US">
         <seg>Caption</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T153042Z">
+      <tuv lang="ES" changeid="beto" changedate="20170114T195202Z">
         <seg>Subtitulo</seg>
       </tuv>
     </tu>
@@ -16680,8 +16680,8 @@
       <tuv lang="EN-US">
         <seg>randomized process</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T162547Z">
-        <seg>Proceso aleatorizado</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T195325Z">
+        <seg>Proceso aleatorio</seg>
       </tuv>
     </tu>
     <tu>
