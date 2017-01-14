@@ -1688,8 +1688,8 @@
       <tuv lang="EN-US">
         <seg>Blur warning</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183202Z">
-        <seg>Aviso desenfoque</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204218Z">
+        <seg>Aviso de desenfoque</seg>
       </tuv>
     </tu>
     <tu>
@@ -4792,8 +4792,8 @@
       <tuv lang="EN-US">
         <seg>Flash strength</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183034Z">
-        <seg>Fuerza de Flash</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204158Z">
+        <seg>Fuerza del Flash</seg>
       </tuv>
     </tu>
     <tu>
@@ -5736,16 +5736,16 @@
       <tuv lang="EN-US">
         <seg>Image height</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200228Z">
-        <seg>Alto de imagen</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204100Z">
+        <seg>Alto de la imagen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Image height as shot</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200321Z">
-        <seg>Alto de imagen como en el disparo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204110Z">
+        <seg>Alto de la imagen como en el disparo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5856,16 +5856,16 @@
       <tuv lang="EN-US">
         <seg>Image width</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194040Z">
-        <seg>Ancho de imagen</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204057Z">
+        <seg>Ancho de la imagen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Image width as shot</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T200301Z">
-        <seg>Ancho de imagen como en el disparo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204107Z">
+        <seg>Ancho de la imagen como en el disparo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7176,8 +7176,8 @@
       <tuv lang="EN-US">
         <seg>Month/day created</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183336Z">
-        <seg>Mes/dia de creacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204245Z">
+        <seg>Mes/dia de creación</seg>
       </tuv>
     </tu>
     <tu>
@@ -11552,8 +11552,8 @@
       <tuv lang="EN-US">
         <seg>Version</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20131206T155439Z">
-        <seg>Version</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204125Z">
+        <seg>Versión</seg>
       </tuv>
     </tu>
     <tu>
