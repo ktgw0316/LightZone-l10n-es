@@ -4768,8 +4768,8 @@
       <tuv lang="EN-US">
         <seg>Flash info</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130522T144957Z">
-        <seg>Informacion de flash</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194211Z">
+        <seg>Informacion del flash</seg>
       </tuv>
     </tu>
     <tu>
@@ -6160,8 +6160,8 @@
       <tuv lang="EN-US">
         <seg>JPEG (lossy/non-quantization)</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20170114T194050Z">
-        <seg>JPEG (con perdida/sin-quantizacion)</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194115Z">
+        <seg>JPEG (con perdida/sin-cuantificacion)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10824,8 +10824,8 @@
       <tuv lang="EN-US">
         <seg>Target distance setting</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T161924Z">
-        <seg>Configuración distancia de destino</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194136Z">
+        <seg>Configuración de la distancia de destino</seg>
       </tuv>
     </tu>
     <tu>
