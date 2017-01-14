@@ -1456,8 +1456,8 @@
       <tuv lang="EN-US">
         <seg>Batch Output Folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192020Z">
-        <seg>Carpeta de lote de salida</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T191500Z">
+        <seg>Carpeta del lote de salida</seg>
       </tuv>
     </tu>
     <tu>
@@ -3920,16 +3920,16 @@
       <tuv lang="EN-US">
         <seg>Drag a rectangle on the image to crop it.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191609Z">
-        <seg>Arrastrar un rectángulo en la imagen para recortarla.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T191257Z">
+        <seg>Arrastra un rectángulo en la imagen para recortarla.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Drag along features in your image to align them.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191550Z">
-        <seg>Arrastrar a lo largo de las características en tu imagen para alinearlas.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T191340Z">
+        <seg>Arrastra a lo largo de las características en tu imagen para alinearlas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7936,8 +7936,8 @@
       <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150617T174122Z">
-        <seg>Elegir una carpeta que contiene algunas imágenes dentro.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T191417Z">
+        <seg>Elige una carpeta que contenga algunas imágenes dentro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11464,8 +11464,8 @@
       <tuv lang="EN-US">
         <seg>Unsupported color profile</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124943Z">
-        <seg>Perfil de color sin soporte</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T191445Z">
+        <seg>Perfil de color no soportado</seg>
       </tuv>
     </tu>
     <tu>
