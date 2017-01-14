@@ -1624,8 +1624,8 @@
       <tuv lang="EN-US">
         <seg>Blend Mode Change</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211551Z">
-        <seg>Cambio de modo de mezcla</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211521Z">
+        <seg>Cambio del modo de mezcla</seg>
       </tuv>
     </tu>
     <tu>
@@ -3760,8 +3760,8 @@
       <tuv lang="EN-US">
         <seg>Disable Color Selection</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T212044Z">
-        <seg>Deshabilitar selección de Color</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211644Z">
+        <seg>Deshabilitar Selección de Color</seg>
       </tuv>
     </tu>
     <tu>
@@ -4040,8 +4040,8 @@
       <tuv lang="EN-US">
         <seg>Edit size</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211324Z">
-        <seg>Tamaño de edicion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211449Z">
+        <seg>Tamaño de edición</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,6 +4234,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124938Z">
         <seg>Error leyendo el archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclusion</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211708Z" creationid="beto" creationdate="20170114T211708Z">
+        <seg>Exclusión</seg>
       </tuv>
     </tu>
     <tu>
@@ -6088,8 +6096,8 @@
       <tuv lang="EN-US">
         <seg>Invert Masks</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T211738Z">
-        <seg>Invert Máscaras</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211533Z">
+        <seg>Invertir Máscaras</seg>
       </tuv>
     </tu>
     <tu>
@@ -8696,8 +8704,8 @@
       <tuv lang="EN-US">
         <seg>Region Mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160916Z">
-        <seg>Modo region</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211416Z">
+        <seg>Modo región</seg>
       </tuv>
     </tu>
     <tu>
@@ -11568,8 +11576,8 @@
       <tuv lang="EN-US">
         <seg>Version size</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130801T164744Z">
-        <seg>Tamaño de version</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211443Z">
+        <seg>Tamaño de versión</seg>
       </tuv>
     </tu>
     <tu>
