@@ -1224,16 +1224,16 @@
       <tuv lang="EN-US">
         <seg>As shot ICC profile-X</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120437Z">
-        <seg>Como se disparó ICC perfil-X</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T200237Z">
+        <seg>Tal como se disparó ICC perfil-X</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>As shot neutral</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115607Z">
-        <seg>Como se disparó neutro</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T200008Z">
+        <seg>Neutro tal como se disparó</seg>
       </tuv>
     </tu>
     <tu>
@@ -1248,8 +1248,8 @@
       <tuv lang="EN-US">
         <seg>As shot white XY</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115623Z">
-        <seg>Como se disparó blanco XY</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T200028Z">
+        <seg>Blanco XY tal como se disparó</seg>
       </tuv>
     </tu>
     <tu>
@@ -1928,16 +1928,16 @@
       <tuv lang="EN-US">
         <seg>Calibration illuminant 1</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120224Z">
-        <seg>Calibracion de iluminante 1</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T200128Z">
+        <seg>Calibracion del iluminante 1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Calibration illuminant 2</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120233Z">
-        <seg>Calibracion de iluminante 2</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T200132Z">
+        <seg>Calibracion del iluminante 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -6392,8 +6392,8 @@
       <tuv lang="EN-US">
         <seg>Lens info</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115856Z">
-        <seg>Informacion de lentes</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T200114Z">
+        <seg>Informacion de la lente</seg>
       </tuv>
     </tu>
     <tu>
@@ -7736,16 +7736,16 @@
       <tuv lang="EN-US">
         <seg>Original raw file data-X</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120355Z">
-        <seg>Nombre de archivo raw data-X</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T200144Z">
+        <seg>Nombre del archivo raw data-X</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Original raw file name</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T120312Z">
-        <seg>Nombre de archivo raw original</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T200140Z">
+        <seg>Nombre del archivo raw original</seg>
       </tuv>
     </tu>
     <tu>
