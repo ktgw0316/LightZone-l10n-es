@@ -3832,8 +3832,8 @@
       <tuv lang="EN-US">
         <seg>Document name</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130521T154806Z">
-        <seg>Nombre de documento</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T195340Z">
+        <seg>Nombre del documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -5192,16 +5192,16 @@
       <tuv lang="EN-US">
         <seg>Gray response curve</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112826Z">
-        <seg>Unidad de respuesta de gris</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T195442Z">
+        <seg>Curva de respuesta del gris</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Gray response unit</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T112600Z">
-        <seg>Unidad de respuesta de gris</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T195419Z">
+        <seg>Unidad de respuesta del gris</seg>
       </tuv>
     </tu>
     <tu>
@@ -5704,8 +5704,8 @@
       <tuv lang="EN-US">
         <seg>Image description</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T194403Z">
-        <seg>Descripción de imagen</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T195346Z">
+        <seg>Descripción de la imagen</seg>
       </tuv>
     </tu>
     <tu>
