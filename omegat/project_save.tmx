@@ -7064,8 +7064,8 @@
       <tuv lang="EN-US">
         <seg>Metering mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195632Z">
-        <seg>Modo de medicion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203935Z">
+        <seg>Modo de medición</seg>
       </tuv>
     </tu>
     <tu>
@@ -8136,16 +8136,16 @@
       <tuv lang="EN-US">
         <seg>Preview image X resolution</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182357Z">
-        <seg>Ver resolucion imagen X</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203729Z">
+        <seg>Ver resolucion de la imagen X</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Preview image Y resolution</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182404Z">
-        <seg>Ver resolucion imagen Y</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203735Z">
+        <seg>Ver resolucion de la imagen Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -8160,8 +8160,8 @@
       <tuv lang="EN-US">
         <seg>Preview image height</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182256Z">
-        <seg>Ver imagen altura</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203701Z">
+        <seg>Ver altura de la imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -8176,8 +8176,8 @@
       <tuv lang="EN-US">
         <seg>Preview image length</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182149Z">
-        <seg>Ver imagen largo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203644Z">
+        <seg>Ver largo de la imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -8200,8 +8200,8 @@
       <tuv lang="EN-US">
         <seg>Preview image offset-X</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182321Z">
-        <seg>Ver imagen desplazamiento-X</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203716Z">
+        <seg>Ver desplazamiento-X de la imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -8240,8 +8240,8 @@
       <tuv lang="EN-US">
         <seg>Preview image width</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182210Z">
-        <seg>Ver imagen ancho</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203652Z">
+        <seg>Ver ancho de la imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -15632,8 +15632,8 @@
       <tuv lang="EN-US">
         <seg>medium movie</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164241Z">
-        <seg>Pelicula media</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203916Z">
+        <seg>Pelicula mediana</seg>
       </tuv>
     </tu>
     <tu>
@@ -16760,8 +16760,8 @@
       <tuv lang="EN-US">
         <seg>red-eye reduction</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164201Z">
-        <seg>Reducción ojos rojos</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203751Z">
+        <seg>Reducción de ojos rojos</seg>
       </tuv>
     </tu>
     <tu>
@@ -17064,8 +17064,8 @@
       <tuv lang="EN-US">
         <seg>see EXIF ISO</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182600Z">
-        <seg>ver EXIF ISO</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203931Z">
+        <seg>ver ISO EXIF</seg>
       </tuv>
     </tu>
     <tu>
@@ -17352,8 +17352,8 @@
       <tuv lang="EN-US">
         <seg>small movie</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130731T164243Z">
-        <seg>Pelicula corta</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203846Z">
+        <seg>Pelicula pequeña</seg>
       </tuv>
     </tu>
     <tu>
@@ -18488,8 +18488,8 @@
       <tuv lang="EN-US">
         <seg>widescreen</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182511Z">
-        <seg>Pantalla ancha</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203909Z">
+        <seg>Pantalla panoramica</seg>
       </tuv>
     </tu>
     <tu>
