@@ -2144,8 +2144,8 @@
       <tuv lang="EN-US">
         <seg>Capture date</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184358Z">
-        <seg>Fecha de captura</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204600Z">
+        <seg>Fecha de la captura</seg>
       </tuv>
     </tu>
     <tu>
@@ -2160,8 +2160,8 @@
       <tuv lang="EN-US">
         <seg>Capture time</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184416Z">
-        <seg>Hora de captura</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204603Z">
+        <seg>Hora de la captura</seg>
       </tuv>
     </tu>
     <tu>
@@ -2640,8 +2640,8 @@
       <tuv lang="EN-US">
         <seg>Color mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T183632Z">
-        <seg>Modo de color</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204757Z">
+        <seg>Modo del color</seg>
       </tuv>
     </tu>
     <tu>
@@ -4560,8 +4560,8 @@
       <tuv lang="EN-US">
         <seg>File number memory</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184446Z">
-        <seg>Memoria de número del archivo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204655Z">
+        <seg>Memoria del número de archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6312,8 +6312,8 @@
       <tuv lang="EN-US">
         <seg>Last file number</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184449Z">
-        <seg>Último número de archivo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204701Z">
+        <seg>Último número del archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7008,8 +7008,8 @@
       <tuv lang="EN-US">
         <seg>Maximum aperture</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184432Z">
-        <seg>Abertura maxima</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204645Z">
+        <seg>Apertura máxima</seg>
       </tuv>
     </tu>
     <tu>
@@ -13424,8 +13424,8 @@
       <tuv lang="EN-US">
         <seg>data form</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184654Z">
-        <seg>Forma de dato</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204803Z">
+        <seg>Forma del dato</seg>
       </tuv>
     </tu>
     <tu>
