@@ -1312,8 +1312,8 @@
       <tuv lang="EN-US">
         <seg>Auto exposure-lock buttons</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T180717Z">
-        <seg>Bloque de botones de autoexposicion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203122Z">
+        <seg>Bloqueo de botones de autoexposicion</seg>
       </tuv>
     </tu>
     <tu>
@@ -4600,8 +4600,8 @@
       <tuv lang="EN-US">
         <seg>Fill-flash auto-reduction</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181337Z">
-        <seg>Reducion automatica de relleno de flash</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203203Z">
+        <seg>Reducion automatica del relleno de flash</seg>
       </tuv>
     </tu>
     <tu>
@@ -4632,8 +4632,8 @@
       <tuv lang="EN-US">
         <seg>Firmware version</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184959Z">
-        <seg>Version Firmware</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203034Z">
+        <seg>Version del Firmware</seg>
       </tuv>
     </tu>
     <tu>
@@ -6424,8 +6424,8 @@
       <tuv lang="EN-US">
         <seg>Lens type</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T195842Z">
-        <seg>Tipo de lentes</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203101Z">
+        <seg>Tipo de lente</seg>
       </tuv>
     </tu>
     <tu>
@@ -15352,8 +15352,8 @@
       <tuv lang="EN-US">
         <seg>lock AE, start timer</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181317Z">
-        <seg>Bloqueo AE, inicio de temporizador</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203156Z">
+        <seg>Bloqueo AE, inicio del temporizador</seg>
       </tuv>
     </tu>
     <tu>
