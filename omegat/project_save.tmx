@@ -3456,16 +3456,16 @@
       <tuv lang="EN-US">
         <seg>Default crop origin</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115325Z">
-        <seg>Origen por defecto de recorte</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T195859Z">
+        <seg>Origen del recorte por defecto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Default crop size</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T115348Z">
-        <seg>Tamaño de recorte por defecto</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T195905Z">
+        <seg>Tamaño del recorte por defecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5248,8 +5248,8 @@
       <tuv lang="EN-US">
         <seg>Halftone hints</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113122Z">
-        <seg>Consejos de semitonos</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T195647Z">
+        <seg>Consejos para semitonos</seg>
       </tuv>
     </tu>
     <tu>
@@ -11096,8 +11096,8 @@
       <tuv lang="EN-US">
         <seg>Tile byte counts-X</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130609T113547Z">
-        <seg>Mosaico de bytes counts-X</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T195715Z">
+        <seg>Mosaico de byte counts-X</seg>
       </tuv>
     </tu>
     <tu>
