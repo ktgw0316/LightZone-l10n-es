@@ -12824,8 +12824,8 @@
       <tuv lang="EN-US">
         <seg>building materials</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163319Z">
-        <seg>Materiales de construccion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202659Z">
+        <seg>Materiales de construcción</seg>
       </tuv>
     </tu>
     <tu>
@@ -14560,16 +14560,16 @@
       <tuv lang="EN-US">
         <seg>government aid</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162748Z">
-        <seg>Ayuda de gobierno</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202616Z">
+        <seg>Ayuda del gobierno</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>government debt</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162750Z">
-        <seg>Deuda de gobierno</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202619Z">
+        <seg>Deuda del gobierno</seg>
       </tuv>
     </tu>
     <tu>
@@ -16064,8 +16064,8 @@
       <tuv lang="EN-US">
         <seg>nuclear power</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T162215Z">
-        <seg>Poder nuclear</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202532Z">
+        <seg>Energia nuclear</seg>
       </tuv>
     </tu>
     <tu>
@@ -17168,8 +17168,8 @@
       <tuv lang="EN-US">
         <seg>shipbuilding</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163236Z">
-        <seg>Construccion naval</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202655Z">
+        <seg>Construcción naval</seg>
       </tuv>
     </tu>
     <tu>
@@ -17816,8 +17816,8 @@
       <tuv lang="EN-US">
         <seg>television</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T163009Z">
-        <seg>Television</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T202640Z">
+        <seg>Televisión</seg>
       </tuv>
     </tu>
     <tu>
