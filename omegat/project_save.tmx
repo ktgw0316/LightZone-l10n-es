@@ -10982,10 +10982,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the color of a pixel after its base and blend colors have been blended together using a blending mode.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T233416Z" creationid="beto" creationdate="20170114T233416Z">
+        <seg>TEste es el color de un pixel despues after its base and blend colors have been blended together using a blending mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the color of a pixel before a tool's effect has been applied to the photo.</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20151211T204511Z" creationid="beto" creationdate="20151211T204511Z">
-        <seg>Este es el color de un pixel antes de que una heramienta de efectos se haya aplicado a la foto.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T233432Z" creationid="beto" creationdate="20151211T204511Z">
+        <seg>Este es el color de un pixel antes de que una herramienta de efectos se haya aplicado a la foto.</seg>
       </tuv>
     </tu>
     <tu>
