@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Opposite of Color Dodge.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235250Z" creationid="beto" creationdate="20170114T235250Z">
+        <seg>(Opuesto a sobreexponer color.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The previews will be recomputed automatically.</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163712Z">
@@ -9586,6 +9594,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T204610Z">
         <seg>Seguridad clasificacion-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also: Soft Burn.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235352Z" creationid="beto" creationdate="20170114T235352Z">
+        <seg>Ver tambien: Subexponer suave.)</seg>
       </tuv>
     </tu>
     <tu>
