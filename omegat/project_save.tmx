@@ -1344,8 +1344,8 @@
       <tuv lang="EN-US">
         <seg>Auto-exposure lock</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200607Z">
-        <seg>Bloqueo auto-exposicion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205517Z">
+        <seg>Bloqueo auto-exposición</seg>
       </tuv>
     </tu>
     <tu>
@@ -2008,8 +2008,8 @@
       <tuv lang="EN-US">
         <seg>Camera settings version-X</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200501Z">
-        <seg>Opciones de camara version-X</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205501Z">
+        <seg>Opciones de cámara version-X</seg>
       </tuv>
     </tu>
     <tu>
@@ -4424,8 +4424,8 @@
       <tuv lang="EN-US">
         <seg>External flash mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T195904Z">
-        <seg>Modo  de flash externo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205404Z">
+        <seg>Modo de flash externo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4752,8 +4752,8 @@
       <tuv lang="EN-US">
         <seg>Flash exposure compensation</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184603Z">
-        <seg>Compensacion de exposivion de flash</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205356Z">
+        <seg>Compensación de exposición del flash</seg>
       </tuv>
     </tu>
     <tu>
@@ -6472,8 +6472,8 @@
       <tuv lang="EN-US">
         <seg>Light condition</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T161217Z">
-        <seg>Condición de la luz</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205315Z">
+        <seg>Condición de luz</seg>
       </tuv>
     </tu>
     <tu>
@@ -8232,8 +8232,8 @@
       <tuv lang="EN-US">
         <seg>Preview image valid</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T200104Z">
-        <seg>Vista previa valida</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205417Z">
+        <seg>Vista previa válida</seg>
       </tuv>
     </tu>
     <tu>
