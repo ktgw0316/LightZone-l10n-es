@@ -350,10 +350,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Opposite of Color Burn.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235612Z" creationid="beto" creationdate="20170114T235543Z">
+        <seg>(Opuesto a Subexponer Color.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Color Dodge.</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170114T235250Z" creationid="beto" creationdate="20170114T235250Z">
         <seg>(Opuesto a sobreexponer color.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Opposite of Lighten.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235658Z" creationid="beto" creationdate="20170114T235658Z">
+        <seg>(Opuesto a Aclarar.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,6 +1722,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184332Z">
         <seg>Paso de horquillado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brightens the base color to reflect the blend color by decreasing contrast.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235521Z" creationid="beto" creationdate="20170114T235521Z">
+        <seg>Aclarar el color base para reflejar el color de la mezcla disminuyendo el contraste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10954,6 +10978,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120310Z">
         <seg>La cantidad de memoria que LightZone deberia usar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result color is either the base or blend color, whichever is darker.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235638Z" creationid="beto" creationdate="20170114T235638Z">
+        <seg>El color resultante es el color base o de mezcla, el que sea más oscuro.</seg>
       </tuv>
     </tu>
     <tu>
