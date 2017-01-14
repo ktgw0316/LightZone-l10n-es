@@ -1120,8 +1120,8 @@
       <tuv lang="EN-US">
         <seg>Application Managed Colors</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161304Z">
-        <seg>Colores gestionados por la aplicacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211845Z">
+        <seg>Colores gestionados por la aplicación</seg>
       </tuv>
     </tu>
     <tu>
@@ -2456,8 +2456,8 @@
       <tuv lang="EN-US">
         <seg>Color Handling</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161307Z">
-        <seg>Administracion de color</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211854Z">
+        <seg>Administración de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -2472,8 +2472,8 @@
       <tuv lang="EN-US">
         <seg>Color Management</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161306Z">
-        <seg>Gestion de color</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211850Z">
+        <seg>Gestión de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -3520,8 +3520,8 @@
       <tuv lang="EN-US">
         <seg>Delete Region</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162831Z">
-        <seg>Borrar Region</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211916Z">
+        <seg>Borrar Región</seg>
       </tuv>
     </tu>
     <tu>
@@ -5352,8 +5352,8 @@
       <tuv lang="EN-US">
         <seg>Hide Regions</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T123854Z">
-        <seg>Ocultar regiones</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211934Z">
+        <seg>Ocultar Regiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -8096,8 +8096,8 @@
       <tuv lang="EN-US">
         <seg>Position</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161308Z">
-        <seg>Posicion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211858Z">
+        <seg>Posición</seg>
       </tuv>
     </tu>
     <tu>
@@ -8696,8 +8696,8 @@
       <tuv lang="EN-US">
         <seg>Region Change</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162943Z">
-        <seg>Cambiar region</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211925Z">
+        <seg>Cambiar Región</seg>
       </tuv>
     </tu>
     <tu>
@@ -8960,8 +8960,8 @@
       <tuv lang="EN-US">
         <seg>Reset the rotation angle</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163508Z">
-        <seg>Reiniciar el angulo de rotacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211944Z">
+        <seg>Reiniciar el angulo de rotación</seg>
       </tuv>
     </tu>
     <tu>
@@ -9464,8 +9464,8 @@
       <tuv lang="EN-US">
         <seg>Scaled Print Size</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130427T161402Z">
-        <seg>Escalar tamaño de impresion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211903Z">
+        <seg>Escalar tamaño de impresión</seg>
       </tuv>
     </tu>
     <tu>
@@ -10112,8 +10112,8 @@
       <tuv lang="EN-US">
         <seg>Show Regions</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120448Z">
-        <seg>Mostrar regiones</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211930Z">
+        <seg>Mostrar Regiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -10392,16 +10392,16 @@
       <tuv lang="EN-US">
         <seg>Soft Burn</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T164840Z" creationid="beto" creationdate="20150619T164840Z">
-        <seg>Subexposicion suave</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211726Z" creationid="beto" creationdate="20150619T164840Z">
+        <seg>Subexposición suave</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Soft Dodge</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20150619T164825Z" creationid="beto" creationdate="20150619T164825Z">
-        <seg>Sobreexposiocn suave</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211719Z" creationid="beto" creationdate="20150619T164825Z">
+        <seg>Sobreexposición suave</seg>
       </tuv>
     </tu>
     <tu>
@@ -12056,8 +12056,8 @@
       <tuv lang="EN-US">
         <seg>Zone Placement</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T213554Z">
-        <seg>Colocacion de Zona</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T211837Z">
+        <seg>Colocación de Zona</seg>
       </tuv>
     </tu>
     <tu>
