@@ -904,8 +904,8 @@
       <tuv lang="EN-US">
         <seg>ActiveD-Lighting</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T185528Z">
-        <seg>ActivoD-Iluminacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204955Z">
+        <seg>ActivoD-Iluminación</seg>
       </tuv>
     </tu>
     <tu>
@@ -2640,8 +2640,8 @@
       <tuv lang="EN-US">
         <seg>Color mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20170114T204757Z">
-        <seg>Modo del color</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204917Z">
+        <seg>Modo de color</seg>
       </tuv>
     </tu>
     <tu>
@@ -4928,8 +4928,8 @@
       <tuv lang="EN-US">
         <seg>Focus distance</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T184354Z">
-        <seg>Distancia de foco</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205148Z">
+        <seg>Distancia del foco</seg>
       </tuv>
     </tu>
     <tu>
@@ -6408,8 +6408,8 @@
       <tuv lang="EN-US">
         <seg>Lens model</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T194309Z">
-        <seg>Modelo de lentes</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205121Z">
+        <seg>Modelo de lente</seg>
       </tuv>
     </tu>
     <tu>
@@ -11720,8 +11720,8 @@
       <tuv lang="EN-US">
         <seg>White balance fine tune</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T185053Z">
-        <seg>Ajuste fino de balance de blanco</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T204932Z">
+        <seg>Ajuste fino del balance de blanco</seg>
       </tuv>
     </tu>
     <tu>
@@ -18464,8 +18464,8 @@
       <tuv lang="EN-US">
         <seg>white-balance bracketing</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T193454Z">
-        <seg>Balance de blancos de horquillado</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T205044Z">
+        <seg>Balance de blancos del horquillado</seg>
       </tuv>
     </tu>
     <tu>
