@@ -4208,8 +4208,8 @@
       <tuv lang="EN-US">
         <seg>Error Details</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120244Z">
-        <seg>Detalles de Error</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T192655Z">
+        <seg>Detalles del error</seg>
       </tuv>
     </tu>
     <tu>
@@ -6656,8 +6656,8 @@
       <tuv lang="EN-US">
         <seg>LightZone has encountered an internal error.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120225Z">
-        <seg>LightZone ha encontrado un error interno.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T192636Z">
+        <seg>LightZone ha sufrido un error interno.</seg>
       </tuv>
     </tu>
     <tu>
