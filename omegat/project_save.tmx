@@ -1384,8 +1384,8 @@
       <tuv lang="EN-US">
         <seg>Auto-save is now on.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120211Z">
-        <seg>Auto guardado esta ahora activado.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T192508Z">
+        <seg>El auto guardado esta ahora activado.</seg>
       </tuv>
     </tu>
     <tu>
