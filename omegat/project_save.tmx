@@ -7048,8 +7048,8 @@
       <tuv lang="EN-US">
         <seg>Menu button return position</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181439Z">
-        <seg>Posicion de retorno del boton de menu</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203442Z">
+        <seg>Posicion de retorno del boton del menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8168,8 +8168,8 @@
       <tuv lang="EN-US">
         <seg>Preview image info</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T182135Z">
-        <seg>Ver imagen info</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203634Z">
+        <seg>Ver info de la imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9768,8 +9768,8 @@
       <tuv lang="EN-US">
         <seg>Sensor cleaning</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130616T181634Z">
-        <seg>Limpieza de sensor</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T203455Z">
+        <seg>Limpieza del sensor</seg>
       </tuv>
     </tu>
     <tu>
