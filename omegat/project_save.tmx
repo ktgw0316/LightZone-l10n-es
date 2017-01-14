@@ -6160,16 +6160,16 @@
       <tuv lang="EN-US">
         <seg>JPEG (lossy/non-quantization)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193852Z">
-        <seg>JPEG (lcon perdida/sin-quantizacion)</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194050Z">
+        <seg>JPEG (con perdida/sin-quantizacion)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>JPEG (non-quantization)</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193836Z">
-        <seg>JPEG (sin-quantizacion)</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194100Z">
+        <seg>JPEG (sin-cuantificacion)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7712,8 +7712,8 @@
       <tuv lang="EN-US">
         <seg>Original file name</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193047Z">
-        <seg>Nombre de archivo original</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T193912Z">
+        <seg>Nombre del archivo original</seg>
       </tuv>
     </tu>
     <tu>
@@ -7960,8 +7960,8 @@
       <tuv lang="EN-US">
         <seg>Picture info</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193725Z">
-        <seg>Informacion de imagen</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194015Z">
+        <seg>Informacion de la imagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -8752,8 +8752,8 @@
       <tuv lang="EN-US">
         <seg>Release setting</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130905T171508Z">
-        <seg>Alterar configuacion</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T193945Z">
+        <seg>Modificar configuacion</seg>
       </tuv>
     </tu>
     <tu>
@@ -10016,8 +10016,8 @@
       <tuv lang="EN-US">
         <seg>Shot info</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193604Z">
-        <seg>Informacion de disparo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T194004Z">
+        <seg>Informacion del disparo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11064,8 +11064,8 @@
       <tuv lang="EN-US">
         <seg>Thumbnail file name</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T193108Z">
-        <seg>Nombre de la miniatura de archivo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T193920Z">
+        <seg>Nombre de la miniatura del archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11512,8 +11512,8 @@
       <tuv lang="EN-US">
         <seg>User comment</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T192941Z">
-        <seg>Comentario de usuario</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T193859Z">
+        <seg>Comentario del usuario</seg>
       </tuv>
     </tu>
     <tu>
