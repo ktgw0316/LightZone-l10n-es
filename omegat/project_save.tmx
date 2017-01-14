@@ -5960,8 +5960,8 @@
       <tuv lang="EN-US">
         <seg>Insufficient memory to open this file</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130407T115950Z">
-        <seg>Insuficiente memoria para abrir el archivo</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T192013Z">
+        <seg>Insuficiente memoria para abrir este archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11456,8 +11456,8 @@
       <tuv lang="EN-US">
         <seg>Unsupported camera</seg>
       </tuv>
-      <tuv lang="ES" changeid="ktgw0316" changedate="20130404T124940Z">
-        <seg>Camara sin soporte</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170114T192025Z">
+        <seg>Camara no soportada</seg>
       </tuv>
     </tu>
     <tu>
