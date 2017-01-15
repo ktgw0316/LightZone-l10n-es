@@ -5726,6 +5726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the blend color is lighter, the image is lightened as if it were dodged; if the blend color is darker, the image is darkened as if it were burned in.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T003428Z" creationid="beto" creationdate="20170115T003339Z">
+        <seg>Si el color de la mezcla es más claro, la imagen se aclara como si fuera sobreexpuesta; Si el color de la mezcla es más oscuro, la imagen se oscurece como si estuviera subexpuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185544Z">
@@ -11062,6 +11070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The base colors are darkened slightly with very bright blend colors dodged in.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T003215Z" creationid="beto" creationdate="20170115T003156Z">
+        <seg>Los colores de base se oscurecen ligeramente con colores de mezcla muy claros sobreexpuestos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effect is similar to drawing on the image with multiple marking pens.</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170115T001111Z" creationid="beto" creationdate="20170115T001111Z">
@@ -11074,6 +11090,14 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170115T002636Z" creationid="beto" creationdate="20170115T002636Z">
         <seg>El efecto es similar a proyectar múltiples diapositivas fotográficas en la misma pantalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effect is similar to shining a diffused spotlight on the image.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T003345Z" creationid="beto" creationdate="20170115T003319Z">
+        <seg>El efecto es similar a aclarar con un foco difuso en la imagen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11146,6 +11170,14 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170115T002719Z" creationid="beto" creationdate="20170115T002719Z">
         <seg>Este modo de fusión sólo hace que las sombras se vean afectadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode darkens or lightens the colors depending on the blend color.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T003238Z" creationid="beto" creationdate="20170115T003238Z">
+        <seg>Este modo de mezcla oscurece o aclara los colores dependiendo del color de la mezcla.</seg>
       </tuv>
     </tu>
     <tu>
