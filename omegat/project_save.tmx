@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See also: Screen.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T001129Z" creationid="beto" creationdate="20170115T001129Z">
+        <seg>(ver también: Trama.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The previews will be recomputed automatically.</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163712Z">
@@ -11026,6 +11034,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130407T120310Z">
         <seg>La cantidad de memoria que LightZone deberia usar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effect is similar to drawing on the image with multiple marking pens.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T001111Z" creationid="beto" creationdate="20170115T001111Z">
+        <seg>El efecto es similar a dibujar en la imagen con múltiples rotuladores.</seg>
       </tuv>
     </tu>
     <tu>
