@@ -7374,6 +7374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiplies or screens the colors depending on the base color.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T001410Z" creationid="beto" creationdate="20170115T001410Z">
+        <seg>Multiplica o trama los colores según el color base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiply</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20150619T164456Z" creationid="beto" creationdate="20150619T164456Z">
@@ -7978,6 +7986,14 @@
       </tuv>
       <tuv lang="ES" changeid="ktgw0316" changedate="20130427T160342Z">
         <seg>Pegar Herramientas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patterns or colors overlay existing pixels while preserving the highlights and shadows of the base color.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T001443Z" creationid="beto" creationdate="20170115T001443Z">
+        <seg>Los patrones o los colores superponen los píxeles existentes mientras se conservan los reflejos y las sombras del color base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11038,6 +11054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The base color is not replaced, but is mixed with the blend color to reflect the relative lightness or darkness of the original color.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T001548Z" creationid="beto" creationdate="20170115T001548Z">
+        <seg>El color base no se sustituye, sino que se mezcla con el color de la mezcla para reflejar la luminosidad u oscuridad relativa del color original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effect is similar to drawing on the image with multiple marking pens.</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170115T001111Z" creationid="beto" creationdate="20170115T001111Z">
@@ -11106,6 +11130,14 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170114T234909Z" creationid="beto" creationdate="20170114T234909Z">
         <seg>Este modo de mezcla no tiene efecto; por lo tanto la mezcla y los colores resultantes son los mismos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode is similar to the Exclusion blending mode except that it shows brighter and more vibrant colors.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T001333Z" creationid="beto" creationdate="20170115T001333Z">
+        <seg>Este modo de fusión es similar al modo de fusión Exclusión excepto que muestra colores más claros y vibrantes.</seg>
       </tuv>
     </tu>
     <tu>
