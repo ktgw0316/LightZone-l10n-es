@@ -5702,6 +5702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the blend color is lighter than 50% gray, the color is lightened (screened); if the blend color is darker than 50% gray, the color is darkened (multiplied).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T000310Z" creationid="beto" creationdate="20170115T000310Z">
+        <seg>Si el color de la mezcla es más claro que el 50% de gris, el color es aclarado (tramado); Si el color de la mezcla es más oscuro que el 50% de gris, el color se oscurece (multiplicado).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130905T185544Z">
@@ -11146,6 +11154,14 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170114T234952Z" creationid="beto" creationdate="20170114T234952Z">
         <seg>Este es el mismo que el modo de mezcla Normal pero al 50% de opacidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is useful for adding highlights or shadows to an image.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T000343Z" creationid="beto" creationdate="20170115T000343Z">
+        <seg>Esto es útil para agregar altas luces o sombras a una imagen.</seg>
       </tuv>
     </tu>
     <tu>
