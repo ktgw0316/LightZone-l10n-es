@@ -11070,10 +11070,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effect is similar to projecting multiple photographic slides onto the same screen.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T002636Z" creationid="beto" creationdate="20170115T002636Z">
+        <seg>El efecto es similar a proyectar múltiples diapositivas fotográficas en la misma pantalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result color is always darker.</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170115T000658Z" creationid="beto" creationdate="20170115T000658Z">
         <seg>El color resultante es siempre mas oscuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result color is always lighter.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T002606Z" creationid="beto" creationdate="20170115T002606Z">
+        <seg>El color resultante es siempre mas claro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11126,6 +11142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This blending mode causes only the shadows to be affected.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T002719Z" creationid="beto" creationdate="20170115T002719Z">
+        <seg>Este modo de fusión sólo hace que las sombras se vean afectadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This blending mode has no effect; therefore, the blend and result colors are the same.</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170114T234909Z" creationid="beto" creationdate="20170114T234909Z">
@@ -11138,6 +11162,14 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170115T001333Z" creationid="beto" creationdate="20170115T001333Z">
         <seg>Este modo de fusión es similar al modo de fusión Exclusión excepto que muestra colores más claros y vibrantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode is similar to the Multiply blending mode except that it multiplies the inverse of the blend and base colors.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T002543Z" creationid="beto" creationdate="20170115T002543Z">
+        <seg>Este modo de fusión es similar al modo de fusión Multiplicar, excepto que multiplica la inversa de los colores de mezcla y base.</seg>
       </tuv>
     </tu>
     <tu>
