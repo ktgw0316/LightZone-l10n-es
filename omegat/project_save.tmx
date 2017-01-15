@@ -374,6 +374,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See also: Exclusion.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235815Z" creationid="beto" creationdate="20170114T235815Z">
+        <seg>(Ver también: Exclusion.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(See also: Negation.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235905Z" creationid="beto" creationdate="20170114T235905Z">
+        <seg>(Ver también: Negación.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The previews will be recomputed automatically.</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T163712Z">
@@ -3146,6 +3162,14 @@
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130427T162105Z">
         <seg>Los informes de caida enviados a Light Crafts son anonimos excepto la dirección IP del que lo envia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates an effect similar to, but lower in contrast than, the Difference blending mode.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235849Z" creationid="beto" creationdate="20170114T235849Z">
+        <seg>Crea un efecto similar, pero más bajo en contraste que, el modo de mezcla de Diferencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10814,6 +10838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subtracts either the blend color from the base color or the base color from the blend color depending on whichever is brighter.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235800Z" creationid="beto" creationdate="20170114T235800Z">
+        <seg>Resta el color de la mezcla del color base o el color base del color de la mezcla dependiendo de cuál sea más claro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supplemental categories</seg>
       </tuv>
       <tuv lang="ES" changeid="RobertoQ" changedate="20130610T211008Z">
@@ -11026,6 +11058,14 @@
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170114T234909Z" creationid="beto" creationdate="20170114T234909Z">
         <seg>Este modo de mezcla no tiene efecto; por lo tanto la mezcla y los colores resultantes son los mismos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode multiplies or screens the colors, depending on the blend color.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170114T235943Z" creationid="beto" creationdate="20170114T235943Z">
+        <seg>Este modo de fusión multiplica o mide los colores, dependiendo del color de la mezcla.</seg>
       </tuv>
     </tu>
     <tu>
