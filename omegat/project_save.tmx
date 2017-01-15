@@ -11158,6 +11158,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This blending mode is a combination of both the Color Dodge and inverse Color Burn modes, but much smoother than either.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T003036Z" creationid="beto" creationdate="20170115T003036Z">
+        <seg>Este modo de mezcla es una combinación de los modos Sobreexponer Color y Color inverso, pero mucho más suave que cualquiera de ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode is similar to the Color Burn blending mode except that the effect results in less saturation and contrast.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="beto" changedate="20170115T002950Z" creationid="beto" creationdate="20170115T002950Z">
+        <seg>Este modo de fusión es similar al modo de fusión Subexponer Color, excepto que el efecto produce menos saturación y contraste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This blending mode is similar to the Exclusion blending mode except that it shows brighter and more vibrant colors.</seg>
       </tuv>
       <tuv lang="ES" changeid="beto" changedate="20170115T001333Z" creationid="beto" creationdate="20170115T001333Z">
