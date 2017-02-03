@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7632,8 +7632,8 @@
       <tuv lang="EN-US">
         <seg>Not enough memory</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191846Z">
-        <seg>No hay suficiente memoria</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170203T212838Z">
+        <seg>No hay memoria suficiente</seg>
       </tuv>
     </tu>
     <tu>
