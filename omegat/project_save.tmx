@@ -3984,8 +3984,8 @@
       <tuv lang="EN-US">
         <seg>Double-click to finish your region (or shift-click, or press ESC).</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20170114T191207Z">
-        <seg>Doble-click para finalizar tu región (o Mayus-clic, o presionar ESC).</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170204T215348Z">
+        <seg>Doble-click para terminar la región creada (o Mayus-clic, o presionar ESC).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4008,8 +4008,8 @@
       <tuv lang="EN-US">
         <seg>Drag along features in your image to align them.</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20170114T191340Z">
-        <seg>Arrastra a lo largo de las características en tu imagen para alinearlas.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170204T215529Z">
+        <seg>Arrastra las características en tu imagen para alinearlas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7352,8 +7352,8 @@
       <tuv lang="EN-US">
         <seg>Move the sliders in the Rotate Tool to rotate your image.</seg>
       </tuv>
-      <tuv lang="ES" changeid="RobertoQ" changedate="20130429T191354Z">
-        <seg>Mover los deslizadores en la Herramienta Rotar para rotar la imagen.</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170204T215421Z">
+        <seg>Mueve los deslizadores en la Herramienta Rotar para rotar tu imagen.</seg>
       </tuv>
     </tu>
     <tu>
