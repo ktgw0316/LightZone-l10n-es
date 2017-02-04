@@ -3040,8 +3040,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't find the original image</seg>
       </tuv>
-      <tuv lang="ES" changeid="beto" changedate="20170114T191916Z">
-        <seg>No se puede encontrar el archivo de la imagen original</seg>
+      <tuv lang="ES" changeid="beto" changedate="20170204T215648Z">
+        <seg>No se puede encontrar la imagen original</seg>
       </tuv>
     </tu>
     <tu>
