@@ -1,1 +1,4 @@
+.git/
+.repositories/
+target/
 omegat/*.bak
